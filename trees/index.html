@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Providing Insight into Machine Learning through Visualization</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 18pt;
+    }
+
+    .main {
+      width: 800px;
+      margin: 30px auto 0 auto;
+    }
+
+    path {
+      fill: none;
+    }
+
+    path.tree-path {
+      stroke: none;
+    }
+
+    path.tree-link {
+      stroke: gray;
+      stroke-width: 1px;
+    }
+
+    rect.classifier-base {
+      height: 1px;
+      fill: #aaaaaa;
+      width: 100%;
+    }
+
+    rect.leaf {
+      width: 2px;
+      height: 14px;
+      stroke: 2px;
+    }
+
+    text.accuracy-label {
+      font-size: 12px;
+      text-anchor: middle;
+    }
+
+    text.accuracy-value {
+      font-size: 18px;
+      text-anchor: middle;
+    }
+
+    .classifier-fraction {
+      font-size: 16px;
+    }
+
+    .target {
+      stroke: #ff8c00;
+      fill: #ff8c00;
+    }
+
+    .nontarget {
+      stroke: #98abc5;
+      fill: #98abc5;
+    }
+
+    .correct {}
+
+    .incorrect {
+      fill: none;
+      stroke-width: 1px;
+    }
+
+    path.sample-path {
+      fill: none;
+      visibility: hidden;
+    }
+
+    circle.sample:hover+path.sample-path {
+      stroke-width: 2px;
+      visibility: visible;
+    }
+
+    div#buttons {
+      margin-left: 20px;
+    }
+
+    button {
+      padding: 10px 10px;
+      font-size: 12px;
+      margin: 0 5px;
+      border-radius: 8px;
+      background-color: transparent;
+      border: 1px solid #bbb;
+    }
+
+    .inv {
+        display: none;
+    }
+  </style>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+  <select id="tree_list">
+      <option value="">Select...</option>
+      <option value="class_0_593_70">class_0_593_70</option>
+      <option value="class_4_753_0">class_4_753_0</option>
+      <option value="class_9_599_0">class_9_599_0</option>
+      <option value="class_24_596_54">class_24_596_54</option>
+      <option value="class_31_780_6">class_31_780_6</option>
+      <option value="class_32_486">class_32_486</option>
+      <option value="class_36_788_30">class_36_788_30</option>
+      <option value="class_41_591">class_41_591</option>
+  </select>
+
+  <div id="class_0_593_70" class="main inv"></div>
+  <div id="class_4_753_0" class="main inv"></div>
+  <div id="class_9_599_0" class="main inv"></div>
+  <div id="class_24_596_54" class="main inv"></div>
+  <div id="class_31_780_6" class="main inv"></div>
+  <div id="class_32_486" class="main inv"></div>
+  <div id="class_36_788_30" class="main inv"></div>
+  <div id="class_41_591" class="main inv"></div>
+
+  <script>
+      document
+          .getElementById('tree_list')
+          .addEventListener('change', function () {
+              'use strict';
+              var vis = document.querySelector('.vis'),
+                target = document.getElementById(this.value);
+              if (vis !== null) {
+                vis.classList.remove('vis')
+                vis.classList.add('inv');
+              }
+              if (target !== null ) {
+                target.classList.remove('inv');
+                target.classList.add('vis');
+              }
+      });
+  </script>
+  <script src="class_0_593_70.js"></script>
+  <script src="class_4_753_0.js"></script>
+  <script src="class_9_599_0.js"></script>
+  <script src="class_24_596_54.js"></script>
+  <script src="class_31_780_6.js"></script>
+  <script src="class_32_486.js"></script>
+  <script src="class_36_788_30.js"></script>
+  <script src="class_41_591.js"></script>
+</body>
+
+</html>

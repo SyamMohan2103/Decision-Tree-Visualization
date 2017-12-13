@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Providing Insight into Machine Learning through Visualization</title>
+  <style>
+    body {
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 18pt;
+    }
+
+    .main {
+      width: 800px;
+      margin: 30px auto 0 auto;
+    }
+
+    rect.leaf {
+      width: 2px;
+      height: 14px;
+      stroke: 2px;
+    }
+
+    path {
+      fill: none;
+    }
+
+    path.tree-path {
+      stroke: none;
+    }
+
+    path.tree-link {
+      stroke: gray;
+      stroke-width: 1px;
+    }
+
+    rect.classifier-base {
+      height: 1px;
+      fill: #aaaaaa;
+      width: 100%;
+    }
+
+    text.accuracy-label {
+      font-size: 12px;
+      text-anchor: middle;
+    }
+
+    text.accuracy-value {
+      font-size: 18px;
+      text-anchor: middle;
+    }
+
+    .classifier-fraction {
+      font-size: 16px;
+    }
+
+    .target {
+      stroke: #ff8c00;
+      fill: #ff8c00;
+    }
+
+    .nontarget {
+      stroke: #98abc5;
+      fill: #98abc5;
+    }
+
+    .correct {}
+
+    .incorrect {
+      fill: none;
+      stroke-width: 1px;
+    }
+
+    path.sample-path {
+      fill: none;
+      visibility: hidden;
+    }
+
+    circle.sample:hover+path.sample-path {
+      stroke-width: 2px;
+      visibility: visible;
+    }
+
+    div#buttons {
+      margin-left: 20px;
+    }
+
+    button {
+      padding: 10px 10px;
+      font-size: 12px;
+      margin: 0 5px;
+      border-radius: 8px;
+      background-color: transparent;
+      border: 1px solid #bbb;
+    }
+  </style>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+
+<body>
+  <div class="main"></div>
+  <script src="bundle.js"></script>
+</body>
+
+</html>

@@ -100,6 +100,29 @@
 <body>
   <div class="main"></div>
   <script src="bundle.js"></script>
+  <script>
+  document.addEventListener('click', function(e) {
+    e = e || window.event;
+    var target = e.target || e.srcElement,
+      name = target.tagName;
+      type = target.getAttribute("id");
+    if (name == "circle") {
+      // if (target.style.display === 'none') {
+      //   console.log("test");
+      //   // target.setAttribute("class", type.replace("inv", ""));
+      //   // target.show();
+      //   target.style.visibility = 'visible';
+      // } else {
+      //   // target.setAttribute("class", type + " inv");
+      //   // type = target.getAttribute("class");
+      //   // target.hide();
+      //   target.style.visibility = 'hidden';
+      //   console.log(type);
+      // }
+      console.log(target.getAttribute("id"));
+    }
+    }, false);
+  </script>
 </body>
 
 </html>

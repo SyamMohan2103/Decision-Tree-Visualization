@@ -46,5 +46,5 @@ function createSet(tree, treeSet) {
 let trainSet = createSet(tree, treeTrainingSet),
     testSet = createSet(tree, treeTestingSet);
 
-ReactDOM.render(<DecisionTree tree={tree} samples={{train: trainSet, test: testSet}} class={dataSet}/>,
+ReactDOM.render(<DecisionTree tree={tree} samples={{train: trainSet, test: testSet}} className={dataSet}/>,
                 document.getElementById(dataSet));

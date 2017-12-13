@@ -9,13 +9,15 @@ class Sample extends React.Component {
 		               progress: this.props.progress,
 		               pathID: this.props.pathID,
 		               targetclass: this.props.isTarget ? "target" : "nontarget",
-      			 			 correctLeaf: this.props.correctLeaf ? "correct" : "incorrect"
+      			 			 correctLeaf: this.props.correctLeaf ? "correct" : "incorrect",
+									 name: this.props.name,
+									 num: this.props.num
 		             };
 	}
 
 	render() {
 	    return <g>
-	      <circle cx={this.state.p.x} cy={this.state.p.y} ref="circle" r={2} className={"sample " + this.state.targetclass + " " + this.state.correctLeaf}/>
+	      <circle cx={this.state.p.x} cy={this.state.p.y} ref="circle" r={2.5} className={"sample " + this.state.targetclass + " " + this.state.correctLeaf} id={this.state.name + " " + this.state.num}/>
 	      <path d={this.state.path} className={"sample-path " + this.state.targetclass} ref="path"/>;
 	    </g>;
 	  }

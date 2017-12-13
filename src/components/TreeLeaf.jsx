@@ -2,7 +2,7 @@ import React from 'react';
 
 export function TreeLeaf({ leaf, tree, state, selector }) {
 	let x = selector.xScale(state)(tree.points[leaf.id].x),
-		y = selector.yTreeScale(state)(tree.points[leaf.id].y) - 14;
+		y = selector.yTreeScale(state)(tree.points[leaf.id].y) - state.ui.leaf_length;
 
 	if (leaf.type === 'LEFT')
 		x += state.ui.tree_offset-1;

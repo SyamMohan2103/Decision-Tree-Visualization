@@ -92,8 +92,9 @@ def createTrainingSet(inputFile):
         features = list(features)
         tree_training_set = []
         train.seek(0)
+        count = 0
         for line in train.read().splitlines():
-            training_data = {"target": 0}
+            training_data = {"target": 0, "num": count}
             for f in features:
                 training_data[f] = 0
             data = line.split(" ")
@@ -106,6 +107,7 @@ def createTrainingSet(inputFile):
                     feature_value = float(split_feature[1])
                     training_data[feature_name] = feature_value
             tree_training_set.append(training_data)
+            count += 1
         return tree_training_set
 
 

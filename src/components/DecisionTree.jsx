@@ -36,6 +36,7 @@ class DecisionTree extends React.Component {
 		const tree = this.props.tree;
 		const trainSamples = this.props.samples['train'];
 		const testSamples = this.props.samples['test'];
+		const className = this.props.className;
 		const state = makeState();
 		const selector = makeSelector();
 
@@ -70,12 +71,12 @@ class DecisionTree extends React.Component {
 									   (path, id) => nodesToPixels(path, tree.nodes[id].target));
 
 		const placeTargets = makeHexLatticeRhombus(
-			4, 4, 2, xScale(0),
+			4, 4, 3, xScale(0),
 		    yScale(state.ui.extent.results_training.max)-5,
 		    "BOTTOM_LEFT",
 		    "SKEW_LEFT");
 		const placeNonTargets = makeHexLatticeRhombus(
-			4, 4, 2, xScale(1),
+			4, 4, 3, xScale(1),
 		    yScale(state.ui.extent.results_training.max)-5,
 		    "BOTTOM_RIGHT",
 		    "SKEW_RIGHT");
@@ -95,13 +96,13 @@ class DecisionTree extends React.Component {
 		testSamples.samples['randomSubsetTarget'].forEach((s, i) => {
 			var row = i % 5;
 			var col = i / 5;
-			var result_p = placeTargets(row + 11, col);
+			var result_p = placeTargets(row + 9.5, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
 		testSamples.samples['randomSubsetNontarget'].forEach((s, i) => {
 			var row = i % 5;
 			var col = i / 5;
-			var result_p = placeNonTargets(row + 11, col);
+			var result_p = placeNonTargets(row + 9.5, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
 
@@ -136,10 +137,10 @@ class DecisionTree extends React.Component {
 				  <g className="sample-sets">
 					<SampleSet samples={trainSamples.samples['randomSubset']}
 							   progresses={sampleProgressRandom}
-							   name="training" />
-				 <SampleSet samples={testSamples.samples['randomSubset']}
+							   name={className + " train"} />
+				 	<SampleSet samples={testSamples.samples['randomSubset']}
 							   progresses={testProgressRandom}
-							   name="testing" />
+							   name={className + " test"} />
 				  </g>
 				</svg>
 			  </div>

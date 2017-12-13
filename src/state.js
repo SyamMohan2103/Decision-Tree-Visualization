@@ -6,6 +6,7 @@ const initialState = {
 	ui: {
 		sample_hover_id: null,
 		tree_node_hover_id: null,
+		leaf_length: 14,
 		animation_extent: 0,
 		tree_offset: 7,
 		points: {

@@ -3,7 +3,7 @@ import { StaggeredMotion, spring } from 'react-motion';
 
 import Sample from './Sample.jsx';
 
-const SampleSet = ({ name, samples, progresses}) => (
+const SampleSet = ({ name, samples, progresses }) => (
 	  <StaggeredMotion
 	     defaultStyles={progresses.map(p => { return { progress: p }})}
 	    styles={previousInterpolatedStyles => previousInterpolatedStyles.map((_, i) => {
@@ -12,7 +12,7 @@ const SampleSet = ({ name, samples, progresses}) => (
 	  {interpolatedStyles =>
 		<g className={"samples "+name}>
 		  {samples.map((s, i) =>
-			     <Sample key={"sample-"+i} progress={interpolatedStyles[i].progress} {...s} />)
+			     <Sample key={"sample-"+i} progress={interpolatedStyles[i].progress} name={name} {...s} />)
 		}
 		</g>
 	  }

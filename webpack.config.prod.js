@@ -16,6 +16,17 @@ export default {
     publicPath: '/',
     filename: 'bundle.js'
   },
+  resolve: {
+    packageMains: [
+      'module', // adds check for 'module'
+      'webpack',
+      'browser',
+      'web',
+      'browserify',
+      ['jam', 'main'],
+      'main',
+    ]
+  },
   plugins: [
     new webpack.optimize.OccurenceOrderPlugin(),
     new webpack.DefinePlugin(GLOBALS),

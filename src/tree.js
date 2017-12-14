@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import deepFreeze from 'deep-freeze';
-// import * as d3 from 'd3';
+import * as d3 from 'd3';
 
 import { cleanRawJSONTree } from './tree_clean.js';
 import makeState from './state.js';

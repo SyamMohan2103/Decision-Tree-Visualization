@@ -1,5 +1,5 @@
 import { createSelector } from 'reselect';
-import d3 from 'd3';
+// import * as d3 from 'd3';
 
 
 const initialState = {
@@ -54,20 +54,20 @@ export function makeSelector() {
 
 function xScale(size, margin) {
 	var xm = margin.top + margin.bottom;
-	return d3.scale.linear()
+	return d3.scaleLinear()
 		.domain([0, 1])
 		.range([xm, size.width - xm]);
 }
 
 function yScale(size, margin) {
 	var ym = margin.left + margin.right;
-	return d3.scale.linear()
+	return d3.scaleLinear()
 		.domain([0, 1])
 		.range([ym, size.height - ym]);
 }
 
 function yTreeScale(size, margin, extent) {
-	return d3.scale.linear()
+	return d3.scaleLinear()
 		.domain([0, 1])
 		.range([extent.min * size.height,
 		        extent.max * size.height]);

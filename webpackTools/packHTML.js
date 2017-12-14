@@ -10,6 +10,7 @@ fs.readFile('src/index.html', 'utf8', (readError, markup) => {
 
   fs.writeFile('build/index.html', $.html(), 'utf8', (writeError) => {
     if (writeError) {
+      console.log(writeError);
       return writeError;
     }
 

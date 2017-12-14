@@ -1,8 +1,9 @@
 import _ from 'lodash';
 import deepFreeze from 'deep-freeze';
-import d3 from 'd3';
+// import * as d3 from 'd3';
 
-import { cleanRawR2D3Tree } from './tree_clean.js';
+import { cleanRawJSONTree } from './tree_clean.js';
+import makeState from './state.js';
 
 export const isRoot    = (node) => node.parent === undefined;
 export const isLeaf    = (node) => node.leaf;
@@ -13,7 +14,7 @@ export const getPaths  = (nodes) => _.mapValues(getLeaves(nodes),
 
 
 export function makeDecisionTree(rawTree) {
-	let _nodes = cleanRawR2D3Tree(rawTree);
+	let _nodes = cleanRawJSONTree(rawTree);
 	let nodes = deepFreeze(_.cloneDeep(_nodes));
 
 	let root   = getRoot(nodes);
@@ -45,16 +46,24 @@ function makeLink(srcId, dstId) {
 	return { source : srcId, target : dstId };
 }
 
+function buildTree(nodes, id) {
+  var rootNode = nodes[id];
+  rootNode.children = rootNode.children.map(function(childID) { return buildTree(nodes, childID); });
+  return rootNode;
+}
 
 function getPoints(nodes) {
 	let treeNodes = _.cloneDeep(nodes);
+  let tree = buildTree(treeNodes, 0);
+  let rootNode = d3.hierarchy(tree).sum(d => d.samples);
 
-	let layout = d3.layout.tree()
-	    .separation(() => 1)
-	    .children(d => d.children ? d.children.map(id => treeNodes[id]) : []);
+	let treemap = d3.tree()
+	    .separation(() => 1);
 
-	treeNodes = layout.nodes(getRoot(treeNodes));
-	let points = treeNodes.map(n => ( { id: n.id,
+  let treeData = treemap(rootNode);
+  treeNodes = treeData.descendants();
+
+	let points = treeNodes.map(n => ( { id: n.data.id,
 	                                    x: n.x,
 	                                    y: n.y }));
 	return _.keyBy(points, 'id');

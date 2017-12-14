@@ -30,7 +30,7 @@ const deriveObject = (dst, src) => {
 	return dst;
 };
 
-export function cleanRawR2D3Tree(raw) {
+export function cleanRawJSONTree(raw) {
 	const isLeaf = (n) => n.children == undefined || n.children.length === 0;
 	const isRoot = (n) => n.parent == undefined;
 

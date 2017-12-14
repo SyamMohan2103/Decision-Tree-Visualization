@@ -1,0 +1,425 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.2530045228946168
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2852506779115845
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.756143858179608
+  }, {
+    "feature" : "followup",
+    "score" : -0.23321665256685745
+  }, {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5379859851863178
+  }, {
+    "feature" : "1",
+    "score" : -0.2799680788905411
+  }, {
+    "feature" : "bilater",
+    "score" : -0.19287017512591553
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1543341680140651
+  }, {
+    "feature" : "reflux",
+    "score" : 1.0270505896596103
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "followup",
+    "score" : -0.17167835072048465
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3800070140513592
+  }, {
+    "feature" : "1",
+    "score" : -0.020261510360202663
+  }, {
+    "feature" : "bilater",
+    "score" : -0.11805008555662026
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "kidnei",
+    "score" : -0.8789932119081683
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -1.0736971691370982
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "reflux",
+    "score" : -0.31004895811453703
+  }, {
+    "feature" : "1",
+    "score" : -0.11331950162452235
+  }, {
+    "feature" : "bilater",
+    "score" : -0.15878094729679645
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.29252189535854084
+  }, {
+    "feature" : "right",
+    "score" : -0.380578287335776
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3065637466916519
+  }, {
+    "feature" : "reflux",
+    "score" : -0.9005276073776747
+  }, {
+    "feature" : "year",
+    "score" : -0.0031684843766130984
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.00521154668137505
+  }, {
+    "feature" : "right",
+    "score" : -0.869943272200185
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5782482370232577
+  }, {
+    "feature" : "1",
+    "score" : -0.13749043728716925
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -1.0333827230463026
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.6731678741354332
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0939305075474376
+  }, {
+    "feature" : "reflux",
+    "score" : -0.1841450396331174
+  }, {
+    "feature" : "histori",
+    "score" : -0.36632243987370383
+  }, {
+    "feature" : "1",
+    "score" : -0.3560096190502487
+  }, {
+    "feature" : "year",
+    "score" : -0.01115609393206927
+  }, {
+    "feature" : "bilater",
+    "score" : -0.05409089138313152
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "followup",
+    "score" : -0.19512185569539278
+  }, {
+    "feature" : "ag",
+    "score" : -1.0539570394090296
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6979521788711257
+  }, {
+    "feature" : "reflux",
+    "score" : -0.3776361202281583
+  }, {
+    "feature" : "1",
+    "score" : -0.1257965888690113
+  }, {
+    "feature" : "year",
+    "score" : -0.42931888429554216
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.4478326682363935
+  }, {
+    "feature" : "followup",
+    "score" : -0.22452866779874872
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.696732835736101
+  }, {
+    "feature" : "1",
+    "score" : -0.41559517236751936
+  }, {
+    "feature" : "year",
+    "score" : -0.1273080259049265
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -1.0393009972023526
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "reflux",
+    "score" : -0.35917405869658586
+  }, {
+    "feature" : "histori",
+    "score" : -0.02278969097420737
+  }, {
+    "feature" : "bilater",
+    "score" : -0.18568180171999543
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.6322894272717814
+  }, {
+    "feature" : "growth",
+    "score" : 0.013043143705313487
+  }, {
+    "feature" : "right",
+    "score" : -0.6802985330959425
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "reflux",
+    "score" : 1.507234231809075
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.1597445272708835
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "reflux",
+    "score" : -0.17841190179398722
+  }, {
+    "feature" : "1",
+    "score" : -0.2782048098797382
+  }, {
+    "feature" : "bilater",
+    "score" : -0.07955273042030694
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.2021554224868658
+  }, {
+    "feature" : "followup",
+    "score" : -0.04680770434940032
+  }, {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.14628104531908487
+  }, {
+    "feature" : "reflux",
+    "score" : -0.43820228029030667
+  }, {
+    "feature" : "1",
+    "score" : -0.8694379909355758
+  }, {
+    "feature" : "year",
+    "score" : -0.0039475800794392365
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3106802931156746
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.36694869108205114
+  }, {
+    "feature" : "followup",
+    "score" : 1.0144457206891437
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.3621276051728393
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.6170189831041126
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.20695669391441
+  }, {
+    "feature" : "reflux",
+    "score" : 0.859095682349174
+  }, {
+    "feature" : "histori",
+    "score" : 0.014959363453347002
+  }, {
+    "feature" : "bilater",
+    "score" : 0.0049189560410810235
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.7316797877004132
+  }, {
+    "feature" : "growth",
+    "score" : 0.03761373323767456
+  }, {
+    "feature" : "right",
+    "score" : -0.14556767338661192
+  }, {
+    "feature" : "followup",
+    "score" : -0.2768484470968434
+  }, {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.04281626485862061
+  }, {
+    "feature" : "reflux",
+    "score" : 2.3224763689819317
+  }, {
+    "feature" : "1",
+    "score" : -0.06723239358776827
+  }, {
+    "feature" : "year",
+    "score" : -0.239380142226087
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -0.9466414137430126
+  }, {
+    "feature" : "interv",
+    "score" : -0.30112107574368463
+  }, {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5440606986748632
+  }, {
+    "feature" : "histori",
+    "score" : -0.13947572020494983
+  }, {
+    "feature" : "1",
+    "score" : -0.39775312238908594
+  }, {
+    "feature" : "year",
+    "score" : -0.07744401174446602
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6630528198075036
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8931915454049169
+  }, {
+    "feature" : "month",
+    "score" : -0.07193722217839639
+  }, {
+    "feature" : "histori",
+    "score" : -0.056160157905112765
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.3260058080108827
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "reflux",
+    "score" : -0.16663578855803698
+  }, {
+    "feature" : "1",
+    "score" : -0.12325199120032376
+  }, {
+    "feature" : "year",
+    "score" : -0.09908166215496887
+  }, {
+    "feature" : "bilater",
+    "score" : -0.5019220144108617
+  }, {
+    "feature" : "small",
+    "score" : -0.13812025282135368
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.21124575207433752
+  }, {
+    "feature" : "interv",
+    "score" : -0.026442782833446702
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6244791977109173
+  }, {
+    "feature" : "1",
+    "score" : -0.32894584276634176
+  }, {
+    "feature" : "year",
+    "score" : -0.13196372275554905
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.793084782705877
+  }, {
+    "feature" : "followup",
+    "score" : -0.3610717637617213
+  }, {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1784788973235638
+  }, {
+    "feature" : "1",
+    "score" : -0.09175177589098532
+  }, {
+    "feature" : "bilater",
+    "score" : -0.051146324411589235
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.6662608905144248
+  }, {
+    "feature" : "interv",
+    "score" : -0.21858159396031712
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.321174551640371
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3878568779244065
+  }, {
+    "feature" : "interv",
+    "score" : -0.09586393328098189
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3991235769808243
+  }, {
+    "feature" : "histori",
+    "score" : -0.21650883645005986
+  }, {
+    "feature" : "year",
+    "score" : -0.07344476700936886
+  } ]
+}

@@ -1,0 +1,263 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.05132793233740104
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.21958604896363848
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.008191843469423
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4141417568216635
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "kidnei",
+    "score" : -0.11880648425594012
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.552118772243385
+  }, {
+    "feature" : "renal",
+    "score" : -0.2010049137708199
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0623297724521894
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6766492121312301
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.17152981595662764
+  }, {
+    "feature" : "right",
+    "score" : -1.4315962717548198
+  }, {
+    "feature" : "renal",
+    "score" : -0.6192636915166304
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.7546051544408323
+  }, {
+    "feature" : "right",
+    "score" : -0.507437732837277
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.23599285507175888
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -1.1599244003976223
+  }, {
+    "feature" : "renal",
+    "score" : -0.44131484575196683
+  }, {
+    "feature" : "pyelectasi",
+    "score" : 3.343389425679432
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00678114379803847
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7954982995390387
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4283440867682911
+  }, {
+    "feature" : "right",
+    "score" : -0.8975571945038354
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.07230773010076483
+  }, {
+    "feature" : "up",
+    "score" : -0.23624322564183312
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 3.4798203556876244
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5372837759613578
+  }, {
+    "feature" : "duplic",
+    "score" : -0.5560353021832051
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.5971102436010719
+  }, {
+    "feature" : "renal",
+    "score" : -0.5839278032872262
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3061453956005817
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.27184823588363083
+  }, {
+    "feature" : "right",
+    "score" : -1.3857347076938904
+  }, {
+    "feature" : "renal",
+    "score" : -0.9116484536633096
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.7603820486541778
+  }, {
+    "feature" : "right",
+    "score" : -0.9070647400915958
+  }, {
+    "feature" : "renal",
+    "score" : -0.88478166681636
+  }, {
+    "feature" : "minim",
+    "score" : -0.02031422389114289
+  }, {
+    "feature" : "up",
+    "score" : -0.012949180925813368
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.016539705261549915
+  }, {
+    "feature" : "right",
+    "score" : -1.5463260863054897
+  }, {
+    "feature" : "renal",
+    "score" : -0.17658126706452573
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.36284861776331906
+  }, {
+    "feature" : "right",
+    "score" : -1.6028739484198884
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.11260718822847114
+  }, {
+    "feature" : "pole",
+    "score" : -0.010777734957705924
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.48926493724535297
+  }, {
+    "feature" : "renal",
+    "score" : -1.331598597072501
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.27876592835027536
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.8226920040440268
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.4687161298611553
+  }, {
+    "feature" : "pole",
+    "score" : 1.0597709651948026
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2674975648507534
+  }, {
+    "feature" : "right",
+    "score" : -0.19409023745101026
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.03295997226200932
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.46856472862092136
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.41881807290722683
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.061954384731492756
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5104182399203901
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.0072709471278512095
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4573793634092096
+  }, {
+    "feature" : "up",
+    "score" : 1.0405736081200492
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.7680078011188518
+  }, {
+    "feature" : "renal",
+    "score" : -1.1553592614375656
+  }, {
+    "feature" : "pole",
+    "score" : -0.03390012983469975
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4846335138505296
+  }, {
+    "feature" : "right",
+    "score" : -0.2816610118630659
+  }, {
+    "feature" : "renal",
+    "score" : -0.03148659522134607
+  }, {
+    "feature" : "pyelectasi",
+    "score" : 5.249657574897949
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4807242552034413
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.0574464110953066
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9071933737192265
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.8883478827117088
+  }, {
+    "feature" : "renal",
+    "score" : -0.6159220825734187
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0170405269849623
+  }, {
+    "feature" : "up",
+    "score" : -0.04829386671628539
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.5171425206022362
+  }, {
+    "feature" : "renal",
+    "score" : -1.2111197012932837
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0770457077627695
+  } ]
+}

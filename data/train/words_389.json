@@ -1,0 +1,209 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.5060090457892336
+  }, {
+    "feature" : "normal",
+    "score" : -2.556357767257733
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3293790577067043
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.8220125432109422
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6212126055490294
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "eflux",
+    "score" : 2.7692143324308507
+  }, {
+    "feature" : "normal",
+    "score" : -1.6802756163149246
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1782097178684969
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.1723563139899404
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5934945825361684
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.4421007034534776
+  }, {
+    "feature" : "appear",
+    "score" : -0.08786687701044973
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.014973769698249
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.3568682026200591
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.1571570074711826
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3539892656929328
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.5939770768050026
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.6859291091641526
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.193247392291495
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.256944161853527
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10846158996851592
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7063056238165781
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8059256254324095
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.582060222455853
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.9592179997833572
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.3214964169739354
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.026086287410626973
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.7627887111709728
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.32795034906228443
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16891077427162582
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.8626518088251616
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.41814887254496247
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.8499368692128391
+  }, {
+    "feature" : "appear",
+    "score" : -0.21174889391759183
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.703074017847366
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.07522746647534911
+  }, {
+    "feature" : "eflux",
+    "score" : 2.6113726758476306
+  }, {
+    "feature" : "normal",
+    "score" : -1.3604754158270511
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.04943995603061948
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.6022421514873693
+  }, {
+    "feature" : "normal",
+    "score" : -1.282208671609977
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6282270793422011
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.511049379919671
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7656273232965359
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.1087518202305335
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.186068940656657
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.9427027909284389
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.052885565666893404
+  }, {
+    "feature" : "normal",
+    "score" : -1.7480607709729146
+  }, {
+    "feature" : "appear",
+    "score" : -0.04140763167356692
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7210863483494188
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.4241877178499345
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3607899955560714
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "interv",
+    "score" : -0.43716318792063424
+  }, {
+    "feature" : "normal",
+    "score" : -1.17510892800722
+  }, {
+    "feature" : "appear",
+    "score" : -0.2824995408913521
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5255607175814185
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.19172786656196378
+  }, {
+    "feature" : "normal",
+    "score" : -1.3873581026133344
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.615568484447279
+  } ]
+}

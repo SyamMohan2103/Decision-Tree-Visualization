@@ -1,0 +1,326 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.04536791425911244
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.6127124033862584
+  }, {
+    "feature" : "1",
+    "score" : -0.3299455482749
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.08160586224777366
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.16221268826043164
+  }, {
+    "feature" : "possibl",
+    "score" : -0.01293089512946812
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.34507423989530883
+  }, {
+    "feature" : "renal",
+    "score" : -0.17766493365971794
+  }, {
+    "feature" : "left",
+    "score" : -0.15110077466459187
+  }, {
+    "feature" : "mild",
+    "score" : -0.2704816324591462
+  }, {
+    "feature" : "1",
+    "score" : -0.023878419179667765
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4213571234323867
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.012791546132163267
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.10720613722317547
+  }, {
+    "feature" : "renal",
+    "score" : -0.5473569805194788
+  }, {
+    "feature" : "prior",
+    "score" : -0.023709947880890776
+  }, {
+    "feature" : "left",
+    "score" : -0.6983419012594496
+  }, {
+    "feature" : "2",
+    "score" : -0.26557628532593236
+  }, {
+    "feature" : "1",
+    "score" : -0.13354831465754174
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 1.7216282576629205
+  }, {
+    "feature" : "2",
+    "score" : -0.08959034625437425
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.3900709257434788
+  }, {
+    "feature" : "prior",
+    "score" : -0.11612772493995363
+  }, {
+    "feature" : "left",
+    "score" : -0.4345437248985448
+  }, {
+    "feature" : "mm",
+    "score" : -0.13474761731681825
+  }, {
+    "feature" : "2",
+    "score" : -0.10784010775484246
+  }, {
+    "feature" : "1",
+    "score" : -0.16203403578379694
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00599374134897597
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.2785055150187502
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.2677150598495869
+  }, {
+    "feature" : "prior",
+    "score" : -0.05394022713669566
+  }, {
+    "feature" : "left",
+    "score" : -0.27974450721183114
+  }, {
+    "feature" : "histori",
+    "score" : -0.3052687050545566
+  }, {
+    "feature" : "1",
+    "score" : -0.4195613636174477
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.27832499476581596
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : 2.174887767956194
+  }, {
+    "feature" : "2",
+    "score" : -0.26069339614659887
+  }, {
+    "feature" : "1",
+    "score" : -0.1482527031295082
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "possibl",
+    "score" : -0.5394670642034826
+  }, {
+    "feature" : "renal",
+    "score" : -0.5161241707323397
+  }, {
+    "feature" : "left",
+    "score" : -0.603299997458017
+  }, {
+    "feature" : "x",
+    "score" : 0.758460064804046
+  }, {
+    "feature" : "1",
+    "score" : -0.4897836122982218
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0012055478681523132
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.1699051509936202
+  }, {
+    "feature" : "renal",
+    "score" : -0.8057910575546806
+  }, {
+    "feature" : "prior",
+    "score" : -0.07092505567029905
+  }, {
+    "feature" : "left",
+    "score" : -1.0132158362649826
+  }, {
+    "feature" : "histori",
+    "score" : -0.01899140946617505
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4752387903842402
+  }, {
+    "feature" : "renal",
+    "score" : -0.7820439470325197
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -5.094743623687084E-4
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.010337316005451501
+  }, {
+    "feature" : "renal",
+    "score" : -0.1560772744806513
+  }, {
+    "feature" : "prior",
+    "score" : -0.0019240377202862328
+  }, {
+    "feature" : "left",
+    "score" : -0.6049640111392763
+  }, {
+    "feature" : "2",
+    "score" : -0.3375499430084822
+  }, {
+    "feature" : "1",
+    "score" : -0.3278675157976584
+  } ],
+  "c1" : [ {
+    "feature" : "possibl",
+    "score" : -0.06077128861957962
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.2267803908622506
+  }, {
+    "feature" : "left",
+    "score" : -1.713137631300247
+  }, {
+    "feature" : "mild",
+    "score" : -0.02588556998149439
+  }, {
+    "feature" : "2",
+    "score" : -0.10757858921863771
+  }, {
+    "feature" : "1",
+    "score" : -1.0246425083426114
+  } ],
+  "c2" : [ {
+    "feature" : "renal",
+    "score" : -1.1769780746753253
+  }, {
+    "feature" : "left",
+    "score" : 0.5060353518460675
+  } ],
+  "c3" : [ {
+    "feature" : "histori",
+    "score" : 0.012466136421831336
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.16718598154099573
+  }, {
+    "feature" : "left",
+    "score" : -0.25942736063274185
+  }, {
+    "feature" : "mild",
+    "score" : -0.41725724164321326
+  }, {
+    "feature" : "1",
+    "score" : -0.07923413644890194
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2928529615351315
+  }, {
+    "feature" : "prior",
+    "score" : -0.04866298999508615
+  }, {
+    "feature" : "left",
+    "score" : -0.5785300566343241
+  }, {
+    "feature" : "mild",
+    "score" : -0.10843292573020108
+  }, {
+    "feature" : "2",
+    "score" : -0.031306290113197965
+  }, {
+    "feature" : "histori",
+    "score" : -0.11622976880203151
+  }, {
+    "feature" : "1",
+    "score" : -0.46875655455002774
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.0547604605616722
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.0064266704473994445
+  }, {
+    "feature" : "histori",
+    "score" : -0.04680013237863307
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.09407934382028625
+  }, {
+    "feature" : "renal",
+    "score" : -1.021203027755258
+  }, {
+    "feature" : "left",
+    "score" : -0.6067876244021391
+  }, {
+    "feature" : "2",
+    "score" : -0.22196083820637302
+  }, {
+    "feature" : "1",
+    "score" : -0.14525386598971274
+  }, {
+    "feature" : "small",
+    "score" : -0.08138813702041624
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.30289595251444157
+  }, {
+    "feature" : "renal",
+    "score" : -0.027830483077389022
+  }, {
+    "feature" : "left",
+    "score" : -0.28035805716165835
+  }, {
+    "feature" : "1",
+    "score" : -0.3876663970920886
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.6576880786308431
+  }, {
+    "feature" : "mild",
+    "score" : -0.10965146141208983
+  }, {
+    "feature" : "2",
+    "score" : -0.10955947729687543
+  }, {
+    "feature" : "1",
+    "score" : -0.10813050588307517
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.03777834154287473
+  }, {
+    "feature" : "renal",
+    "score" : -0.5444033873954355
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -1.0704887624268897
+  }, {
+    "feature" : "histori",
+    "score" : -0.18042403342466656
+  } ]
+}

@@ -1,0 +1,194 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -3.4538550587270778
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "1",
+    "score" : -0.3732907718540548
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.3748311780692635
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "pneumonia",
+    "score" : -3.4221873117944845
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "1",
+    "score" : -0.02701534714693688
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -3.4445175746314556
+  }, {
+    "feature" : "chest",
+    "score" : -0.3166478641395887
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "2",
+    "score" : -0.3004652531289545
+  }, {
+    "feature" : "1",
+    "score" : -0.15109266883269648
+  }, {
+    "feature" : "chest",
+    "score" : -0.4142150995201305
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "2",
+    "score" : -0.10135990128860628
+  }, {
+    "feature" : "chest",
+    "score" : -0.39998602745513095
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "2",
+    "score" : -0.1220071484705285
+  }, {
+    "feature" : "1",
+    "score" : -0.183320583049559
+  }, {
+    "feature" : "chest",
+    "score" : -0.43065310457343337
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -3.4612577498092256
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "1",
+    "score" : -0.4746794920669983
+  }, {
+    "feature" : "chest",
+    "score" : -0.5170135705950182
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "2",
+    "score" : -0.2949408949150104
+  }, {
+    "feature" : "1",
+    "score" : -0.16772878515868173
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.81419513730809
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "x",
+    "score" : 1.213536123639745
+  }, {
+    "feature" : "1",
+    "score" : -0.5541268964900258
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "chest",
+    "score" : -0.4965828795837045
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "chest",
+    "score" : -0.8138018613603353
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "2",
+    "score" : -0.38189414745837
+  }, {
+    "feature" : "1",
+    "score" : -0.3709397465063176
+  }, {
+    "feature" : "chest",
+    "score" : -0.42637405567648395
+  } ],
+  "c1" : [ {
+    "feature" : "2",
+    "score" : -0.1217112740362497
+  }, {
+    "feature" : "1",
+    "score" : -1.159250654580768
+  }, {
+    "feature" : "pneumonia",
+    "score" : 4.437313418180501
+  }, {
+    "feature" : "chest",
+    "score" : -0.05263271603690745
+  } ],
+  "c2" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.25170909573469413
+  }, {
+    "feature" : "chest",
+    "score" : -0.8923529241199729
+  } ],
+  "c3" : [ {
+    "feature" : "pneumonia",
+    "score" : -4.6222569158395705
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "seen",
+    "score" : -0.37813734244488195
+  }, {
+    "feature" : "1",
+    "score" : -0.08964319145035769
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.371331176157665
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "2",
+    "score" : -0.03541902234172116
+  }, {
+    "feature" : "1",
+    "score" : -0.5303374965187813
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.122902256908032
+  }, {
+    "feature" : "chest",
+    "score" : -0.07371474237047737
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -3.46941710040642
+  } ],
+  "c1_Class-31-780_6" : [ ],
+  "c3_Class-32-486" : [ {
+    "feature" : "2",
+    "score" : -0.25112001003607926
+  }, {
+    "feature" : "1",
+    "score" : -0.16433598826709836
+  }, {
+    "feature" : "chest",
+    "score" : -0.32678885993819234
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "seen",
+    "score" : -0.037906433553828424
+  }, {
+    "feature" : "1",
+    "score" : -0.43859445702178906
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.448219254219817
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "2",
+    "score" : -0.12395239295662835
+  }, {
+    "feature" : "1",
+    "score" : -0.12233570118798043
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.13933385014272473
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.3102873202236813
+  }, {
+    "feature" : "chest",
+    "score" : -0.09436780263202695
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.7360704949407568
+  } ]
+}

@@ -1,0 +1,221 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.5659994631532601
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "reflux",
+    "score" : 1.3694007356068214
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "possibl",
+    "score" : -0.020689432207148993
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.552118772243385
+  }, {
+    "feature" : "left",
+    "score" : -0.13958091409533033
+  }, {
+    "feature" : "mild",
+    "score" : -0.4327705928427135
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "uti",
+    "score" : 1.9426487026595385
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.17152981595662764
+  }, {
+    "feature" : "left",
+    "score" : -0.6451006035226284
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4133985955423015
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.7546051544408323
+  }, {
+    "feature" : "reflux",
+    "score" : -1.2007034321317565
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.4014142910277347
+  }, {
+    "feature" : "reflux",
+    "score" : -0.7709976208722458
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4283440867682911
+  }, {
+    "feature" : "left",
+    "score" : -0.2584169016767138
+  }, {
+    "feature" : "uti",
+    "score" : 1.8446324547629074
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2455267104374216
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "partial",
+    "score" : -0.25364256990553385
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : 3.4798203556876244
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5035148083635659
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "possibl",
+    "score" : -0.863147302725572
+  }, {
+    "feature" : "left",
+    "score" : -0.557304655160273
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.27184823588363083
+  }, {
+    "feature" : "left",
+    "score" : -0.9359686799466271
+  }, {
+    "feature" : "uti",
+    "score" : -0.014731896294074853
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4788987272311528
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.7603820486541778
+  }, {
+    "feature" : "minim",
+    "score" : -0.02031422389114289
+  }, {
+    "feature" : "uti",
+    "score" : -1.9383274360201497
+  }, {
+    "feature" : "reflux",
+    "score" : 2.0096455681459586
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.016539705261549915
+  }, {
+    "feature" : "left",
+    "score" : -0.5588418051266638
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2378825269344043
+  } ],
+  "c1" : [ {
+    "feature" : "possibl",
+    "score" : -0.0972340617913274
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.36284861776331906
+  }, {
+    "feature" : "left",
+    "score" : -1.5825287267970036
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5842696854621463
+  }, {
+    "feature" : "mild",
+    "score" : -0.041416910143260516
+  } ],
+  "c2" : [ {
+    "feature" : "left",
+    "score" : 0.467455425903769
+  }, {
+    "feature" : "uti",
+    "score" : -0.9009069333987884
+  }, {
+    "feature" : "suggest",
+    "score" : -0.295068009505512
+  } ],
+  "c3" : [ {
+    "feature" : "reflux",
+    "score" : 1.1454608674685693
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2674975648507534
+  }, {
+    "feature" : "decreas",
+    "score" : -0.18320019524232328
+  }, {
+    "feature" : "evalu",
+    "score" : -0.04823880569281585
+  }, {
+    "feature" : "left",
+    "score" : -0.23964872595019554
+  }, {
+    "feature" : "reflux",
+    "score" : 3.0966350442069066
+  }, {
+    "feature" : "mild",
+    "score" : -0.6676115571770783
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "partial",
+    "score" : 0.21992229537360194
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.46856472862092136
+  }, {
+    "feature" : "left",
+    "score" : -0.5344231643808052
+  }, {
+    "feature" : "uti",
+    "score" : 1.7704621901403055
+  }, {
+    "feature" : "mild",
+    "score" : -0.1734926735145939
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "evalu",
+    "score" : -0.10015877402877875
+  }, {
+    "feature" : "suggest",
+    "score" : -0.014773328991116037
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.5605263868685628
+  }, {
+    "feature" : "uti",
+    "score" : -1.9015406361607015
+  }, {
+    "feature" : "reflux",
+    "score" : -0.22218104320004986
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4846335138505296
+  }, {
+    "feature" : "left",
+    "score" : -0.2589836748321137
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.6075462115179127
+  }, {
+    "feature" : "mild",
+    "score" : -0.1754423305196057
+  } ],
+  "c1_Class-4-753_0" : [ ],
+  "c1_Class-32-486" : [ {
+    "feature" : "suggest",
+    "score" : 0.2286755823850651
+  } ]
+}

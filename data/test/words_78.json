@@ -1,0 +1,467 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.491208697567011
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.7448235161018415
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.9312497997927477
+  }, {
+    "feature" : "normal",
+    "score" : -1.062840650206383
+  }, {
+    "feature" : "left",
+    "score" : -0.4952495205294292
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.694539211801593
+  }, {
+    "feature" : "lobe",
+    "score" : -0.005412952023545018
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.26762148934156976
+  }, {
+    "feature" : "old",
+    "score" : -7.229594364778647E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.980160776183706
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.7288255577016083
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.40299307448057226
+  }, {
+    "feature" : "normal",
+    "score" : -1.2672078498274653
+  }, {
+    "feature" : "left",
+    "score" : -0.12213329743398296
+  }, {
+    "feature" : "femal",
+    "score" : -0.22521874775948647
+  }, {
+    "feature" : "lobe",
+    "score" : 1.4456432015532932
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.24011044896171177
+  }, {
+    "feature" : "normal",
+    "score" : -0.8412254103478619
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.7401063923215305
+  }, {
+    "feature" : "chest",
+    "score" : -0.27706687106660666
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.2777412538238505
+  }, {
+    "feature" : "old",
+    "score" : -0.8110428208331945
+  }, {
+    "feature" : "normal",
+    "score" : -0.7915064515283678
+  }, {
+    "feature" : "left",
+    "score" : -0.564463016992858
+  }, {
+    "feature" : "cough",
+    "score" : -0.807444999797624
+  }, {
+    "feature" : "chest",
+    "score" : -0.3624381989262159
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.4125736229916779
+  }, {
+    "feature" : "normal",
+    "score" : -1.2583415876915232
+  }, {
+    "feature" : "cough",
+    "score" : -1.0768918036490198
+  }, {
+    "feature" : "year",
+    "score" : -0.0036965651655830626
+  }, {
+    "feature" : "lobe",
+    "score" : -0.6435551822825065
+  }, {
+    "feature" : "chest",
+    "score" : -0.3499877613212026
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.1545465601555185
+  }, {
+    "feature" : "old",
+    "score" : -0.6011626985009628
+  }, {
+    "feature" : "normal",
+    "score" : -0.9298199614695849
+  }, {
+    "feature" : "left",
+    "score" : -0.35123749774885504
+  }, {
+    "feature" : "cough",
+    "score" : -0.9078122772577024
+  }, {
+    "feature" : "chest",
+    "score" : -0.3768214528258473
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.5667919803457557
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.748563218336865
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.3495745748744477
+  }, {
+    "feature" : "normal",
+    "score" : -0.7332174277478908
+  }, {
+    "feature" : "left",
+    "score" : -0.2261147845248729
+  }, {
+    "feature" : "cough",
+    "score" : -0.9750121617522317
+  }, {
+    "feature" : "year",
+    "score" : -0.013015443130365649
+  }, {
+    "feature" : "lobe",
+    "score" : -0.30458773960551083
+  }, {
+    "feature" : "chest",
+    "score" : -0.45238685785225363
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.9953449472263373
+  }, {
+    "feature" : "femal",
+    "score" : -0.07108325591906112
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.9164977350090062
+  }, {
+    "feature" : "year",
+    "score" : -0.5008720397448482
+  }, {
+    "feature" : "lobe",
+    "score" : -0.658462915883073
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "two",
+    "score" : -0.08241153973700288
+  }, {
+    "feature" : "normal",
+    "score" : -0.33953512976591427
+  }, {
+    "feature" : "left",
+    "score" : -0.4876415636850315
+  }, {
+    "feature" : "femal",
+    "score" : -0.09368544942568316
+  }, {
+    "feature" : "cough",
+    "score" : 0.7553778241505936
+  }, {
+    "feature" : "year",
+    "score" : -0.14852603261447683
+  }, {
+    "feature" : "lobe",
+    "score" : -1.6552053352166882
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.1774372078197406
+  }, {
+    "feature" : "normal",
+    "score" : -0.7708729099014624
+  }, {
+    "feature" : "left",
+    "score" : -0.8189725788637613
+  }, {
+    "feature" : "cough",
+    "score" : 3.103503487143153
+  }, {
+    "feature" : "chest",
+    "score" : -0.43451000386615535
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.45704996898604466
+  }, {
+    "feature" : "old",
+    "score" : -0.4986017755810505
+  }, {
+    "feature" : "cough",
+    "score" : -1.0692182884791543
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3211664857422799
+  }, {
+    "feature" : "chest",
+    "score" : -0.7120766028470372
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.11645684828210474
+  }, {
+    "feature" : "old",
+    "score" : -0.653959916996653
+  }, {
+    "feature" : "normal",
+    "score" : -1.028293414849734
+  }, {
+    "feature" : "left",
+    "score" : -0.4889865698791994
+  }, {
+    "feature" : "cough",
+    "score" : -0.8161210128535061
+  }, {
+    "feature" : "chest",
+    "score" : -0.37307728517690286
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.2664615954937575
+  }, {
+    "feature" : "normal",
+    "score" : 0.1913043702863326
+  }, {
+    "feature" : "left",
+    "score" : -1.3847126087433106
+  }, {
+    "feature" : "femal",
+    "score" : -0.4300104136149108
+  }, {
+    "feature" : "cough",
+    "score" : -0.7828016369265473
+  }, {
+    "feature" : "pneumonia",
+    "score" : 2.241648438834323
+  }, {
+    "feature" : "year",
+    "score" : -0.004605510166852428
+  }, {
+    "feature" : "chest",
+    "score" : -0.04605362486087887
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -1.373800060155585
+  }, {
+    "feature" : "normal",
+    "score" : -0.5032135551480109
+  }, {
+    "feature" : "left",
+    "score" : 0.4090234896301213
+  }, {
+    "feature" : "femal",
+    "score" : 0.42167273096694613
+  }, {
+    "feature" : "cough",
+    "score" : -1.1187952209158318
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.12715876664971787
+  }, {
+    "feature" : "chest",
+    "score" : -0.7808087802672368
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.4957965070408228
+  }, {
+    "feature" : "cough",
+    "score" : 1.036223296313307
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.335078463655515
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3029787281624365
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.6200591716378887
+  }, {
+    "feature" : "normal",
+    "score" : -0.7936106592324464
+  }, {
+    "feature" : "left",
+    "score" : -0.20969263108679914
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6927710757513184
+  }, {
+    "feature" : "year",
+    "score" : -0.27927683709495055
+  }, {
+    "feature" : "lobe",
+    "score" : -0.36937384006412866
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.026180592315153635
+  }, {
+    "feature" : "normal",
+    "score" : -0.7479550584391532
+  }, {
+    "feature" : "left",
+    "score" : -0.4676202596463357
+  }, {
+    "feature" : "femal",
+    "score" : -0.21065165480195974
+  }, {
+    "feature" : "cough",
+    "score" : -0.026765671343788766
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.0724508461579607
+  }, {
+    "feature" : "year",
+    "score" : -0.09035134849034976
+  }, {
+    "feature" : "lobe",
+    "score" : -0.39581857360904316
+  }, {
+    "feature" : "chest",
+    "score" : -0.06450039723326746
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.4647788049531414
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.7526851709249252
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.14958397644011834
+  }, {
+    "feature" : "without",
+    "score" : -0.2807010413718488
+  }, {
+    "feature" : "old",
+    "score" : -0.6135720197453243
+  }, {
+    "feature" : "normal",
+    "score" : -1.2301052284678113
+  }, {
+    "feature" : "cough",
+    "score" : -0.2291714104861281
+  }, {
+    "feature" : "lobe",
+    "score" : 2.0133751038724905
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.878373114361302
+  }, {
+    "feature" : "old",
+    "score" : -0.3882193241540092
+  }, {
+    "feature" : "normal",
+    "score" : -0.5499099613749227
+  }, {
+    "feature" : "left",
+    "score" : -0.49046057887440264
+  }, {
+    "feature" : "cough",
+    "score" : -0.44901269992211695
+  }, {
+    "feature" : "year",
+    "score" : -0.11559527437583182
+  }, {
+    "feature" : "chest",
+    "score" : -0.28594024206834534
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.8505078714544221
+  }, {
+    "feature" : "normal",
+    "score" : -1.0197021164008668
+  }, {
+    "feature" : "left",
+    "score" : -0.22661071102610486
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7316135067247131
+  }, {
+    "feature" : "year",
+    "score" : -0.15395767902768168
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3636902242952543
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -1.070937242509357
+  }, {
+    "feature" : "normal",
+    "score" : -0.8307761687457951
+  }, {
+    "feature" : "left",
+    "score" : -0.5316029246343011
+  }, {
+    "feature" : "cough",
+    "score" : -0.23385207466568014
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.07038887683018047
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "fever",
+    "score" : -0.060479604958993925
+  }, {
+    "feature" : "normal",
+    "score" : -0.6854802080042117
+  }, {
+    "feature" : "cough",
+    "score" : 2.5533760223905806
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6619328519300784
+  }, {
+    "feature" : "lobe",
+    "score" : -2.5631367388104094
+  }, {
+    "feature" : "chest",
+    "score" : -0.08257182430626059
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.466758134757475
+  }, {
+    "feature" : "normal",
+    "score" : -0.8092922265244451
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.8770306146835204
+  }, {
+    "feature" : "year",
+    "score" : -0.08568556289092566
+  }, {
+    "feature" : "lobe",
+    "score" : -2.1929542455605375
+  } ]
+}

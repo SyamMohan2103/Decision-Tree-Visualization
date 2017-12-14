@@ -1,0 +1,176 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.9940840778964115
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.7937591228839458
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.13056938252877148
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.9758006963220818
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.2595403070454596
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.6741714126323934
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.9886930791294992
+  }, {
+    "feature" : "chest",
+    "score" : -0.4478076976444332
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.020466474271098316
+  }, {
+    "feature" : "chest",
+    "score" : -0.5857886032160315
+  }, {
+    "feature" : "pain",
+    "score" : -0.5103537510176327
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "chest",
+    "score" : -0.5656656568056454
+  }, {
+    "feature" : "pain",
+    "score" : -0.705815889606545
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "chest",
+    "score" : -0.6090354525727735
+  }, {
+    "feature" : "pain",
+    "score" : -0.3527258085553632
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.998358023435382
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4456088340375055
+  }, {
+    "feature" : "chest",
+    "score" : -0.7311675931501624
+  }, {
+    "feature" : "pain",
+    "score" : -0.3891767231125635
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.44532000162632407
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.0474260141178156
+  } ],
+  "c2_Class-4-753_0" : [ ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0019288766323625074
+  }, {
+    "feature" : "chest",
+    "score" : -0.7022742332409733
+  }, {
+    "feature" : "pain",
+    "score" : -0.2831295485965917
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "chest",
+    "score" : -1.150889613182026
+  }, {
+    "feature" : "pain",
+    "score" : -0.6499718561136119
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -8.151589980968143E-4
+  }, {
+    "feature" : "chest",
+    "score" : -0.6029839636740322
+  }, {
+    "feature" : "pain",
+    "score" : -0.29074833159283336
+  } ],
+  "c1" : [ {
+    "feature" : "pneumonia",
+    "score" : 2.561884006531218
+  }, {
+    "feature" : "chest",
+    "score" : -0.07443389979371731
+  }, {
+    "feature" : "pain",
+    "score" : -1.0821170157723157
+  } ],
+  "c2" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.1453243090783444
+  }, {
+    "feature" : "chest",
+    "score" : -1.2619775899081536
+  } ],
+  "c3" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.6686611809411773
+  }, {
+    "feature" : "pain",
+    "score" : 2.607379603507798
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.7917383959090571
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.22565814646282
+  }, {
+    "feature" : "chest",
+    "score" : -0.10424838693629754
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.0030688265337138
+  } ],
+  "c1_Class-31-780_6" : [ ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.15052695349299974
+  }, {
+    "feature" : "chest",
+    "score" : -0.46214923123643825
+  }, {
+    "feature" : "pain",
+    "score" : -0.2090256285933923
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.8361297469173709
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.08044443306315567
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.06044534782608417
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7564947104904161
+  }, {
+    "feature" : "chest",
+    "score" : -0.13345622445058808
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.0023207324000976
+  } ]
+}

@@ -1,0 +1,221 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -2.982417395134022
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.8624995995854954
+  }, {
+    "feature" : "normal",
+    "score" : -2.125681300412766
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.5352429786831395
+  }, {
+    "feature" : "old",
+    "score" : -0.0014459188729557294
+  }, {
+    "feature" : "normal",
+    "score" : -1.960321552367412
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.8059861489611445
+  }, {
+    "feature" : "normal",
+    "score" : -2.5344156996549305
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.48022089792342354
+  }, {
+    "feature" : "normal",
+    "score" : -1.6824508206957238
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.555482507647701
+  }, {
+    "feature" : "old",
+    "score" : -1.622085641666389
+  }, {
+    "feature" : "normal",
+    "score" : -1.5830129030567357
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.8251472459833558
+  }, {
+    "feature" : "normal",
+    "score" : -2.5166831753830463
+  }, {
+    "feature" : "year",
+    "score" : -0.007393130331166125
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.309093120311037
+  }, {
+    "feature" : "old",
+    "score" : -1.2023253970019256
+  }, {
+    "feature" : "normal",
+    "score" : -1.8596399229391698
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -3.1335839606915115
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.6991491497488954
+  }, {
+    "feature" : "normal",
+    "score" : -1.4664348554957816
+  }, {
+    "feature" : "year",
+    "score" : -0.026030886260731297
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.9906898944526745
+  }, {
+    "feature" : "year",
+    "score" : -1.0017440794896963
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6790702595318285
+  }, {
+    "feature" : "year",
+    "score" : -0.29705206522895367
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.3548744156394812
+  }, {
+    "feature" : "normal",
+    "score" : -1.5417458198029248
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.9140999379720893
+  }, {
+    "feature" : "old",
+    "score" : -0.997203551162101
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.2329136965642095
+  }, {
+    "feature" : "old",
+    "score" : -1.307919833993306
+  }, {
+    "feature" : "normal",
+    "score" : -2.056586829699468
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -2.532923190987515
+  }, {
+    "feature" : "normal",
+    "score" : 0.3826087405726652
+  }, {
+    "feature" : "year",
+    "score" : -0.009211020333704856
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -2.74760012031117
+  }, {
+    "feature" : "normal",
+    "score" : -1.0064271102960218
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.9915930140816456
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -1.2401183432757774
+  }, {
+    "feature" : "normal",
+    "score" : -1.587221318464893
+  }, {
+    "feature" : "year",
+    "score" : -0.5585536741899011
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.05236118463030727
+  }, {
+    "feature" : "normal",
+    "score" : -1.4959101168783064
+  }, {
+    "feature" : "year",
+    "score" : -0.18070269698069952
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.929557609906283
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.2991679528802367
+  }, {
+    "feature" : "old",
+    "score" : -1.2271440394906485
+  }, {
+    "feature" : "normal",
+    "score" : -2.4602104569356227
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 5.756746228722604
+  }, {
+    "feature" : "old",
+    "score" : -0.7764386483080185
+  }, {
+    "feature" : "normal",
+    "score" : -1.0998199227498453
+  }, {
+    "feature" : "year",
+    "score" : -0.23119054875166364
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -1.7010157429088442
+  }, {
+    "feature" : "normal",
+    "score" : -2.0394042328017337
+  }, {
+    "feature" : "year",
+    "score" : -0.30791535805536335
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -2.141874485018714
+  }, {
+    "feature" : "normal",
+    "score" : -1.6615523374915901
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "fever",
+    "score" : -0.12095920991798785
+  }, {
+    "feature" : "normal",
+    "score" : -1.3709604160084234
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 4.93351626951495
+  }, {
+    "feature" : "normal",
+    "score" : -1.6185844530488902
+  }, {
+    "feature" : "year",
+    "score" : -0.17137112578185132
+  } ]
+}

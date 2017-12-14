@@ -1,0 +1,149 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -0.9203423138368123
+  }, {
+    "feature" : "ough",
+    "score" : -0.9543590946503872
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.5204790452784931
+  }, {
+    "feature" : "diseas",
+    "score" : -0.74072057761032
+  }, {
+    "feature" : "mild",
+    "score" : -0.6491558892640703
+  }, {
+    "feature" : "ough",
+    "score" : -0.8066115041723366
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -1.132036963190161
+  }, {
+    "feature" : "diseas",
+    "score" : -0.11881723781869424
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.4113122668603001
+  }, {
+    "feature" : "diseas",
+    "score" : -1.4027496154421486
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -1.464776997928997
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.04004862013890233
+  }, {
+    "feature" : "diseas",
+    "score" : -1.5317841962834138
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.941784038059513
+  }, {
+    "feature" : "ough",
+    "score" : -0.967775626011369
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.6353400027663664
+  }, {
+    "feature" : "ough",
+    "score" : 2.769353820375878
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.730175866070848
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.37186602909369115
+  }, {
+    "feature" : "diseas",
+    "score" : -1.1028950820550272
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -1.4786727815357752
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -1.4805416521594763
+  }, {
+    "feature" : "diseas",
+    "score" : -1.7747635841183975
+  }, {
+    "feature" : "mild",
+    "score" : -0.06212536521489078
+  } ],
+  "c2" : [ {
+    "feature" : "ough",
+    "score" : 4.712660019294963
+  } ],
+  "c3" : [ ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "diseas",
+    "score" : -1.0345065815884722
+  }, {
+    "feature" : "mild",
+    "score" : -1.0014173357656175
+  }, {
+    "feature" : "ough",
+    "score" : -0.8850866119478978
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -1.080924214277669
+  }, {
+    "feature" : "mild",
+    "score" : -0.2602390102718909
+  }, {
+    "feature" : "ough",
+    "score" : -0.8951906016041243
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "diseas",
+    "score" : -1.1830471711852566
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "airwai",
+    "score" : -0.0795612945328419
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9992568779623154
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -0.8606328679132205
+  }, {
+    "feature" : "ough",
+    "score" : -0.9859510360484693
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -0.4134309069518968
+  }, {
+    "feature" : "mild",
+    "score" : -0.26316349577940856
+  }, {
+    "feature" : "ough",
+    "score" : -1.560706779365132
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "ough",
+    "score" : 2.6608570686470463
+  } ],
+  "c1_Class-32-486" : [ ]
+}

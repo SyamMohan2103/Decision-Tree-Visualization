@@ -1,0 +1,338 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9010107501536538
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -0.306780782196687
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.11307640704676153
+  }, {
+    "feature" : "lung",
+    "score" : -0.8156064667537412
+  }, {
+    "feature" : "fever",
+    "score" : -0.15292657082081315
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.22476850878916377
+  }, {
+    "feature" : "airwai",
+    "score" : -0.17349301509283102
+  }, {
+    "feature" : "diseas",
+    "score" : -0.24690686799038986
+  }, {
+    "feature" : "increas",
+    "score" : -0.17314880546192776
+  }, {
+    "feature" : "mild",
+    "score" : -0.21638529642135676
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5838495947341447
+  }, {
+    "feature" : "lung",
+    "score" : -0.6608497407060477
+  }, {
+    "feature" : "fever",
+    "score" : -0.13720597575441726
+  }, {
+    "feature" : "ha",
+    "score" : -0.037902610522357105
+  }, {
+    "feature" : "volum",
+    "score" : -0.0436334453318624
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.017724487400258827
+  }, {
+    "feature" : "airwai",
+    "score" : -0.37734565439672035
+  }, {
+    "feature" : "sinc",
+    "score" : -0.2394218310276871
+  }, {
+    "feature" : "lung",
+    "score" : -0.14603940868923035
+  }, {
+    "feature" : "fever",
+    "score" : -0.1587092935894405
+  }, {
+    "feature" : "diseas",
+    "score" : -0.03960574734905862
+  }, {
+    "feature" : "cough",
+    "score" : -0.46139714274149946
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.13710408895343335
+  }, {
+    "feature" : "sinc",
+    "score" : -0.10717006174394866
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46758322178778805
+  }, {
+    "feature" : "cough",
+    "score" : -0.615366744942297
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.2701178884635994
+  }, {
+    "feature" : "lung",
+    "score" : -0.031825005538668245
+  }, {
+    "feature" : "fever",
+    "score" : -0.08831232325506992
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4882590166858834
+  }, {
+    "feature" : "cough",
+    "score" : -0.5187498727186871
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.863491012053978
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3859085868783565
+  }, {
+    "feature" : "airwai",
+    "score" : -0.013349540046300776
+  }, {
+    "feature" : "sinc",
+    "score" : -0.20647144360948516
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5105947502655757
+  }, {
+    "feature" : "cough",
+    "score" : -0.557149806715561
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.3856584506621739
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3139280238586108
+  }, {
+    "feature" : "increas",
+    "score" : -0.06691587561825532
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.21178000749220588
+  }, {
+    "feature" : "viral",
+    "score" : 0.07921810205728542
+  }, {
+    "feature" : "cough",
+    "score" : 0.43164447094319636
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0016704562356029214
+  }, {
+    "feature" : "sinc",
+    "score" : -0.15820786580848045
+  }, {
+    "feature" : "diseas",
+    "score" : -0.24339196401881039
+  }, {
+    "feature" : "cough",
+    "score" : 1.7734305640818018
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.12395534303123038
+  }, {
+    "feature" : "sinc",
+    "score" : -0.011389459899690002
+  }, {
+    "feature" : "lung",
+    "score" : -0.0699451679090344
+  }, {
+    "feature" : "fever",
+    "score" : -0.2611714202127713
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3676317071016616
+  }, {
+    "feature" : "cough",
+    "score" : -0.6109818791309454
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -7.059484305695823E-4
+  }, {
+    "feature" : "sinc",
+    "score" : -0.3650561635357184
+  }, {
+    "feature" : "lung",
+    "score" : -0.011066182363433657
+  }, {
+    "feature" : "fever",
+    "score" : -0.0665467728327736
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4928909447196511
+  }, {
+    "feature" : "cough",
+    "score" : -0.4663548644877178
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -0.49351388405315877
+  }, {
+    "feature" : "lung",
+    "score" : 0.9489582782707503
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915878824262965
+  }, {
+    "feature" : "mild",
+    "score" : -0.020708455071630258
+  }, {
+    "feature" : "cough",
+    "score" : -0.4473152211008842
+  }, {
+    "feature" : "repres",
+    "score" : -0.16493892931068632
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.5740481371270413
+  }, {
+    "feature" : "fever",
+    "score" : -0.7850286339482941
+  }, {
+    "feature" : "cough",
+    "score" : -0.6393115548090468
+  } ],
+  "c3" : [ {
+    "feature" : "suspect",
+    "score" : 0.0034464200001682764
+  }, {
+    "feature" : "cough",
+    "score" : 0.5921275978933183
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "diseas",
+    "score" : -0.34483553946820406
+  }, {
+    "feature" : "mild",
+    "score" : -0.33380577858853916
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.36030808424857497
+  }, {
+    "feature" : "increas",
+    "score" : -0.0792539222024066
+  }, {
+    "feature" : "mild",
+    "score" : -0.08674633675729695
+  }, {
+    "feature" : "cough",
+    "score" : -0.015294669339307867
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "low",
+    "score" : -0.0016505495079224097
+  }, {
+    "feature" : "lung",
+    "score" : -0.8536108905863791
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "low",
+    "score" : -0.03316502070688487
+  }, {
+    "feature" : "lung",
+    "score" : -0.2283383655893416
+  }, {
+    "feature" : "fever",
+    "score" : -0.08547656103031544
+  }, {
+    "feature" : "without",
+    "score" : -0.1604005950696279
+  }, {
+    "feature" : "diseas",
+    "score" : -0.39434907109589207
+  }, {
+    "feature" : "cough",
+    "score" : -0.1309550917063589
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "vs",
+    "score" : -0.11200179398660123
+  }, {
+    "feature" : "patient",
+    "score" : -0.13036017123641314
+  }, {
+    "feature" : "airwai",
+    "score" : -0.026520431510947302
+  }, {
+    "feature" : "sinc",
+    "score" : -0.38512815932856437
+  }, {
+    "feature" : "lung",
+    "score" : -0.2599103869971124
+  }, {
+    "feature" : "fever",
+    "score" : 1.6447846957472443
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3330856378413283
+  }, {
+    "feature" : "cough",
+    "score" : -0.25657868566978115
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -0.28687763284717416
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -0.13781030722170792
+  }, {
+    "feature" : "mild",
+    "score" : -0.08772116525980285
+  }, {
+    "feature" : "cough",
+    "score" : -0.13362975695181722
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "low",
+    "score" : -0.09416531890742048
+  }, {
+    "feature" : "patient",
+    "score" : -0.052347208989513824
+  }, {
+    "feature" : "lung",
+    "score" : -0.39483795378574055
+  }, {
+    "feature" : "fever",
+    "score" : -0.03455977550133059
+  }, {
+    "feature" : "cough",
+    "score" : 1.4590720127946173
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.17699740785864806
+  }, {
+    "feature" : "fever",
+    "score" : 1.4095761275408545
+  } ]
+}

@@ -1,0 +1,263 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.05132793233740104
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.5659994631532601
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.516470445889537
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "reflux",
+    "score" : 1.3694007356068214
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.552118772243385
+  }, {
+    "feature" : "renal",
+    "score" : -0.2010049137708199
+  }, {
+    "feature" : "left",
+    "score" : -0.13958091409533033
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "neurogen",
+    "score" : -1.2126509811117716
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.17152981595662764
+  }, {
+    "feature" : "renal",
+    "score" : -0.6192636915166304
+  }, {
+    "feature" : "left",
+    "score" : -0.6451006035226284
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4133985955423015
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.7546051544408323
+  }, {
+    "feature" : "deflux",
+    "score" : -0.6004226100519703
+  }, {
+    "feature" : "reflux",
+    "score" : -1.2007034321317565
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.44131484575196683
+  }, {
+    "feature" : "left",
+    "score" : -0.4014142910277347
+  }, {
+    "feature" : "reflux",
+    "score" : -0.7709976208722458
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00678114379803847
+  }, {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4283440867682911
+  }, {
+    "feature" : "left",
+    "score" : -0.2584169016767138
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2455267104374216
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 3.4798203556876244
+  }, {
+    "feature" : "deflux",
+    "score" : -0.6068137864988719
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5035148083635659
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "renal",
+    "score" : -0.5839278032872262
+  }, {
+    "feature" : "left",
+    "score" : -0.557304655160273
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.27184823588363083
+  }, {
+    "feature" : "renal",
+    "score" : -0.9116484536633096
+  }, {
+    "feature" : "left",
+    "score" : -0.9359686799466271
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4788987272311528
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.7603820486541778
+  }, {
+    "feature" : "renal",
+    "score" : -0.88478166681636
+  }, {
+    "feature" : "deflux",
+    "score" : 0.689963518787662
+  }, {
+    "feature" : "reflux",
+    "score" : 2.0096455681459586
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.016539705261549915
+  }, {
+    "feature" : "renal",
+    "score" : -0.17658126706452573
+  }, {
+    "feature" : "left",
+    "score" : -0.5588418051266638
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2378825269344043
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.36284861776331906
+  }, {
+    "feature" : "left",
+    "score" : -1.5825287267970036
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5842696854621463
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.3363486635882103
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  } ],
+  "c2" : [ {
+    "feature" : "renal",
+    "score" : -1.331598597072501
+  }, {
+    "feature" : "left",
+    "score" : 0.467455425903769
+  } ],
+  "c3" : [ {
+    "feature" : "reflux",
+    "score" : 1.1454608674685693
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2674975648507534
+  }, {
+    "feature" : "left",
+    "score" : -0.23964872595019554
+  }, {
+    "feature" : "reflux",
+    "score" : 3.0966350442069066
+  }, {
+    "feature" : "seen",
+    "score" : -0.37813734244488195
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.46856472862092136
+  }, {
+    "feature" : "left",
+    "score" : -0.5344231643808052
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.061954384731492756
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.389247412686409
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.0072709471278512095
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -1.1553592614375656
+  }, {
+    "feature" : "left",
+    "score" : -0.5605263868685628
+  }, {
+    "feature" : "reflux",
+    "score" : -0.22218104320004986
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4846335138505296
+  }, {
+    "feature" : "renal",
+    "score" : -0.03148659522134607
+  }, {
+    "feature" : "left",
+    "score" : -0.2589836748321137
+  }, {
+    "feature" : "seen",
+    "score" : -0.037906433553828424
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.6075462115179127
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "renal",
+    "score" : -0.6159220825734187
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -1.2111197012932837
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  } ]
+}

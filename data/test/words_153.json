@@ -1,0 +1,290 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -1.3515160935062134
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4955630931273212
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.19740495950852716
+  }, {
+    "feature" : "1",
+    "score" : -0.2799680788905411
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5953193559775325
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -1.2234096714133988
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.48185055662837
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.7912642388284655
+  }, {
+    "feature" : "airwai",
+    "score" : -0.26023952263924655
+  }, {
+    "feature" : "increas",
+    "score" : -0.18365203362554158
+  }, {
+    "feature" : "mild",
+    "score" : -0.32457794463203515
+  }, {
+    "feature" : "1",
+    "score" : -0.020261510360202663
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.9912745877907879
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4915198439583122
+  }, {
+    "feature" : "volum",
+    "score" : -0.06545016799779359
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.5660184815950805
+  }, {
+    "feature" : "lung",
+    "score" : -0.21905910789185
+  }, {
+    "feature" : "2",
+    "score" : -0.22534893984671586
+  }, {
+    "feature" : "1",
+    "score" : -0.11331950162452235
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.20565613343015005
+  }, {
+    "feature" : "2",
+    "score" : -0.07601992596645471
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.047737507187455265
+  }, {
+    "feature" : "2",
+    "score" : -0.09150536135289637
+  }, {
+    "feature" : "1",
+    "score" : -0.13749043728716925
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -1.2952364876777565
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4987685523559326
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.020024310069451164
+  }, {
+    "feature" : "1",
+    "score" : -0.3560096190502487
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "increas",
+    "score" : -0.07097500099028152
+  }, {
+    "feature" : "2",
+    "score" : -0.2212056711862578
+  }, {
+    "feature" : "1",
+    "score" : -0.1257965888690113
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7855695288177499
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.3176700013831832
+  }, {
+    "feature" : "ever",
+    "score" : -0.4257707713647235
+  }, {
+    "feature" : "viral",
+    "score" : 0.11882715308592813
+  }, {
+    "feature" : "1",
+    "score" : -0.41559517236751936
+  } ],
+  "c3_Class-4-753_0" : [ ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.18593301454684558
+  }, {
+    "feature" : "lung",
+    "score" : -0.10491774940080718
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.01659927315551415
+  }, {
+    "feature" : "2",
+    "score" : -0.28642061059377755
+  }, {
+    "feature" : "1",
+    "score" : -0.2782048098797382
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -0.7402708260797382
+  }, {
+    "feature" : "lung",
+    "score" : 1.4234373839936427
+  }, {
+    "feature" : "mild",
+    "score" : -0.03106268260744539
+  }, {
+    "feature" : "2",
+    "score" : -0.09128345552718728
+  }, {
+    "feature" : "1",
+    "score" : -0.8694379909355758
+  }, {
+    "feature" : "pneumonia",
+    "score" : 1.921413049485408
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.8610721854785317
+  }, {
+    "feature" : "ever",
+    "score" : 0.49629696233937204
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.10899323433798062
+  } ],
+  "c3" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.0014959321512262
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.012061498685959638
+  }, {
+    "feature" : "like",
+    "score" : -0.06763094950069864
+  }, {
+    "feature" : "mild",
+    "score" : -0.5007086678828088
+  }, {
+    "feature" : "1",
+    "score" : -0.06723239358776827
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5938038107111973
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "increas",
+    "score" : -0.08406147502110745
+  }, {
+    "feature" : "mild",
+    "score" : -0.13011950513594545
+  }, {
+    "feature" : "2",
+    "score" : -0.026564266756290873
+  }, {
+    "feature" : "1",
+    "score" : -0.39775312238908594
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.9192436311784529
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "low",
+    "score" : -0.002475824261883615
+  }, {
+    "feature" : "lung",
+    "score" : -1.2804163058242335
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.5023016547616683
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.6714435939912585
+  }, {
+    "feature" : "low",
+    "score" : -0.04974753106032732
+  }, {
+    "feature" : "lung",
+    "score" : -0.3425075403442999
+  }, {
+    "feature" : "ever",
+    "score" : -0.1332010300370871
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "airwai",
+    "score" : -0.03978064726642095
+  }, {
+    "feature" : "lung",
+    "score" : -0.38986557134431654
+  }, {
+    "feature" : "2",
+    "score" : -0.18834000752705946
+  }, {
+    "feature" : "1",
+    "score" : -0.12325199120032376
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.18832953672635644
+  }, {
+    "feature" : "1",
+    "score" : -0.32894584276634176
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.627097324740019
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "ever",
+    "score" : 0.9787244118978972
+  }, {
+    "feature" : "mild",
+    "score" : -0.13158174788970428
+  }, {
+    "feature" : "2",
+    "score" : -0.09296429471747127
+  }, {
+    "feature" : "1",
+    "score" : -0.09175177589098532
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.060333326197420586
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "low",
+    "score" : -0.1412479783611307
+  }, {
+    "feature" : "lung",
+    "score" : -0.5922569167765073
+  }, {
+    "feature" : "ever",
+    "score" : -0.029344187079761767
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5673710460338358
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.26549610555595643
+  }, {
+    "feature" : "ever",
+    "score" : 0.9686274278072333
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7517405667444497
+  } ]
+}

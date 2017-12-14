@@ -1,0 +1,440 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.06667694162253925
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16468952885335214
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.756143858179608
+  }, {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3106063027745147
+  }, {
+    "feature" : "1",
+    "score" : -0.2799680788905411
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.6290105988580015
+  }, {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08910485893424845
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.2611130488023691
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "femal",
+    "score" : -0.19304464785780237
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7967472912680842
+  }, {
+    "feature" : "stabl",
+    "score" : -0.020309136648780778
+  }, {
+    "feature" : "1",
+    "score" : -0.020261510360202663
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "appear",
+    "score" : -0.04393343850522487
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5074868848491245
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -1.0736971691370982
+  }, {
+    "feature" : "renal",
+    "score" : -0.8044471524157883
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "2",
+    "score" : -0.22534893984671586
+  }, {
+    "feature" : "1",
+    "score" : -0.11331950162452235
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.380578287335776
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1769946328464664
+  }, {
+    "feature" : "2",
+    "score" : -0.07601992596645471
+  }, {
+    "feature" : "calculi",
+    "score" : -0.16033019855057626
+  }, {
+    "feature" : "year",
+    "score" : -0.004480913888783214
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.869943272200185
+  }, {
+    "feature" : "renal",
+    "score" : -0.5732848152529681
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "2",
+    "score" : -0.09150536135289637
+  }, {
+    "feature" : "1",
+    "score" : -0.13749043728716925
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00880896440915838
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5966236961457475
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.6731678741354332
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.05423079498425796
+  }, {
+    "feature" : "stabl",
+    "score" : -0.0491053239913657
+  }, {
+    "feature" : "calculi",
+    "score" : -0.19785216923348656
+  }, {
+    "feature" : "histori",
+    "score" : -0.36632243987370383
+  }, {
+    "feature" : "1",
+    "score" : -0.3560096190502487
+  }, {
+    "feature" : "year",
+    "score" : -0.01577710043759623
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.2596077359216545
+  }, {
+    "feature" : "ag",
+    "score" : -1.0539570394090296
+  }, {
+    "feature" : "femal",
+    "score" : -0.06092850725790967
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.40296281271620477
+  }, {
+    "feature" : "2",
+    "score" : -0.2212056711862578
+  }, {
+    "feature" : "1",
+    "score" : -0.1257965888690113
+  }, {
+    "feature" : "year",
+    "score" : -0.6071486309215011
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.13343115030281355
+  }, {
+    "feature" : "right",
+    "score" : -0.4478326682363935
+  }, {
+    "feature" : "renal",
+    "score" : -0.7585444859852578
+  }, {
+    "feature" : "femal",
+    "score" : -0.08030181667244962
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9796089998916786
+  }, {
+    "feature" : "1",
+    "score" : -0.41559517236751936
+  }, {
+    "feature" : "year",
+    "score" : -0.18004074933793382
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -1.0393009972023526
+  }, {
+    "feature" : "renal",
+    "score" : -1.184266109252445
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "histori",
+    "score" : -0.02278969097420737
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.6802985330959425
+  }, {
+    "feature" : "renal",
+    "score" : -1.1493651285076207
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.1597445272708835
+  }, {
+    "feature" : "renal",
+    "score" : -0.229385800275382
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "2",
+    "score" : -0.28642061059377755
+  }, {
+    "feature" : "1",
+    "score" : -0.2782048098797382
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.2021554224868658
+  }, {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "femal",
+    "score" : -0.36858036774152997
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08445538713581291
+  }, {
+    "feature" : "2",
+    "score" : -0.09128345552718728
+  }, {
+    "feature" : "1",
+    "score" : -0.8694379909355758
+  }, {
+    "feature" : "year",
+    "score" : -0.005582721674629606
+  }, {
+    "feature" : "pole",
+    "score" : -0.008083300998001329
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.36694869108205114
+  }, {
+    "feature" : "renal",
+    "score" : -1.7297973613669628
+  }, {
+    "feature" : "femal",
+    "score" : 0.3614337823584814
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.20907443627248123
+  }, {
+    "feature" : "calculi",
+    "score" : -0.020175539925950284
+  } ],
+  "c3" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.001513315703737792
+  }, {
+    "feature" : "right",
+    "score" : 0.6170189831041126
+  }, {
+    "feature" : "suspect",
+    "score" : 0.005169630000252414
+  }, {
+    "feature" : "appear",
+    "score" : -0.10587444695879591
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.851537008923683
+  }, {
+    "feature" : "histori",
+    "score" : 0.014959363453347002
+  }, {
+    "feature" : "pole",
+    "score" : 0.794828202236231
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.14556767338661192
+  }, {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.02471997801530974
+  }, {
+    "feature" : "1",
+    "score" : -0.06723239358776827
+  }, {
+    "feature" : "year",
+    "score" : -0.3385346672109389
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "femal",
+    "score" : -0.18055856773226728
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31411353967110056
+  }, {
+    "feature" : "2",
+    "score" : -0.026564266756290873
+  }, {
+    "feature" : "histori",
+    "score" : -0.13947572020494983
+  }, {
+    "feature" : "1",
+    "score" : -0.39775312238908594
+  }, {
+    "feature" : "year",
+    "score" : -0.10952237934018462
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.0804811085482203
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.38281366164826797
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.00944523761443324
+  }, {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0930344703283286
+  }, {
+    "feature" : "histori",
+    "score" : -0.056160157905112765
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.3260058080108827
+  }, {
+    "feature" : "renal",
+    "score" : -1.5008557430590102
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "2",
+    "score" : -0.18834000752705946
+  }, {
+    "feature" : "1",
+    "score" : -0.12325199120032376
+  }, {
+    "feature" : "year",
+    "score" : -0.14012264013386355
+  }, {
+    "feature" : "pole",
+    "score" : -0.025425096683165255
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.21124575207433752
+  }, {
+    "feature" : "renal",
+    "score" : -0.04090228801085813
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "appear",
+    "score" : -0.02070381583678346
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3605431741747094
+  }, {
+    "feature" : "1",
+    "score" : -0.32894584276634176
+  }, {
+    "feature" : "year",
+    "score" : -0.1866248994236662
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.793084782705877
+  }, {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6803949977780357
+  }, {
+    "feature" : "2",
+    "score" : -0.09296429471747127
+  }, {
+    "feature" : "1",
+    "score" : -0.09175177589098532
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.12221592696725724
+  }, {
+    "feature" : "right",
+    "score" : -0.6662608905144248
+  }, {
+    "feature" : "renal",
+    "score" : -0.8001062749581253
+  }, {
+    "feature" : "appear",
+    "score" : -0.14124977044567605
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7627803587907093
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.8519538092262033
+  }, {
+    "feature" : "right",
+    "score" : -0.3878568779244065
+  }, {
+    "feature" : "renal",
+    "score" : -1.57329068099236
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8077842422236395
+  }, {
+    "feature" : "histori",
+    "score" : -0.21650883645005986
+  }, {
+    "feature" : "year",
+    "score" : -0.10386659280375372
+  } ]
+}

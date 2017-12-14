@@ -1,0 +1,533 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.20871809214928547
+  }, {
+    "feature" : "normal",
+    "score" : -0.7456043487835055
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16639622353550645
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.8821678508245155
+  }, {
+    "feature" : "old",
+    "score" : -0.46562489989637385
+  }, {
+    "feature" : "normal",
+    "score" : -0.5314203251031915
+  }, {
+    "feature" : "left",
+    "score" : -0.3501942958755463
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31382514813086343
+  }, {
+    "feature" : "1",
+    "score" : -0.16331470606484158
+  }, {
+    "feature" : "chang",
+    "score" : -0.10794120678078892
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -3.6147971823893236E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.490080388091853
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.09002826183640021
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.24155195923488437
+  }, {
+    "feature" : "post",
+    "score" : -0.05446009037191783
+  }, {
+    "feature" : "old",
+    "score" : -0.20149653724028613
+  }, {
+    "feature" : "normal",
+    "score" : -0.6336039249137326
+  }, {
+    "feature" : "left",
+    "score" : -0.08636128320150646
+  }, {
+    "feature" : "femal",
+    "score" : -0.11260937387974324
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8050040661492542
+  }, {
+    "feature" : "stabl",
+    "score" : -0.011846996186971543
+  }, {
+    "feature" : "1",
+    "score" : -0.011819213897595654
+  }, {
+    "feature" : "chang",
+    "score" : -0.2900572280992657
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.42061270517393096
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5127460241135662
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.075044293355883
+  }, {
+    "feature" : "right",
+    "score" : -1.252646720445959
+  }, {
+    "feature" : "old",
+    "score" : -0.4055214104165972
+  }, {
+    "feature" : "normal",
+    "score" : -0.3957532257641839
+  }, {
+    "feature" : "left",
+    "score" : -0.39913562878826486
+  }, {
+    "feature" : "2",
+    "score" : -0.13145354824391758
+  }, {
+    "feature" : "1",
+    "score" : -0.06610303993427326
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 1.2051397369991639
+  }, {
+    "feature" : "right",
+    "score" : -0.44400801008652646
+  }, {
+    "feature" : "old",
+    "score" : -0.20628681149583894
+  }, {
+    "feature" : "normal",
+    "score" : -0.6291707938457616
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.17882884659856174
+  }, {
+    "feature" : "2",
+    "score" : -0.04434495681376525
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -1.0149338362989035
+  }, {
+    "feature" : "old",
+    "score" : -0.3005813492504814
+  }, {
+    "feature" : "normal",
+    "score" : -0.46490998073479245
+  }, {
+    "feature" : "left",
+    "score" : -0.24836241755016492
+  }, {
+    "feature" : "2",
+    "score" : -0.05337812745585622
+  }, {
+    "feature" : "1",
+    "score" : -0.08020275183250261
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.7833959901728779
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6028065694379888
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.1874005351514249
+  }, {
+    "feature" : "right",
+    "score" : -0.7853625343196343
+  }, {
+    "feature" : "old",
+    "score" : -0.17478728743722385
+  }, {
+    "feature" : "normal",
+    "score" : -0.3666087138739454
+  }, {
+    "feature" : "left",
+    "score" : -0.15988729816252972
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.05479279434179483
+  }, {
+    "feature" : "stabl",
+    "score" : -0.028644771865309008
+  }, {
+    "feature" : "histori",
+    "score" : -0.21368808734642555
+  }, {
+    "feature" : "1",
+    "score" : -0.20767226935960498
+  }, {
+    "feature" : "chang",
+    "score" : -0.25974794020590103
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 1.522421382787621
+  }, {
+    "feature" : "normal",
+    "score" : -0.49767247361316863
+  }, {
+    "feature" : "femal",
+    "score" : -0.03554162795953056
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4071387581716143
+  }, {
+    "feature" : "2",
+    "score" : -0.12903664152531705
+  }, {
+    "feature" : "1",
+    "score" : -0.07338134053180592
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.5224714559187327
+  }, {
+    "feature" : "normal",
+    "score" : -0.16976756488295713
+  }, {
+    "feature" : "left",
+    "score" : -0.34481465797639743
+  }, {
+    "feature" : "femal",
+    "score" : -0.04684272471284158
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9897607896402204
+  }, {
+    "feature" : "1",
+    "score" : -0.24243050738546792
+  }, {
+    "feature" : "chang",
+    "score" : -0.06109721756586818
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.11893360141591304
+  }, {
+    "feature" : "right",
+    "score" : -1.2125178524481215
+  }, {
+    "feature" : "old",
+    "score" : -0.0887186039098703
+  }, {
+    "feature" : "consist",
+    "score" : -0.18523264170973686
+  }, {
+    "feature" : "normal",
+    "score" : -0.3854364549507312
+  }, {
+    "feature" : "left",
+    "score" : -0.5791010666501649
+  }, {
+    "feature" : "histori",
+    "score" : -0.013293986241119844
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.007608500749723389
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.33266714129851327
+  }, {
+    "feature" : "right",
+    "score" : -0.7936816365937691
+  }, {
+    "feature" : "old",
+    "score" : -0.24930088779052526
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.007236120943436685
+  }, {
+    "feature" : "right",
+    "score" : -1.3530353067881866
+  }, {
+    "feature" : "old",
+    "score" : -0.3269799584983265
+  }, {
+    "feature" : "normal",
+    "score" : -0.514146707424867
+  }, {
+    "feature" : "left",
+    "score" : -0.3457657209811862
+  }, {
+    "feature" : "2",
+    "score" : -0.1670786895130369
+  }, {
+    "feature" : "1",
+    "score" : -0.16228613251690827
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.158746267891364
+  }, {
+    "feature" : "right",
+    "score" : -1.4025146854533772
+  }, {
+    "feature" : "old",
+    "score" : -0.6332307977468787
+  }, {
+    "feature" : "normal",
+    "score" : 0.0956521851431663
+  }, {
+    "feature" : "left",
+    "score" : -0.9791396799142164
+  }, {
+    "feature" : "femal",
+    "score" : -0.2150052068074554
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08533060707910586
+  }, {
+    "feature" : "2",
+    "score" : -0.053248682390859246
+  }, {
+    "feature" : "1",
+    "score" : -0.5071721408166838
+  }, {
+    "feature" : "chang",
+    "score" : -0.6070192481175063
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.42810681416370205
+  }, {
+    "feature" : "normal",
+    "score" : -0.25160677757400546
+  }, {
+    "feature" : "left",
+    "score" : 0.28922328444549705
+  }, {
+    "feature" : "femal",
+    "score" : 0.21083636548347306
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.2112410963573394
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.7198554935740697
+  }, {
+    "feature" : "2001",
+    "score" : 0.5428161185296942
+  }, {
+    "feature" : "normal",
+    "score" : -0.2478982535204114
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8707246791352834
+  }, {
+    "feature" : "histori",
+    "score" : 0.008726295242431334
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.02194134512388738
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.11703018286756718
+  }, {
+    "feature" : "decreas",
+    "score" : -0.08015008541851644
+  }, {
+    "feature" : "right",
+    "score" : -0.1698289554188111
+  }, {
+    "feature" : "post",
+    "score" : -0.14898611449154434
+  }, {
+    "feature" : "old",
+    "score" : -0.31002958581894435
+  }, {
+    "feature" : "normal",
+    "score" : -0.3968053296162232
+  }, {
+    "feature" : "left",
+    "score" : -0.14827508205405457
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.02497615371339719
+  }, {
+    "feature" : "1",
+    "score" : -0.039218894669470414
+  }, {
+    "feature" : "chang",
+    "score" : -0.0432524393811704
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.20499706569812526
+  }, {
+    "feature" : "interv",
+    "score" : -0.2484122248729159
+  }, {
+    "feature" : "old",
+    "score" : -0.013090296157576817
+  }, {
+    "feature" : "normal",
+    "score" : -0.3739775292195766
+  }, {
+    "feature" : "left",
+    "score" : -0.3306574580605932
+  }, {
+    "feature" : "femal",
+    "score" : -0.10532582740097987
+  }, {
+    "feature" : "hydrouret",
+    "score" : -0.020006033010970294
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31736873088745715
+  }, {
+    "feature" : "2",
+    "score" : -0.015495822274503008
+  }, {
+    "feature" : "histori",
+    "score" : -0.08136083580393406
+  }, {
+    "feature" : "1",
+    "score" : -0.2320226453200169
+  }, {
+    "feature" : "chang",
+    "score" : -0.7742348487723919
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -0.7323894024765707
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.386780799359694
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.30678600987266214
+  }, {
+    "feature" : "normal",
+    "score" : -0.6150526142339057
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1043617000004824
+  }, {
+    "feature" : "month",
+    "score" : -0.041963381727484296
+  }, {
+    "feature" : "histori",
+    "score" : -0.03276009171579623
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.5470068045648673
+  }, {
+    "feature" : "old",
+    "score" : -0.1941096620770046
+  }, {
+    "feature" : "normal",
+    "score" : -0.2749549806874613
+  }, {
+    "feature" : "left",
+    "score" : -0.3468080027417774
+  }, {
+    "feature" : "2",
+    "score" : -0.10986500439078468
+  }, {
+    "feature" : "1",
+    "score" : -0.0718969919519185
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.21202715913067643
+  }, {
+    "feature" : "right",
+    "score" : -0.24645338196870173
+  }, {
+    "feature" : "interv",
+    "score" : -0.021814183876917182
+  }, {
+    "feature" : "old",
+    "score" : -0.42525393572721104
+  }, {
+    "feature" : "normal",
+    "score" : -0.5098510582004334
+  }, {
+    "feature" : "left",
+    "score" : -0.16023797115605284
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.36427952051278734
+  }, {
+    "feature" : "1",
+    "score" : -0.1918850671673903
+  }, {
+    "feature" : "chang",
+    "score" : -0.012125500899015903
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.9252655969005917
+  }, {
+    "feature" : "old",
+    "score" : -0.5354686212546785
+  }, {
+    "feature" : "normal",
+    "score" : -0.41538808437289754
+  }, {
+    "feature" : "left",
+    "score" : -0.37590003454960985
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6874460017644894
+  }, {
+    "feature" : "2",
+    "score" : -0.0542291719185249
+  }, {
+    "feature" : "1",
+    "score" : -0.05352186709979151
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.7773043866130669
+  }, {
+    "feature" : "interv",
+    "score" : -0.18032062331688015
+  }, {
+    "feature" : "normal",
+    "score" : -0.34274010400210586
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7706851308248748
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.45249969926332134
+  }, {
+    "feature" : "interv",
+    "score" : -0.07908371372739068
+  }, {
+    "feature" : "normal",
+    "score" : -0.40464611326222255
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8161553941731892
+  }, {
+    "feature" : "histori",
+    "score" : -0.12629681973772655
+  } ]
+}

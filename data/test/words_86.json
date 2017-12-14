@@ -1,0 +1,443 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.04491194124811564
+  }, {
+    "feature" : "bladder",
+    "score" : -1.080875972305803
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "followup",
+    "score" : -0.27208611530627674
+  }, {
+    "feature" : "old",
+    "score" : -0.9312497997927477
+  }, {
+    "feature" : "left",
+    "score" : -0.4952495205294292
+  }, {
+    "feature" : "neurogen",
+    "score" : 3.9519115438608745
+  }, {
+    "feature" : "1",
+    "score" : -0.4619237516937223
+  }, {
+    "feature" : "bilater",
+    "score" : -0.31821956853464695
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -7.229594364778647E-4
+  }, {
+    "feature" : "bladder",
+    "score" : -1.1194503171993324
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.48310391846976874
+  }, {
+    "feature" : "followup",
+    "score" : -0.20029142437131173
+  }, {
+    "feature" : "renal",
+    "score" : -0.17587930132302534
+  }, {
+    "feature" : "old",
+    "score" : -0.40299307448057226
+  }, {
+    "feature" : "left",
+    "score" : -0.12213329743398296
+  }, {
+    "feature" : "mild",
+    "score" : -0.37867425680492406
+  }, {
+    "feature" : "1",
+    "score" : -0.03342978570148072
+  }, {
+    "feature" : "bladder",
+    "score" : -0.09235861052175957
+  }, {
+    "feature" : "bilater",
+    "score" : -0.19477271313089722
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "ha",
+    "score" : -0.06632956577876185
+  }, {
+    "feature" : "neurogen",
+    "score" : -1.0610695826187269
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.150088586711766
+  }, {
+    "feature" : "renal",
+    "score" : -0.5418557355410974
+  }, {
+    "feature" : "old",
+    "score" : -0.8110428208331945
+  }, {
+    "feature" : "left",
+    "score" : -0.564463016992858
+  }, {
+    "feature" : "2",
+    "score" : -0.26290709648783517
+  }, {
+    "feature" : "1",
+    "score" : -0.18696763408848296
+  }, {
+    "feature" : "bilater",
+    "score" : -0.26197520952797565
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.4102794739983278
+  }, {
+    "feature" : "old",
+    "score" : -0.4125736229916779
+  }, {
+    "feature" : "2",
+    "score" : -0.0886899136275305
+  }, {
+    "feature" : "year",
+    "score" : -0.0036965651655830626
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.38615049392689293
+  }, {
+    "feature" : "old",
+    "score" : -0.6011626985009628
+  }, {
+    "feature" : "left",
+    "score" : -0.35123749774885504
+  }, {
+    "feature" : "2",
+    "score" : -0.10675625491171244
+  }, {
+    "feature" : "1",
+    "score" : -0.226847642293285
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.005933500883116783
+  }, {
+    "feature" : "bladder",
+    "score" : -1.0759085608113947
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.3748010703028498
+  }, {
+    "feature" : "old",
+    "score" : -0.3495745748744477
+  }, {
+    "feature" : "left",
+    "score" : -0.2261147845248729
+  }, {
+    "feature" : "1",
+    "score" : -0.5873858888571306
+  }, {
+    "feature" : "year",
+    "score" : -0.013015443130365649
+  }, {
+    "feature" : "bilater",
+    "score" : -0.089245421726595
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 3.044842765575242
+  }, {
+    "feature" : "followup",
+    "score" : -0.22764218225065108
+  }, {
+    "feature" : "2",
+    "score" : -0.2580732830506341
+  }, {
+    "feature" : "1",
+    "score" : -0.20755377724102989
+  }, {
+    "feature" : "bladder",
+    "score" : -0.45859443960734847
+  }, {
+    "feature" : "year",
+    "score" : -0.5008720397448482
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "followup",
+    "score" : -0.2619501323077337
+  }, {
+    "feature" : "renal",
+    "score" : -0.5109368330285841
+  }, {
+    "feature" : "left",
+    "score" : -0.4876415636850315
+  }, {
+    "feature" : "1",
+    "score" : -0.6856970336281065
+  }, {
+    "feature" : "year",
+    "score" : -0.14852603261447683
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.23786720283182608
+  }, {
+    "feature" : "renal",
+    "score" : -0.7976924049992857
+  }, {
+    "feature" : "old",
+    "score" : -0.1774372078197406
+  }, {
+    "feature" : "left",
+    "score" : -0.8189725788637613
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3063593569586247
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.015217001499446778
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.6653342825970265
+  }, {
+    "feature" : "renal",
+    "score" : -0.7741839662711468
+  }, {
+    "feature" : "old",
+    "score" : -0.4986017755810505
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.01447224188687337
+  }, {
+    "feature" : "renal",
+    "score" : -0.154508610239517
+  }, {
+    "feature" : "old",
+    "score" : -0.653959916996653
+  }, {
+    "feature" : "left",
+    "score" : -0.4889865698791994
+  }, {
+    "feature" : "2",
+    "score" : -0.3341573790260738
+  }, {
+    "feature" : "1",
+    "score" : -0.4590145063256681
+  }, {
+    "feature" : "bilater",
+    "score" : -0.13125531479180788
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.317492535782728
+  }, {
+    "feature" : "followup",
+    "score" : -0.05460899255117312
+  }, {
+    "feature" : "old",
+    "score" : -1.2664615954937575
+  }, {
+    "feature" : "left",
+    "score" : -1.3847126087433106
+  }, {
+    "feature" : "mild",
+    "score" : -0.036239795233396384
+  }, {
+    "feature" : "2",
+    "score" : -0.10649736478171849
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.16930505214834
+  }, {
+    "feature" : "1",
+    "score" : -1.434499462329891
+  }, {
+    "feature" : "bladder",
+    "score" : 1.7286388528516965
+  }, {
+    "feature" : "year",
+    "score" : -0.004605510166852428
+  }, {
+    "feature" : "bilater",
+    "score" : -0.512596355361547
+  } ],
+  "c2" : [ {
+    "feature" : "followup",
+    "score" : 1.1835200972720343
+  }, {
+    "feature" : "renal",
+    "score" : -1.1651487841877397
+  }, {
+    "feature" : "left",
+    "score" : 0.4090234896301213
+  } ],
+  "c3" : [ {
+    "feature" : "bladder",
+    "score" : -1.1765306157377764
+  }, {
+    "feature" : "bilater",
+    "score" : 0.008115863782525136
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.04388269024777476
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.23406036573513436
+  }, {
+    "feature" : "decreas",
+    "score" : -0.16030017083703288
+  }, {
+    "feature" : "followup",
+    "score" : -0.32298987945366003
+  }, {
+    "feature" : "old",
+    "score" : -0.6200591716378887
+  }, {
+    "feature" : "left",
+    "score" : -0.20969263108679914
+  }, {
+    "feature" : "mild",
+    "score" : -0.5841600941224042
+  }, {
+    "feature" : "1",
+    "score" : -0.11092778721231612
+  }, {
+    "feature" : "bladder",
+    "score" : -0.09232761760186867
+  }, {
+    "feature" : "year",
+    "score" : -0.27927683709495055
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4099941313962505
+  }, {
+    "feature" : "followup",
+    "score" : -1.104415066499335
+  }, {
+    "feature" : "old",
+    "score" : -0.026180592315153635
+  }, {
+    "feature" : "left",
+    "score" : -0.4676202596463357
+  }, {
+    "feature" : "mild",
+    "score" : -0.1518060845416898
+  }, {
+    "feature" : "2",
+    "score" : -0.030991644549006016
+  }, {
+    "feature" : "1",
+    "score" : -0.656259153793359
+  }, {
+    "feature" : "year",
+    "score" : -0.09035134849034976
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.05421008718670793
+  }, {
+    "feature" : "neurogen",
+    "score" : 3.8405913925205692
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19687366690834812
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.006362078801024689
+  }, {
+    "feature" : "old",
+    "score" : -0.6135720197453243
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6469037057311626
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -1.0109393639521311
+  }, {
+    "feature" : "old",
+    "score" : -0.3882193241540092
+  }, {
+    "feature" : "left",
+    "score" : -0.49046057887440264
+  }, {
+    "feature" : "2",
+    "score" : -0.21973000878156937
+  }, {
+    "feature" : "1",
+    "score" : -0.20335540538974894
+  }, {
+    "feature" : "year",
+    "score" : -0.11559527437583182
+  }, {
+    "feature" : "bilater",
+    "score" : -0.8281291120288087
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.42405431826135287
+  }, {
+    "feature" : "renal",
+    "score" : -0.027550771096498394
+  }, {
+    "feature" : "old",
+    "score" : -0.8505078714544221
+  }, {
+    "feature" : "left",
+    "score" : -0.22661071102610486
+  }, {
+    "feature" : "1",
+    "score" : -0.5427329372577823
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1667025179037427
+  }, {
+    "feature" : "year",
+    "score" : -0.15395767902768168
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "followup",
+    "score" : -0.4212504230183507
+  }, {
+    "feature" : "old",
+    "score" : -1.070937242509357
+  }, {
+    "feature" : "left",
+    "score" : -0.5316029246343011
+  }, {
+    "feature" : "mild",
+    "score" : -0.15351203436731872
+  }, {
+    "feature" : "2",
+    "score" : -0.1084583438370498
+  }, {
+    "feature" : "1",
+    "score" : -0.1513827030284254
+  }, {
+    "feature" : "bilater",
+    "score" : -0.08438713386226437
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "renal",
+    "score" : -0.5389318276863027
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5862749786497367
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -1.0597297493178843
+  }, {
+    "feature" : "bladder",
+    "score" : -0.39803757795554856
+  }, {
+    "feature" : "year",
+    "score" : -0.08568556289092566
+  } ]
+}

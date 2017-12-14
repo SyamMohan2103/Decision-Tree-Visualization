@@ -1,0 +1,284 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.064285485477426
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8677071225618417
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.3058531416416263
+  }, {
+    "feature" : "old",
+    "score" : -8.262393559747025E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.34698603018566204
+  }, {
+    "feature" : "old",
+    "score" : -0.4605635136920826
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6983581123648733
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.2744119515088345
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.7546913087934407
+  }, {
+    "feature" : "fever",
+    "score" : -0.317418587178881
+  }, {
+    "feature" : "old",
+    "score" : -0.9269060809522223
+  }, {
+    "feature" : "diseas",
+    "score" : -0.11202197485476673
+  }, {
+    "feature" : "cough",
+    "score" : -0.9227942854829989
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.2742081779068667
+  }, {
+    "feature" : "old",
+    "score" : -0.471512711990489
+  }, {
+    "feature" : "diseas",
+    "score" : -1.3225251237398354
+  }, {
+    "feature" : "cough",
+    "score" : -1.230733489884594
+  }, {
+    "feature" : "year",
+    "score" : -0.004224645954553026
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.17662464651013984
+  }, {
+    "feature" : "old",
+    "score" : -0.6870430840011004
+  }, {
+    "feature" : "diseas",
+    "score" : -1.381005105338562
+  }, {
+    "feature" : "find",
+    "score" : -0.30510608265699013
+  }, {
+    "feature" : "cough",
+    "score" : -1.0374997454373742
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.02669908009260155
+  }, {
+    "feature" : "old",
+    "score" : -0.3995137998565117
+  }, {
+    "feature" : "diseas",
+    "score" : -1.444180102729099
+  }, {
+    "feature" : "find",
+    "score" : -0.022004881018893963
+  }, {
+    "feature" : "cough",
+    "score" : -1.114299613431122
+  }, {
+    "feature" : "year",
+    "score" : -0.014874792328662028
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.8879225756039617
+  }, {
+    "feature" : "year",
+    "score" : -0.5724251951941541
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.42356001498441176
+  }, {
+    "feature" : "viral",
+    "score" : 0.15843620411457085
+  }, {
+    "feature" : "cough",
+    "score" : 0.8632889418863927
+  }, {
+    "feature" : "year",
+    "score" : -0.1697440393240272
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.20278538036541782
+  }, {
+    "feature" : "consist",
+    "score" : -0.4233889098277601
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6884164622086226
+  }, {
+    "feature" : "cough",
+    "score" : 3.5468611281636035
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.24791068606246075
+  }, {
+    "feature" : "fever",
+    "score" : -0.5223428404255426
+  }, {
+    "feature" : "old",
+    "score" : -0.5698306006640577
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0398195364374603
+  }, {
+    "feature" : "cough",
+    "score" : -1.2219637582618907
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.1330935456655472
+  }, {
+    "feature" : "old",
+    "score" : -0.7473827622818892
+  }, {
+    "feature" : "diseas",
+    "score" : -1.39410617678546
+  }, {
+    "feature" : "cough",
+    "score" : -0.9327097289754356
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -0.9870277681063175
+  }, {
+    "feature" : "old",
+    "score" : -1.4473846805642943
+  }, {
+    "feature" : "diseas",
+    "score" : -1.6732632843783077
+  }, {
+    "feature" : "cough",
+    "score" : -0.8946304422017683
+  }, {
+    "feature" : "year",
+    "score" : -0.005263440254265618
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -1.5700572678965883
+  }, {
+    "feature" : "find",
+    "score" : -0.25597433861602586
+  }, {
+    "feature" : "cough",
+    "score" : -1.2786231096180936
+  } ],
+  "c3" : [ {
+    "feature" : "find",
+    "score" : 0.34470292556164495
+  }, {
+    "feature" : "cough",
+    "score" : 1.1842551957866365
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.7086390533004443
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9753422348247961
+  }, {
+    "feature" : "year",
+    "score" : -0.31917353196381415
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.029920676931604155
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0191052020287759
+  }, {
+    "feature" : "cough",
+    "score" : -0.030589338678615734
+  }, {
+    "feature" : "year",
+    "score" : -0.1032586852362335
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.17095312206063087
+  }, {
+    "feature" : "old",
+    "score" : -0.7012251654232278
+  }, {
+    "feature" : "diseas",
+    "score" : -1.1153876566693457
+  }, {
+    "feature" : "cough",
+    "score" : -0.2619101834127178
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "airwai",
+    "score" : -0.053040863021894605
+  }, {
+    "feature" : "fever",
+    "score" : 3.2895693914944886
+  }, {
+    "feature" : "old",
+    "score" : -0.44367922760458195
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9421084929390203
+  }, {
+    "feature" : "cough",
+    "score" : -0.5131573713395623
+  }, {
+    "feature" : "year",
+    "score" : -0.13210888659669476
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.972008995947911
+  }, {
+    "feature" : "diseas",
+    "score" : -0.811412512683339
+  }, {
+    "feature" : "year",
+    "score" : -0.1759516352998143
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -1.2239282771535511
+  }, {
+    "feature" : "diseas",
+    "score" : -0.38978642756717935
+  }, {
+    "feature" : "cough",
+    "score" : -0.26725951390363445
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "fever",
+    "score" : -0.06911955100266118
+  }, {
+    "feature" : "cough",
+    "score" : 2.9181440255892346
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.819152255081709
+  }, {
+    "feature" : "year",
+    "score" : -0.09792635877248246
+  } ]
+}

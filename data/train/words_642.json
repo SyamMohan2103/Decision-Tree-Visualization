@@ -1,0 +1,524 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.5063482748583414
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1372412845369624
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7720542659327164
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.073631197631717
+  }, {
+    "feature" : "urinari",
+    "score" : -0.22571775531798596
+  }, {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2588386054344061
+  }, {
+    "feature" : "1",
+    "score" : -0.23330674565139906
+  }, {
+    "feature" : "bilater",
+    "score" : -0.22729966971555576
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -0.9901119116975846
+  }, {
+    "feature" : "urinari",
+    "score" : -0.15478222658420687
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0742540547888159
+  }, {
+    "feature" : "reflux",
+    "score" : 0.8558754407770163
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7996073694280945
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.280073246346373
+  }, {
+    "feature" : "urinari",
+    "score" : -0.1695613709898111
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.08976481512662048
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6639561268181473
+  }, {
+    "feature" : "mild",
+    "score" : -0.2704816324591462
+  }, {
+    "feature" : "1",
+    "score" : -0.016884592925214013
+  }, {
+    "feature" : "bladder",
+    "score" : -0.06597043608697112
+  }, {
+    "feature" : "bilater",
+    "score" : -0.13912335299843584
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.8497659970143505
+  }, {
+    "feature" : "urinari",
+    "score" : 0.33480908688401084
+  }, {
+    "feature" : "appear",
+    "score" : -0.03661119662352424
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4229057697066678
+  }, {
+    "feature" : "tract",
+    "score" : 1.1816087279288972
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -0.799542263765147
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  }, {
+    "feature" : "reflux",
+    "score" : -0.258374116485033
+  }, {
+    "feature" : "2",
+    "score" : -0.18779078320559656
+  }, {
+    "feature" : "1",
+    "score" : -0.09443292338049819
+  }, {
+    "feature" : "bilater",
+    "score" : -0.1871251314731422
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.24376823407937376
+  }, {
+    "feature" : "normal",
+    "score" : -1.2711169690025585
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1474955386485257
+  }, {
+    "feature" : "reflux",
+    "score" : -0.7504396284429192
+  }, {
+    "feature" : "2",
+    "score" : -0.06334993830537893
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.004342955353081826
+  }, {
+    "feature" : "normal",
+    "score" : -0.93926000912801
+  }, {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4818735023606169
+  }, {
+    "feature" : "2",
+    "score" : -0.07625446779408031
+  }, {
+    "feature" : "find",
+    "score" : -0.19069129475933141
+  }, {
+    "feature" : "1",
+    "score" : -0.11457537090933329
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.5826989210205133
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4971864514661649
+  }, {
+    "feature" : "bladder",
+    "score" : -0.768506114865282
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7406614575049939
+  }, {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.045192332608635845
+  }, {
+    "feature" : "reflux",
+    "score" : -0.1534541906208629
+  }, {
+    "feature" : "find",
+    "score" : -0.013753050139073622
+  }, {
+    "feature" : "1",
+    "score" : -0.29667469938128743
+  }, {
+    "feature" : "bilater",
+    "score" : -0.0637467236081426
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "partial",
+    "score" : -0.1585265982731499
+  }, {
+    "feature" : "normal",
+    "score" : -1.0054502408613961
+  }, {
+    "feature" : "infect",
+    "score" : -0.36751805255826037
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3358023696032554
+  }, {
+    "feature" : "reflux",
+    "score" : -0.3146967482494867
+  }, {
+    "feature" : "2",
+    "score" : -0.18433805932188152
+  }, {
+    "feature" : "1",
+    "score" : -0.10483049667441076
+  }, {
+    "feature" : "bladder",
+    "score" : -0.32756745686239175
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.3429822786114111
+  }, {
+    "feature" : "urinari",
+    "score" : -0.4688715211249095
+  }, {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.034404805151900635
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8163408956547424
+  }, {
+    "feature" : "1",
+    "score" : -0.34632932996410287
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7786992389862426
+  }, {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  }, {
+    "feature" : "reflux",
+    "score" : -0.29931169788285983
+  }, {
+    "feature" : "bilater",
+    "score" : -0.21882809084188587
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.5269078300076745
+  }, {
+    "feature" : "reflux",
+    "score" : 1.2560284522414213
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.038733219591809
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  }, {
+    "feature" : "reflux",
+    "score" : -0.1486765760374107
+  }, {
+    "feature" : "2",
+    "score" : -0.23868384216148128
+  }, {
+    "feature" : "1",
+    "score" : -0.23183735472565992
+  }, {
+    "feature" : "bilater",
+    "score" : -0.0937537871664261
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.19324659829562776
+  }, {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0703794946605647
+  }, {
+    "feature" : "reflux",
+    "score" : -0.365168545316993
+  }, {
+    "feature" : "mild",
+    "score" : -0.02588556998149439
+  }, {
+    "feature" : "2",
+    "score" : -0.07606954627265607
+  }, {
+    "feature" : "1",
+    "score" : -0.724531700237784
+  }, {
+    "feature" : "bladder",
+    "score" : 1.2347420377512117
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3661402182386268
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.5083224580967655
+  }, {
+    "feature" : "urinari",
+    "score" : 0.16289804810122085
+  }, {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "otherwis",
+    "score" : 0.08572444779224281
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.17422871021403477
+  }, {
+    "feature" : "find",
+    "score" : -0.15998395584505462
+  }, {
+    "feature" : "tract",
+    "score" : 0.4182293536094056
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.5008301080058406
+  }, {
+    "feature" : "urinari",
+    "score" : -1.681444109456877
+  }, {
+    "feature" : "appear",
+    "score" : -0.08822870066394603
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5429476253993137
+  }, {
+    "feature" : "reflux",
+    "score" : 0.7159130262939825
+  }, {
+    "feature" : "find",
+    "score" : 0.21543932067908764
+  }, {
+    "feature" : "bladder",
+    "score" : -0.8403790112412689
+  }, {
+    "feature" : "bilater",
+    "score" : 0.0057970449954385965
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.6097331262696989
+  }, {
+    "feature" : "normal",
+    "score" : -0.8016678345522231
+  }, {
+    "feature" : "urinari",
+    "score" : -1.3125416963922123
+  }, {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.05834705052131691
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.020599983254354453
+  }, {
+    "feature" : "reflux",
+    "score" : 1.9353968597159406
+  }, {
+    "feature" : "mild",
+    "score" : -0.41725724164321326
+  }, {
+    "feature" : "seen",
+    "score" : -0.2363358434442298
+  }, {
+    "feature" : "1",
+    "score" : -0.05602699783659572
+  }, {
+    "feature" : "bladder",
+    "score" : -0.06594829828704904
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "partial",
+    "score" : 0.13745142774331814
+  }, {
+    "feature" : "normal",
+    "score" : -0.7555487127922672
+  }, {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2617613030716766
+  }, {
+    "feature" : "mild",
+    "score" : -0.10843292573020108
+  }, {
+    "feature" : "2",
+    "score" : -0.022136888963575727
+  }, {
+    "feature" : "tract",
+    "score" : 2.408285429518643
+  }, {
+    "feature" : "1",
+    "score" : -0.33146095413813814
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.4796500513242714
+  }, {
+    "feature" : "urinari",
+    "score" : -0.16815543219623566
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31901140909625614
+  }, {
+    "feature" : "bladder",
+    "score" : -0.14062404779167723
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.2425939386082785
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9108621282450453
+  }, {
+    "feature" : "bladder",
+    "score" : -0.462074075522259
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.5554929521240322
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  }, {
+    "feature" : "reflux",
+    "score" : -0.13886314892103138
+  }, {
+    "feature" : "2",
+    "score" : -0.15695000627254954
+  }, {
+    "feature" : "1",
+    "score" : -0.10270999849681055
+  }, {
+    "feature" : "bilater",
+    "score" : -0.5915207368068891
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.0300546975188363
+  }, {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "infect",
+    "score" : -0.06074134879529196
+  }, {
+    "feature" : "appear",
+    "score" : -0.017253178859823793
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3004526681160866
+  }, {
+    "feature" : "tract",
+    "score" : -0.0356176214862784
+  }, {
+    "feature" : "pyelocaliectasi",
+    "score" : 1.1993936785890968
+  }, {
+    "feature" : "seen",
+    "score" : -0.02369152141384324
+  }, {
+    "feature" : "1",
+    "score" : -0.274121551197903
+  }, {
+    "feature" : "bladder",
+    "score" : -0.11907322707410191
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.8392106689194082
+  }, {
+    "feature" : "urinari",
+    "score" : -0.3945299293843316
+  }, {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5669958748302086
+  }, {
+    "feature" : "mild",
+    "score" : -0.10965146141208983
+  }, {
+    "feature" : "2",
+    "score" : -0.07747024559789271
+  }, {
+    "feature" : "1",
+    "score" : -0.07645981758238762
+  }, {
+    "feature" : "bilater",
+    "score" : -0.06027651832808857
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.692439583045203
+  }, {
+    "feature" : "appear",
+    "score" : -0.11770813518726288
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6356503475896076
+  }, {
+    "feature" : "tract",
+    "score" : -0.0794181347009961
+  }, {
+    "feature" : "bladder",
+    "score" : -0.418767841892669
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.817508609807838
+  }, {
+    "feature" : "urinari",
+    "score" : -0.0724086228922981
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6731535866509497
+  }, {
+    "feature" : "bladder",
+    "score" : -0.28431255568253466
+  } ]
+}

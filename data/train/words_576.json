@@ -1,0 +1,251 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.31054156408038025
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "urinari",
+    "score" : -0.36114840850877755
+  }, {
+    "feature" : "left",
+    "score" : -0.8004441159780182
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5856848808081258
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.13056938252877148
+  }, {
+    "feature" : "urinari",
+    "score" : -0.247651562534731
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16801773891309507
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.2595403070454596
+  }, {
+    "feature" : "urinari",
+    "score" : -0.2712981935836978
+  }, {
+    "feature" : "left",
+    "score" : -0.19739722148850744
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.502361150280023
+  }, {
+    "feature" : "mild",
+    "score" : -0.6120300749135599
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.6741714126323934
+  }, {
+    "feature" : "urinari",
+    "score" : 0.5356945390144173
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.95692647898494
+  }, {
+    "feature" : "tract",
+    "score" : 1.8905740449706212
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.020466474271098316
+  }, {
+    "feature" : "left",
+    "score" : -0.9123100213325389
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.33374429145958157
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "pyelectasi",
+    "score" : 3.343389425679432
+  }, {
+    "feature" : "left",
+    "score" : -0.5676855337151344
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -1.1250044678523399
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4456088340375055
+  }, {
+    "feature" : "left",
+    "score" : -0.36545668659121266
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10225857110035154
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.44532000162632407
+  }, {
+    "feature" : "ag",
+    "score" : -1.405275982103705
+  }, {
+    "feature" : "infect",
+    "score" : -0.5880288840932166
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7598339918656736
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "urinari",
+    "score" : -0.7501944337998552
+  }, {
+    "feature" : "left",
+    "score" : -0.7881478006091455
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8471685062895664
+  }, {
+    "feature" : "larg",
+    "score" : -0.021591493902381697
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0019288766323625074
+  }, {
+    "feature" : "left",
+    "score" : -1.3236595993027054
+  } ],
+  "c3_Class-0-593_70" : [ ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -8.151589980968143E-4
+  }, {
+    "feature" : "left",
+    "score" : -0.7903216589360043
+  } ],
+  "c1" : [ {
+    "feature" : "left",
+    "score" : -2.23803358518
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15925061052013287
+  }, {
+    "feature" : "mild",
+    "score" : -0.058572359205747965
+  } ],
+  "c2" : [ {
+    "feature" : "urinari",
+    "score" : 0.26063687696195337
+  }, {
+    "feature" : "left",
+    "score" : 0.6610818022019093
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.39423455092335447
+  }, {
+    "feature" : "tract",
+    "score" : 0.6691669941916355
+  } ],
+  "c3" : [ {
+    "feature" : "urinari",
+    "score" : -2.6903105751310035
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.4912917822229
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "urinari",
+    "score" : -2.1000667142275398
+  }, {
+    "feature" : "left",
+    "score" : -0.3389144779745499
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.046612439117137285
+  }, {
+    "feature" : "mild",
+    "score" : -0.9441453696479487
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.755788486066349
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5922981903430388
+  }, {
+    "feature" : "larg",
+    "score" : -0.06533670058637417
+  }, {
+    "feature" : "mild",
+    "score" : -0.24535570513378632
+  }, {
+    "feature" : "tract",
+    "score" : 3.8532568508607428
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "urinari",
+    "score" : -0.2690486915139771
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7218403869832366
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -2.06104563157611
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.15052695349299974
+  }, {
+    "feature" : "left",
+    "score" : -0.7927040172790225
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "pyelectasi",
+    "score" : 5.249657574897949
+  }, {
+    "feature" : "left",
+    "score" : -0.36625822487325754
+  }, {
+    "feature" : "infect",
+    "score" : -0.09718615807246714
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6798467516803529
+  }, {
+    "feature" : "tract",
+    "score" : -0.056988196798084145
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "urinari",
+    "score" : -0.6312478870149305
+  }, {
+    "feature" : "left",
+    "score" : -0.859200090906391
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2829651543335348
+  }, {
+    "feature" : "mild",
+    "score" : -0.2481129366614534
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.06044534782608417
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4383124860329521
+  }, {
+    "feature" : "tract",
+    "score" : -0.12706902091765762
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "urinari",
+    "score" : -0.11585379662767696
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5231726252795572
+  } ]
+}

@@ -1,0 +1,191 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -2.982417395134022
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.125681300412766
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.960321552367412
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.5344156996549305
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.6824508206957238
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.5830129030567357
+  }, {
+    "feature" : "cough",
+    "score" : -1.614889999595248
+  }, {
+    "feature" : "wheez",
+    "score" : -0.06309970285621745
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.5166831753830463
+  }, {
+    "feature" : "cough",
+    "score" : -2.1537836072980396
+  }, {
+    "feature" : "wheez",
+    "score" : -0.06663474597232862
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.8596399229391698
+  }, {
+    "feature" : "cough",
+    "score" : -1.8156245545154048
+  }, {
+    "feature" : "wheez",
+    "score" : -0.11728028489247563
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -3.1335839606915115
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.4664348554957816
+  }, {
+    "feature" : "cough",
+    "score" : -1.9500243235044634
+  }, {
+    "feature" : "wheez",
+    "score" : -0.18320455888192122
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.9906898944526745
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6790702595318285
+  }, {
+    "feature" : "cough",
+    "score" : 1.5107556483011872
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.5417458198029248
+  }, {
+    "feature" : "cough",
+    "score" : 6.207006974286306
+  }, {
+    "feature" : "wheez",
+    "score" : -0.19369726598818235
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "cough",
+    "score" : -2.1384365769583087
+  }, {
+    "feature" : "wheez",
+    "score" : -0.3619134215617089
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.056586829699468
+  }, {
+    "feature" : "cough",
+    "score" : -1.6322420257070123
+  }, {
+    "feature" : "wheez",
+    "score" : -0.08475304831060289
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.3826087405726652
+  }, {
+    "feature" : "cough",
+    "score" : -1.5656032738530945
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -1.0064271102960218
+  }, {
+    "feature" : "cough",
+    "score" : -2.2375904418316637
+  }, {
+    "feature" : "wheez",
+    "score" : -1.5916176379698084
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.9915930140816456
+  }, {
+    "feature" : "cough",
+    "score" : 2.072446592626614
+  }, {
+    "feature" : "wheez",
+    "score" : 2.04167438028472
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.587221318464893
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.4959101168783064
+  }, {
+    "feature" : "cough",
+    "score" : -0.05353134268757753
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.929557609906283
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.4602104569356227
+  }, {
+    "feature" : "cough",
+    "score" : -0.4583428209722562
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.0998199227498453
+  }, {
+    "feature" : "cough",
+    "score" : -0.8980253998442339
+  }, {
+    "feature" : "wheez",
+    "score" : -0.29904364030557024
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -2.0394042328017337
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.6615523374915901
+  }, {
+    "feature" : "cough",
+    "score" : -0.4677041493313603
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.3709604160084234
+  }, {
+    "feature" : "cough",
+    "score" : 5.106752044781161
+  }, {
+    "feature" : "wheez",
+    "score" : -0.26047345547361617
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.6185844530488902
+  }, {
+    "feature" : "wheez",
+    "score" : -0.1642869673985023
+  } ]
+}

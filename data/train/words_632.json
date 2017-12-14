@@ -1,0 +1,218 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.33733935714406976
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.064285485477426
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.516470445889537
+  }, {
+    "feature" : "chang",
+    "score" : -0.17445934140704125
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -8.262393559747025E-4
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.4605635136920826
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  }, {
+    "feature" : "chang",
+    "score" : -0.46880329110380164
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "neurogen",
+    "score" : -1.2126509811117716
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.9269060809522223
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.471512711990489
+  }, {
+    "feature" : "year",
+    "score" : -0.004224645954553026
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.6870430840011004
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.3995137998565117
+  }, {
+    "feature" : "histori",
+    "score" : -0.48842990951199833
+  }, {
+    "feature" : "year",
+    "score" : -0.014874792328662028
+  }, {
+    "feature" : "chang",
+    "score" : -0.4198160825845255
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  }, {
+    "feature" : "year",
+    "score" : -0.5724251951941541
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "year",
+    "score" : -0.1697440393240272
+  }, {
+    "feature" : "chang",
+    "score" : -0.09874801900251806
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.20278538036541782
+  }, {
+    "feature" : "histori",
+    "score" : -0.030386253990272005
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.5698306006640577
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.7473827622818892
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.4473846805642943
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.3363486635882103
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  }, {
+    "feature" : "year",
+    "score" : -0.005263440254265618
+  }, {
+    "feature" : "chang",
+    "score" : -0.9810912941064629
+  } ],
+  "c2" : [ ],
+  "c3" : [ {
+    "feature" : "histori",
+    "score" : 0.019945817516378334
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.7086390533004443
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  }, {
+    "feature" : "year",
+    "score" : -0.31917353196381415
+  }, {
+    "feature" : "chang",
+    "score" : -0.0699065010826796
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.4014947596656844
+  }, {
+    "feature" : "old",
+    "score" : -0.029920676931604155
+  }, {
+    "feature" : "histori",
+    "score" : -0.18596762301078645
+  }, {
+    "feature" : "year",
+    "score" : -0.1032586852362335
+  }, {
+    "feature" : "chang",
+    "score" : -1.2513525264315604
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "neurogen",
+    "score" : 4.389247412686409
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.7012251654232278
+  }, {
+    "feature" : "histori",
+    "score" : -0.07488020895807215
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.44367922760458195
+  }, {
+    "feature" : "year",
+    "score" : -0.13210888659669476
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.03525704307606649
+  }, {
+    "feature" : "old",
+    "score" : -0.972008995947911
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  }, {
+    "feature" : "year",
+    "score" : -0.1759516352998143
+  }, {
+    "feature" : "chang",
+    "score" : -0.019597769602195104
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -1.2239282771535511
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "interv",
+    "score" : -0.2914421194786805
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.12781857516348968
+  }, {
+    "feature" : "histori",
+    "score" : -0.2886784425008464
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  }, {
+    "feature" : "year",
+    "score" : -0.09792635877248246
+  } ]
+}

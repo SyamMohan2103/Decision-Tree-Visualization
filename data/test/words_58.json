@@ -1,0 +1,194 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -2.556357767257733
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.8220125432109422
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.6802756163149246
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.1723563139899404
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.4421007034534776
+  }, {
+    "feature" : "chest",
+    "score" : -0.47497179620938307
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.3568682026200591
+  }, {
+    "feature" : "cough",
+    "score" : -1.3841914282244983
+  }, {
+    "feature" : "chest",
+    "score" : -0.6213226492801958
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.1571570074711826
+  }, {
+    "feature" : "cough",
+    "score" : -1.8461002348268911
+  }, {
+    "feature" : "chest",
+    "score" : -0.5999790411826964
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.5939770768050026
+  }, {
+    "feature" : "cough",
+    "score" : -1.5562496181560612
+  }, {
+    "feature" : "chest",
+    "score" : -0.64597965686015
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.6859291091641526
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.256944161853527
+  }, {
+    "feature" : "cough",
+    "score" : -1.671449420146683
+  }, {
+    "feature" : "chest",
+    "score" : -0.7755203558925273
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7063056238165781
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.582060222455853
+  }, {
+    "feature" : "cough",
+    "score" : 1.294933412829589
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.3214964169739354
+  }, {
+    "feature" : "cough",
+    "score" : 5.320291692245405
+  }, {
+    "feature" : "chest",
+    "score" : -0.7448743193755568
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "cough",
+    "score" : -1.832945637392836
+  }, {
+    "feature" : "chest",
+    "score" : -1.220702792040503
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.7627887111709728
+  }, {
+    "feature" : "cough",
+    "score" : -1.3990645934631534
+  }, {
+    "feature" : "chest",
+    "score" : -0.6395610835147258
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.32795034906228443
+  }, {
+    "feature" : "cough",
+    "score" : -1.3419456633026525
+  }, {
+    "feature" : "chest",
+    "score" : -0.07894907405536118
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.8626518088251616
+  }, {
+    "feature" : "cough",
+    "score" : -1.9179346644271404
+  }, {
+    "feature" : "chest",
+    "score" : -1.3385293861799592
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.8499368692128391
+  }, {
+    "feature" : "cough",
+    "score" : 1.7763827936799548
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.3604754158270511
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.282208671609977
+  }, {
+    "feature" : "cough",
+    "score" : -0.0458840080179236
+  }, {
+    "feature" : "chest",
+    "score" : -0.11057211355571606
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.511049379919671
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.1087518202305335
+  }, {
+    "feature" : "cough",
+    "score" : -0.39286527511907676
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.9427027909284389
+  }, {
+    "feature" : "cough",
+    "score" : -0.7697360570093433
+  }, {
+    "feature" : "chest",
+    "score" : -0.49018328990728854
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.7480607709729146
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.4241877178499345
+  }, {
+    "feature" : "cough",
+    "score" : -0.4008892708554517
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.17510892800722
+  }, {
+    "feature" : "cough",
+    "score" : 4.377216038383852
+  }, {
+    "feature" : "chest",
+    "score" : -0.14155170394804042
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.3873581026133344
+  } ]
+}

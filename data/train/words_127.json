@@ -1,0 +1,275 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.33733935714406976
+  }, {
+    "feature" : "normal",
+    "score" : -1.7042385115051553
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.21958604896363848
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "followup",
+    "score" : -0.31095554707828144
+  }, {
+    "feature" : "normal",
+    "score" : -1.2146750288072947
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4141417568216635
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.18465299189289672
+  }, {
+    "feature" : "normal",
+    "score" : -1.1201837442099498
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.11880648425594012
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.3670454227826706
+  }, {
+    "feature" : "followup",
+    "score" : -0.22890447522601937
+  }, {
+    "feature" : "normal",
+    "score" : -1.4482375426599603
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0623297724521894
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.9534223566064631
+  }, {
+    "feature" : "normal",
+    "score" : -0.961400468968985
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6766492121312301
+  }, {
+    "feature" : "ha",
+    "score" : -0.07580522104471421
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.028943965533608427
+  }, {
+    "feature" : "normal",
+    "score" : -0.9045788017467061
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.438104671647455
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.23599285507175888
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.0626513845366683
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7906194061094352
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7954982995390387
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.6301860575989111
+  }, {
+    "feature" : "normal",
+    "score" : -0.8379627745690181
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.07230773010076483
+  }, {
+    "feature" : "histori",
+    "score" : -0.48842990951199833
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.629777586885124
+  }, {
+    "feature" : "followup",
+    "score" : -0.2601624828968701
+  }, {
+    "feature" : "normal",
+    "score" : -1.1375370825443853
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5372837759613578
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "two",
+    "score" : -0.09418461913719599
+  }, {
+    "feature" : "followup",
+    "score" : -0.2993715670029284
+  }, {
+    "feature" : "normal",
+    "score" : -0.388040148303902
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3061453956005817
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.00272784349791612
+  }, {
+    "feature" : "normal",
+    "score" : -0.880997611315957
+  }, {
+    "feature" : "histori",
+    "score" : -0.030386253990272005
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.017390858273751315
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -0.0011528089124096517
+  }, {
+    "feature" : "normal",
+    "score" : -1.1751924741139819
+  } ],
+  "c1" : [ {
+    "feature" : "followup",
+    "score" : -0.062410274537636805
+  }, {
+    "feature" : "normal",
+    "score" : 0.21863356604152295
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.11260718822847114
+  } ],
+  "c2" : [ {
+    "feature" : "followup",
+    "score" : 1.352594339152875
+  }, {
+    "feature" : "normal",
+    "score" : -0.575101205883441
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.27876592835027536
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.566624579475226
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.4687161298611553
+  }, {
+    "feature" : "histori",
+    "score" : 0.019945817516378334
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.05015164431689941
+  }, {
+    "feature" : "followup",
+    "score" : -0.3691312750494626
+  }, {
+    "feature" : "studi",
+    "score" : -0.2888138697009911
+  }, {
+    "feature" : "normal",
+    "score" : -0.9069836105513673
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.03295997226200932
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -1.262188593556927
+  }, {
+    "feature" : "interv",
+    "score" : -0.4014947596656844
+  }, {
+    "feature" : "normal",
+    "score" : -0.854805781073318
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.41881807290722683
+  }, {
+    "feature" : "histori",
+    "score" : -0.18596762301078645
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.6740329199464474
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5104182399203901
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.4058345468203557
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4573793634092096
+  }, {
+    "feature" : "histori",
+    "score" : -0.07488020895807215
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.21287725946686256
+  }, {
+    "feature" : "normal",
+    "score" : -0.628468527285626
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.03525704307606649
+  }, {
+    "feature" : "normal",
+    "score" : -1.1653738473152764
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4807242552034413
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "followup",
+    "score" : -0.4814290343304663
+  }, {
+    "feature" : "normal",
+    "score" : -0.949458478566623
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9071933737192265
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.08548263081227161
+  }, {
+    "feature" : "interv",
+    "score" : -0.2914421194786805
+  }, {
+    "feature" : "normal",
+    "score" : -0.7834059520048133
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0170405269849623
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.12781857516348968
+  }, {
+    "feature" : "normal",
+    "score" : -0.9249054017422229
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0770457077627695
+  }, {
+    "feature" : "histori",
+    "score" : -0.2886784425008464
+  } ]
+}

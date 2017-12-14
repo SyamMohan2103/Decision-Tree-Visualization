@@ -1,0 +1,287 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.7042385115051553
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.2146750288072947
+  }, {
+    "feature" : "left",
+    "score" : -0.5659994631532601
+  }, {
+    "feature" : "lobe",
+    "score" : -0.006186230696407107
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.13056938252877148
+  }, {
+    "feature" : "normal",
+    "score" : -1.1201837442099498
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.2595403070454596
+  }, {
+    "feature" : "atelectasi",
+    "score" : -2.2947514641117
+  }, {
+    "feature" : "normal",
+    "score" : -1.4482375426599603
+  }, {
+    "feature" : "left",
+    "score" : -0.13958091409533033
+  }, {
+    "feature" : "lobe",
+    "score" : 1.6521636088036633
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.6741714126323934
+  }, {
+    "feature" : "normal",
+    "score" : -0.961400468968985
+  }, {
+    "feature" : "chest",
+    "score" : -0.3166478641395887
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.020466474271098316
+  }, {
+    "feature" : "normal",
+    "score" : -0.9045788017467061
+  }, {
+    "feature" : "left",
+    "score" : -0.6451006035226284
+  }, {
+    "feature" : "chest",
+    "score" : -0.4142150995201305
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.438104671647455
+  }, {
+    "feature" : "lobe",
+    "score" : -0.7354916145849344
+  }, {
+    "feature" : "chest",
+    "score" : -0.39998602745513095
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.0626513845366683
+  }, {
+    "feature" : "left",
+    "score" : -0.4014142910277347
+  }, {
+    "feature" : "chest",
+    "score" : -0.43065310457343337
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7906194061094352
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4456088340375055
+  }, {
+    "feature" : "normal",
+    "score" : -0.8379627745690181
+  }, {
+    "feature" : "left",
+    "score" : -0.2584169016767138
+  }, {
+    "feature" : "up",
+    "score" : -0.23624322564183312
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3481002632760902
+  }, {
+    "feature" : "chest",
+    "score" : -0.5170135705950182
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.44532000162632407
+  }, {
+    "feature" : "normal",
+    "score" : -1.1375370825443853
+  }, {
+    "feature" : "lobe",
+    "score" : -0.7525290238973646
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.388040148303902
+  }, {
+    "feature" : "left",
+    "score" : -0.557304655160273
+  }, {
+    "feature" : "lobe",
+    "score" : -1.8916631828686175
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0019288766323625074
+  }, {
+    "feature" : "normal",
+    "score" : -0.880997611315957
+  }, {
+    "feature" : "left",
+    "score" : -0.9359686799466271
+  }, {
+    "feature" : "chest",
+    "score" : -0.4965828795837045
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "up",
+    "score" : -0.012949180925813368
+  }, {
+    "feature" : "lobe",
+    "score" : -0.36704740114339646
+  }, {
+    "feature" : "chest",
+    "score" : -0.8138018613603353
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -8.151589980968143E-4
+  }, {
+    "feature" : "normal",
+    "score" : -1.1751924741139819
+  }, {
+    "feature" : "left",
+    "score" : -0.5588418051266638
+  }, {
+    "feature" : "chest",
+    "score" : -0.42637405567648395
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.5980015913447757
+  }, {
+    "feature" : "normal",
+    "score" : 0.21863356604152295
+  }, {
+    "feature" : "left",
+    "score" : -1.5825287267970036
+  }, {
+    "feature" : "chest",
+    "score" : -0.05263271603690745
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.575101205883441
+  }, {
+    "feature" : "left",
+    "score" : 0.467455425903769
+  }, {
+    "feature" : "chest",
+    "score" : -0.8923529241199729
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.566624579475226
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3462613931112115
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.04701147945094112
+  }, {
+    "feature" : "like",
+    "score" : -0.09017459686314186
+  }, {
+    "feature" : "normal",
+    "score" : -0.9069836105513673
+  }, {
+    "feature" : "left",
+    "score" : -0.23964872595019554
+  }, {
+    "feature" : "lobe",
+    "score" : -0.42214151869721966
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.854805781073318
+  }, {
+    "feature" : "left",
+    "score" : -0.5344231643808052
+  }, {
+    "feature" : "lobe",
+    "score" : -0.45236407040325105
+  }, {
+    "feature" : "chest",
+    "score" : -0.07371474237047737
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.6740329199464474
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.4058345468203557
+  }, {
+    "feature" : "up",
+    "score" : 1.0405736081200492
+  }, {
+    "feature" : "lobe",
+    "score" : 2.301000048916148
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.15052695349299974
+  }, {
+    "feature" : "normal",
+    "score" : -0.628468527285626
+  }, {
+    "feature" : "left",
+    "score" : -0.5605263868685628
+  }, {
+    "feature" : "chest",
+    "score" : -0.32678885993819234
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.1653738473152764
+  }, {
+    "feature" : "left",
+    "score" : -0.2589836748321137
+  }, {
+    "feature" : "lobe",
+    "score" : -0.4156459580155332
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.949458478566623
+  }, {
+    "feature" : "left",
+    "score" : -0.6075462115179127
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.06044534782608417
+  }, {
+    "feature" : "normal",
+    "score" : -0.7834059520048133
+  }, {
+    "feature" : "up",
+    "score" : -0.04829386671628539
+  }, {
+    "feature" : "lobe",
+    "score" : -2.92929904121584
+  }, {
+    "feature" : "chest",
+    "score" : -0.09436780263202695
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.9249054017422229
+  }, {
+    "feature" : "lobe",
+    "score" : -2.5062333474772323
+  } ]
+}

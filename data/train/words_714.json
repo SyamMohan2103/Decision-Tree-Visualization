@@ -1,0 +1,269 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46017115691840615
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.09792704056199564
+  }, {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.19465523757005593
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "diseas",
+    "score" : -0.37036028880516
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5056285784000135
+  }, {
+    "feature" : "ha",
+    "score" : -0.0804035782359122
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.015349856277870094
+  }, {
+    "feature" : "sinc",
+    "score" : -0.35913274654153066
+  }, {
+    "feature" : "ppd",
+    "score" : -0.12089053974545316
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "diseas",
+    "score" : -0.05940861890934712
+  }, {
+    "feature" : "posit",
+    "score" : -0.44997174907864546
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "sinc",
+    "score" : -0.160755092615923
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7013748077210743
+  }, {
+    "feature" : "year",
+    "score" : -0.0031684843766130984
+  }, {
+    "feature" : "posit",
+    "score" : -0.7027465267303824
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.40517683269539906
+  }, {
+    "feature" : "ppd",
+    "score" : -0.34675453147513324
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7323884989644985
+  }, {
+    "feature" : "posit",
+    "score" : -0.22514097805978422
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3342066380375105
+  }, {
+    "feature" : "sinc",
+    "score" : -0.30970716541422777
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7658920981417069
+  }, {
+    "feature" : "year",
+    "score" : -0.01115609393206927
+  }, {
+    "feature" : "posit",
+    "score" : -0.5278261641869667
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.33399001372101617
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4708920190297565
+  }, {
+    "feature" : "year",
+    "score" : -0.42931888429554216
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "year",
+    "score" : -0.1273080259049265
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0014466575284203885
+  }, {
+    "feature" : "sinc",
+    "score" : -0.23731179871272068
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "diseas",
+    "score" : -0.365087933035424
+  }, {
+    "feature" : "posit",
+    "score" : -0.686771012873543
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "sinc",
+    "score" : -0.017084189849535004
+  }, {
+    "feature" : "ppd",
+    "score" : -0.22936088318154937
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5514475410275136
+  }, {
+    "feature" : "posit",
+    "score" : -0.5824222387931028
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -6.113692714562117E-4
+  }, {
+    "feature" : "sinc",
+    "score" : -0.5475842453035776
+  }, {
+    "feature" : "ppd",
+    "score" : -0.0523103533029474
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7393363907678876
+  }, {
+    "feature" : "posit",
+    "score" : -0.46992067347530186
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8873817920591988
+  }, {
+    "feature" : "year",
+    "score" : -0.0039475800794392365
+  } ],
+  "c2" : [ ],
+  "c3" : [ {
+    "feature" : "2001",
+    "score" : 0.9305419545150503
+  }, {
+    "feature" : "ppd",
+    "score" : 2.0987337214180393
+  }, {
+    "feature" : "posit",
+    "score" : 0.5078682654877347
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5172532907942361
+  }, {
+    "feature" : "year",
+    "score" : -0.239380142226087
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5404621071388345
+  }, {
+    "feature" : "year",
+    "score" : -0.07744401174446602
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915235855926283
+  }, {
+    "feature" : "month",
+    "score" : -0.07193722217839639
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.11289521934542696
+  }, {
+    "feature" : "sinc",
+    "score" : -0.5776922389928466
+  }, {
+    "feature" : "ppd",
+    "score" : -0.12183366043206459
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4996284389811577
+  }, {
+    "feature" : "year",
+    "score" : -0.09908166215496887
+  }, {
+    "feature" : "posit",
+    "score" : -0.44921471095122184
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43031643395661023
+  }, {
+    "feature" : "year",
+    "score" : -0.13196372275554905
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2067154534759484
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.04533401256641887
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "year",
+    "score" : -0.07344476700936886
+  } ]
+}

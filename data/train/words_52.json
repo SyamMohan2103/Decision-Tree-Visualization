@@ -1,0 +1,350 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.03207995906954486
+  }, {
+    "feature" : "interv",
+    "score" : -0.21083709569676137
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1372412845369624
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7720542659327164
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2588386054344061
+  }, {
+    "feature" : "neurogen",
+    "score" : 2.822794124973431
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.5241754719348715
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0742540547888159
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7996073694280945
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.34507423989530883
+  }, {
+    "feature" : "renal",
+    "score" : -0.12562807642743629
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6639561268181473
+  }, {
+    "feature" : "stabl",
+    "score" : -0.023934547483276187
+  }, {
+    "feature" : "bladder",
+    "score" : -0.06597043608697112
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "appear",
+    "score" : -0.03661119662352424
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4229057697066678
+  }, {
+    "feature" : "neurogen",
+    "score" : -0.7579068890489308
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.10720613722317547
+  }, {
+    "feature" : "renal",
+    "score" : -0.3870398235900313
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 1.7216282576629205
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1474955386485257
+  }, {
+    "feature" : "calculi",
+    "score" : -0.13360849211890402
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.27582179027674525
+  }, {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00423821505327341
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4971864514661649
+  }, {
+    "feature" : "bladder",
+    "score" : -0.768506114865282
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2677150598495869
+  }, {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.045192332608635845
+  }, {
+    "feature" : "stabl",
+    "score" : -0.05787118030069297
+  }, {
+    "feature" : "calculi",
+    "score" : -0.16487679945959463
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.2163397687443366
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : 2.174887767956194
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3358023696032554
+  }, {
+    "feature" : "bladder",
+    "score" : -0.32756745686239175
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.11119261950080311
+  }, {
+    "feature" : "renal",
+    "score" : -0.3649548925112997
+  }, {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8163408956547424
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.1699051509936202
+  }, {
+    "feature" : "renal",
+    "score" : -0.5697803076712378
+  }, {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.010869285911180195
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.4752387903842402
+  }, {
+    "feature" : "renal",
+    "score" : -0.5529885651807205
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.010337316005451501
+  }, {
+    "feature" : "renal",
+    "score" : -0.11036329658949956
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2267803908622506
+  }, {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0703794946605647
+  }, {
+    "feature" : "neurogen",
+    "score" : 0.8352179432339757
+  }, {
+    "feature" : "bladder",
+    "score" : 1.2347420377512117
+  }, {
+    "feature" : "pole",
+    "score" : -0.006736084458705259
+  } ],
+  "c2" : [ {
+    "feature" : "renal",
+    "score" : -0.8322491584182169
+  }, {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.17422871021403477
+  }, {
+    "feature" : "calculi",
+    "score" : -0.01681294909854818
+  } ],
+  "c3" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.0012610963545501134
+  }, {
+    "feature" : "appear",
+    "score" : -0.08822870066394603
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5429476253993137
+  }, {
+    "feature" : "bladder",
+    "score" : -0.8403790112412689
+  }, {
+    "feature" : "pole",
+    "score" : 0.6623568640766871
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.03134477622757436
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.16718598154099573
+  }, {
+    "feature" : "unchang",
+    "score" : -0.17855252769895866
+  }, {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.020599983254354453
+  }, {
+    "feature" : "bladder",
+    "score" : -0.06594829828704904
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2928529615351315
+  }, {
+    "feature" : "interv",
+    "score" : -0.25093422179384206
+  }, {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2617613030716766
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.03872149209713829
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31901140909625614
+  }, {
+    "feature" : "neurogen",
+    "score" : 2.7432797265090434
+  }, {
+    "feature" : "bladder",
+    "score" : -0.14062404779167723
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.004544342147371646
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9108621282450453
+  }, {
+    "feature" : "bladder",
+    "score" : -0.462074075522259
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "renal",
+    "score" : -0.7220995689812624
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  }, {
+    "feature" : "pole",
+    "score" : -0.02118758149311712
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.30289595251444157
+  }, {
+    "feature" : "renal",
+    "score" : -0.01967912284680303
+  }, {
+    "feature" : "interv",
+    "score" : -0.02203565165934314
+  }, {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "appear",
+    "score" : -0.017253178859823793
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3004526681160866
+  }, {
+    "feature" : "bladder",
+    "score" : -0.11907322707410191
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5669958748302086
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.10184660053793769
+  }, {
+    "feature" : "renal",
+    "score" : -0.3849513179120704
+  }, {
+    "feature" : "interv",
+    "score" : -0.18215132249852192
+  }, {
+    "feature" : "appear",
+    "score" : -0.11770813518726288
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6356503475896076
+  }, {
+    "feature" : "bladder",
+    "score" : -0.418767841892669
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.7099614709650863
+  }, {
+    "feature" : "renal",
+    "score" : -0.7569498453670854
+  }, {
+    "feature" : "interv",
+    "score" : -0.07988660852299875
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6731535866509497
+  }, {
+    "feature" : "bladder",
+    "score" : -0.28431255568253466
+  } ]
+}

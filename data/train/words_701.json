@@ -1,0 +1,266 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.31054156408038025
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.7128992538302126
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5856848808081258
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.516470445889537
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "kidnei",
+    "score" : -0.16801773891309507
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.552118772243385
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.502361150280023
+  }, {
+    "feature" : "stabl",
+    "score" : -0.027078848099105393
+  }, {
+    "feature" : "mild",
+    "score" : -0.4327705928427135
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "appear",
+    "score" : -0.05857791587613667
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.95692647898494
+  }, {
+    "feature" : "neurogen",
+    "score" : -1.2126509811117716
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.17152981595662764
+  }, {
+    "feature" : "right",
+    "score" : -1.0122913813784271
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.7546051544408323
+  }, {
+    "feature" : "right",
+    "score" : -0.35881264408975644
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.33374429145958157
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.8201903684296178
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -1.1250044678523399
+  }, {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4283440867682911
+  }, {
+    "feature" : "right",
+    "score" : -0.6346687471997282
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10225857110035154
+  }, {
+    "feature" : "stabl",
+    "score" : -0.06547376346987033
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 3.4798203556876244
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7598339918656736
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.42222068138611246
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8471685062895664
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.27184823588363083
+  }, {
+    "feature" : "right",
+    "score" : -0.9798623600465216
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.7603820486541778
+  }, {
+    "feature" : "right",
+    "score" : -0.6413915968232152
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.016539705261549915
+  }, {
+    "feature" : "right",
+    "score" : -1.0934176072203166
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.36284861776331906
+  }, {
+    "feature" : "right",
+    "score" : -1.1334029819961353
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15925061052013287
+  }, {
+    "feature" : "mild",
+    "score" : -0.041416910143260516
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.3363486635882103
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.34596253773211205
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.39423455092335447
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5817310659812499
+  }, {
+    "feature" : "appear",
+    "score" : -0.14116592414334397
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.4912917822229
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2674975648507534
+  }, {
+    "feature" : "right",
+    "score" : -0.1372425162441323
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.046612439117137285
+  }, {
+    "feature" : "mild",
+    "score" : -0.6676115571770783
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.46856472862092136
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5922981903430388
+  }, {
+    "feature" : "mild",
+    "score" : -0.1734926735145939
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.7218403869832366
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.389247412686409
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -2.06104563157611
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.2501702432408646
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4846335138505296
+  }, {
+    "feature" : "right",
+    "score" : -0.19916440158775417
+  }, {
+    "feature" : "appear",
+    "score" : -0.027605086778215524
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6798467516803529
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.7477274908722702
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2829651543335348
+  }, {
+    "feature" : "mild",
+    "score" : -0.1754423305196057
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.6281567807050341
+  }, {
+    "feature" : "appear",
+    "score" : -0.18833302041010092
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4383124860329521
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3656749649873465
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5231726252795572
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  } ]
+}

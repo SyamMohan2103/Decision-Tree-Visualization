@@ -1,0 +1,422 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.246302531332751
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.630119914379619
+  }, {
+    "feature" : "old",
+    "score" : -0.6651784284233911
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5423169597894631
+  }, {
+    "feature" : "1",
+    "score" : -0.23330674565139906
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.4960994448951796
+  }, {
+    "feature" : "lobe",
+    "score" : -0.003866394021065643
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -5.16399597484189E-4
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.2348754180078967
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "atelectasi",
+    "score" : -1.4342196394470634
+  }, {
+    "feature" : "airwai",
+    "score" : -0.30669522364653257
+  }, {
+    "feature" : "old",
+    "score" : -0.28785219605755163
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4364738268182582
+  }, {
+    "feature" : "increas",
+    "score" : -0.153043361354618
+  }, {
+    "feature" : "1",
+    "score" : -0.016884592925214013
+  }, {
+    "feature" : "lobe",
+    "score" : 1.032602211652202
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.2429331571503432
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -0.8947476871862706
+  }, {
+    "feature" : "airwai",
+    "score" : -0.6670591885519169
+  }, {
+    "feature" : "old",
+    "score" : -0.5793163005951389
+  }, {
+    "feature" : "diseas",
+    "score" : -0.07001373534134961
+  }, {
+    "feature" : "2",
+    "score" : -0.18779078320559656
+  }, {
+    "feature" : "1",
+    "score" : -0.09443292338049819
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.317148589169389
+  }, {
+    "feature" : "airwai",
+    "score" : -0.24236808151572017
+  }, {
+    "feature" : "old",
+    "score" : -0.29469544499405564
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8265782148177011
+  }, {
+    "feature" : "2",
+    "score" : -0.06334993830537893
+  }, {
+    "feature" : "year",
+    "score" : -0.0026404037662464772
+  }, {
+    "feature" : "lobe",
+    "score" : -0.4596822395948951
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.7249527642975298
+  }, {
+    "feature" : "old",
+    "score" : -0.42940192750068773
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8631282038687644
+  }, {
+    "feature" : "2",
+    "score" : -0.07625446779408031
+  }, {
+    "feature" : "1",
+    "score" : -0.11457537090933329
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.2489737472574156
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.5609732574361188
+  }, {
+    "feature" : "airwai",
+    "score" : -0.023598876115490015
+  }, {
+    "feature" : "old",
+    "score" : -0.2496961249103198
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9026125778340152
+  }, {
+    "feature" : "1",
+    "score" : -0.29667469938128743
+  }, {
+    "feature" : "year",
+    "score" : -0.009296745362627392
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21756265530862448
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.5549516181315559
+  }, {
+    "feature" : "increas",
+    "score" : -0.05914583415856793
+  }, {
+    "feature" : "2",
+    "score" : -0.18433805932188152
+  }, {
+    "feature" : "1",
+    "score" : -0.10483049667441076
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6546412497089406
+  }, {
+    "feature" : "year",
+    "score" : -0.35776575304638314
+  }, {
+    "feature" : "lobe",
+    "score" : -0.47033061996297404
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.3731939094828751
+  }, {
+    "feature" : "reactiv",
+    "score" : -0.3743777345708677
+  }, {
+    "feature" : "viral",
+    "score" : 0.09902262395805175
+  }, {
+    "feature" : "1",
+    "score" : -0.34632932996410287
+  }, {
+    "feature" : "year",
+    "score" : -0.10609002637156395
+  }, {
+    "feature" : "lobe",
+    "score" : -1.1822894390862382
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.866084209092714
+  }, {
+    "feature" : "old",
+    "score" : -0.12674086272838614
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43026029537678495
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.5669154735436245
+  }, {
+    "feature" : "airwai",
+    "score" : -0.219124162622941
+  }, {
+    "feature" : "old",
+    "score" : -0.3561441254150361
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6498872200859022
+  }, {
+    "feature" : "lobe",
+    "score" : -0.22940461597281472
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.966453822670048
+  }, {
+    "feature" : "old",
+    "score" : -0.4671142264261807
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8713163736467069
+  }, {
+    "feature" : "2",
+    "score" : -0.23868384216148128
+  }, {
+    "feature" : "1",
+    "score" : -0.23183735472565992
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.37375098791331524
+  }, {
+    "feature" : "right",
+    "score" : -1.0017962371764555
+  }, {
+    "feature" : "airwai",
+    "score" : -0.8724175492677042
+  }, {
+    "feature" : "old",
+    "score" : -0.9046154253526839
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0457895685265652
+  }, {
+    "feature" : "2",
+    "score" : -0.07606954627265607
+  }, {
+    "feature" : "1",
+    "score" : -0.724531700237784
+  }, {
+    "feature" : "pneumonia",
+    "score" : 1.6011774817885136
+  }, {
+    "feature" : "year",
+    "score" : -0.0032896502145459998
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.3057905917043274
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.0908276919093541
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5141825124919704
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.667913214865564
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21641336150438076
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.029382174131917155
+  }, {
+    "feature" : "right",
+    "score" : -0.1213064007577043
+  }, {
+    "feature" : "like",
+    "score" : -0.05635912211279254
+  }, {
+    "feature" : "old",
+    "score" : -0.4428994083127777
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6095889059695325
+  }, {
+    "feature" : "1",
+    "score" : -0.05602699783659572
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.4948364905534585
+  }, {
+    "feature" : "year",
+    "score" : -0.19948346085077062
+  }, {
+    "feature" : "lobe",
+    "score" : -0.2638384379817008
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.018700423082252598
+  }, {
+    "feature" : "diseas",
+    "score" : -0.636940760884999
+  }, {
+    "feature" : "increas",
+    "score" : -0.0700512291842562
+  }, {
+    "feature" : "2",
+    "score" : -0.022136888963575727
+  }, {
+    "feature" : "1",
+    "score" : -0.33146095413813814
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7660363308735936
+  }, {
+    "feature" : "year",
+    "score" : -0.06453667936400048
+  }, {
+    "feature" : "lobe",
+    "score" : -0.28272753199583345
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.2519179991528797
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.43826572838951733
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6971172959439459
+  }, {
+    "feature" : "lobe",
+    "score" : 1.4381249695017317
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.1050048971134103
+  }, {
+    "feature" : "airwai",
+    "score" : -0.046881943166993977
+  }, {
+    "feature" : "old",
+    "score" : -0.2772995172528637
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5888178169773051
+  }, {
+    "feature" : "2",
+    "score" : -0.15695000627254954
+  }, {
+    "feature" : "1",
+    "score" : -0.10270999849681055
+  }, {
+    "feature" : "year",
+    "score" : -0.08256805551921033
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.17603813582589717
+  }, {
+    "feature" : "old",
+    "score" : -0.6075056224674443
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5071328280841624
+  }, {
+    "feature" : "1",
+    "score" : -0.274121551197903
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5225810845473613
+  }, {
+    "feature" : "year",
+    "score" : -0.10996977392203978
+  }, {
+    "feature" : "lobe",
+    "score" : -0.25977871272804554
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.660904019742368
+  }, {
+    "feature" : "old",
+    "score" : -0.7649551732209694
+  }, {
+    "feature" : "diseas",
+    "score" : -0.24361652090779384
+  }, {
+    "feature" : "2",
+    "score" : -0.07747024559789271
+  }, {
+    "feature" : "1",
+    "score" : -0.07645981758238762
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.050277769964445385
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.5552174374544964
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.47280918747349815
+  }, {
+    "feature" : "lobe",
+    "score" : -1.8308118230133503
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.32321408164003296
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6264504490278726
+  }, {
+    "feature" : "year",
+    "score" : -0.06120397526779803
+  }, {
+    "feature" : "lobe",
+    "score" : -1.5663957756553106
+  } ]
+}

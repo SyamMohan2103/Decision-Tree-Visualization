@@ -1,0 +1,86 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.3948099190170543
+  }, {
+    "feature" : "ough",
+    "score" : -0.9543590946503872
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -1.582528477656931
+  }, {
+    "feature" : "atelectasi",
+    "score" : -3.4421272986585456
+  }, {
+    "feature" : "ough",
+    "score" : -0.8066115041723366
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ ],
+  "c3_Class-41-591" : [ ],
+  "c3_Class-36-788_30" : [ ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ ],
+  "c2_Class-41-591" : [ {
+    "feature" : "ough",
+    "score" : -0.967775626011369
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ough",
+    "score" : 2.769353820375878
+  } ],
+  "c3_Class-4-753_0" : [ ],
+  "c3_Class-0-593_70" : [ ],
+  "c3_Class-24-596_54" : [ ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.8970024137258419
+  } ],
+  "c2" : [ {
+    "feature" : "ough",
+    "score" : 4.712660019294963
+  } ],
+  "c3" : [ {
+    "feature" : "opac",
+    "score" : 2.447965362269494
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.024122997371919277
+  }, {
+    "feature" : "atelectasi",
+    "score" : -0.07051722127609586
+  }, {
+    "feature" : "ough",
+    "score" : -0.8850866119478978
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "ough",
+    "score" : -0.8951906016041243
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -1.342887187982517
+  } ],
+  "c3_Class-32-486" : [ ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.3766590734527129
+  }, {
+    "feature" : "ough",
+    "score" : -0.9859510360484693
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "ough",
+    "score" : -1.560706779365132
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "ough",
+    "score" : 2.6608570686470463
+  } ],
+  "c1_Class-32-486" : [ ]
+}

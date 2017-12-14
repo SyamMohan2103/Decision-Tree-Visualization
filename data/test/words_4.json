@@ -1,0 +1,410 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.065149069690722
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.6651784284233911
+  }, {
+    "feature" : "normal",
+    "score" : -0.7591718930045592
+  }, {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.08160586224777366
+  }, {
+    "feature" : "old",
+    "score" : -5.16399597484189E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.7001148401312186
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.16221268826043164
+  }, {
+    "feature" : "old",
+    "score" : -0.28785219605755163
+  }, {
+    "feature" : "normal",
+    "score" : -0.9051484641624752
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4213571234323867
+  }, {
+    "feature" : "normal",
+    "score" : -0.6008752931056157
+  }, {
+    "feature" : "ha",
+    "score" : -0.04737826227449202
+  }, {
+    "feature" : "chest",
+    "score" : -0.1979049251427764
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.012791546132163267
+  }, {
+    "feature" : "prior",
+    "score" : -0.023709947880890776
+  }, {
+    "feature" : "old",
+    "score" : -0.5793163005951389
+  }, {
+    "feature" : "normal",
+    "score" : -0.5653617510916914
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  }, {
+    "feature" : "cough",
+    "score" : -0.5767464284268743
+  }, {
+    "feature" : "chest",
+    "score" : -0.25888445035397983
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.29469544499405564
+  }, {
+    "feature" : "normal",
+    "score" : -0.8988154197796594
+  }, {
+    "feature" : "cough",
+    "score" : -0.7692084311778713
+  }, {
+    "feature" : "year",
+    "score" : -0.0026404037662464772
+  }, {
+    "feature" : "chest",
+    "score" : -0.24999127986149386
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "prior",
+    "score" : -0.11612772493995363
+  }, {
+    "feature" : "old",
+    "score" : -0.42940192750068773
+  }, {
+    "feature" : "normal",
+    "score" : -0.6641571153354178
+  }, {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  }, {
+    "feature" : "find",
+    "score" : -0.19069129475933141
+  }, {
+    "feature" : "cough",
+    "score" : -0.6484373408983588
+  }, {
+    "feature" : "chest",
+    "score" : -0.26915820403430274
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.1191371288183969
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.2785055150187502
+  }, {
+    "feature" : "prior",
+    "score" : -0.05394022713669566
+  }, {
+    "feature" : "old",
+    "score" : -0.2496961249103198
+  }, {
+    "feature" : "normal",
+    "score" : -0.5237267341056363
+  }, {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "find",
+    "score" : -0.013753050139073622
+  }, {
+    "feature" : "histori",
+    "score" : -0.3052687050545566
+  }, {
+    "feature" : "cough",
+    "score" : -0.6964372583944513
+  }, {
+    "feature" : "year",
+    "score" : -0.009296745362627392
+  }, {
+    "feature" : "chest",
+    "score" : -0.32313349804027364
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.27832499476581596
+  }, {
+    "feature" : "normal",
+    "score" : -0.7109606765902409
+  }, {
+    "feature" : "year",
+    "score" : -0.35776575304638314
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.24252509268993874
+  }, {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "x",
+    "score" : 0.758460064804046
+  }, {
+    "feature" : "cough",
+    "score" : 0.5395555886789954
+  }, {
+    "feature" : "year",
+    "score" : -0.10609002637156395
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0012055478681523132
+  }, {
+    "feature" : "prior",
+    "score" : -0.07092505567029905
+  }, {
+    "feature" : "old",
+    "score" : -0.12674086272838614
+  }, {
+    "feature" : "normal",
+    "score" : -0.5506235070724731
+  }, {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  }, {
+    "feature" : "histori",
+    "score" : -0.01899140946617505
+  }, {
+    "feature" : "cough",
+    "score" : 2.2167882051022523
+  }, {
+    "feature" : "chest",
+    "score" : -0.31036431550940147
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.3561441254150361
+  }, {
+    "feature" : "cough",
+    "score" : -0.7637273489136817
+  }, {
+    "feature" : "chest",
+    "score" : -0.5086261891934657
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -5.094743623687084E-4
+  }, {
+    "feature" : "prior",
+    "score" : -0.0019240377202862328
+  }, {
+    "feature" : "old",
+    "score" : -0.4671142264261807
+  }, {
+    "feature" : "normal",
+    "score" : -0.7344952963212387
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  }, {
+    "feature" : "cough",
+    "score" : -0.5829435806096472
+  }, {
+    "feature" : "chest",
+    "score" : -0.266483798337823
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -0.9046154253526839
+  }, {
+    "feature" : "normal",
+    "score" : 0.13664597877595186
+  }, {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "cough",
+    "score" : -0.5591440263761052
+  }, {
+    "feature" : "year",
+    "score" : -0.0032896502145459998
+  }, {
+    "feature" : "chest",
+    "score" : -0.032895449194482305
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.35943825367715065
+  }, {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "find",
+    "score" : -0.15998395584505462
+  }, {
+    "feature" : "cough",
+    "score" : -0.7991394435113085
+  }, {
+    "feature" : "chest",
+    "score" : -0.5577206059127225
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.3541403621720163
+  }, {
+    "feature" : "find",
+    "score" : 0.21543932067908764
+  }, {
+    "feature" : "histori",
+    "score" : 0.012466136421831336
+  }, {
+    "feature" : "cough",
+    "score" : 0.7401594973666479
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.4428994083127777
+  }, {
+    "feature" : "evalu",
+    "score" : -0.030149253014741594
+  }, {
+    "feature" : "normal",
+    "score" : -0.5668647565946046
+  }, {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "year",
+    "score" : -0.19948346085077062
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "prior",
+    "score" : -0.04866298999508615
+  }, {
+    "feature" : "old",
+    "score" : -0.018700423082252598
+  }, {
+    "feature" : "normal",
+    "score" : -0.5342536131708238
+  }, {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "histori",
+    "score" : -0.11622976880203151
+  }, {
+    "feature" : "cough",
+    "score" : -0.019118336674134834
+  }, {
+    "feature" : "year",
+    "score" : -0.06453667936400048
+  }, {
+    "feature" : "chest",
+    "score" : -0.04607171632244859
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.0462705749665295
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.43826572838951733
+  }, {
+    "feature" : "evalu",
+    "score" : -0.06259923263999262
+  }, {
+    "feature" : "normal",
+    "score" : -0.8786465917627223
+  }, {
+    "feature" : "histori",
+    "score" : -0.04680013237863307
+  }, {
+    "feature" : "cough",
+    "score" : -0.16369386463294866
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.09407934382028625
+  }, {
+    "feature" : "old",
+    "score" : -0.2772995172528637
+  }, {
+    "feature" : "normal",
+    "score" : -0.3927928295535162
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  }, {
+    "feature" : "cough",
+    "score" : -0.3207233570872264
+  }, {
+    "feature" : "year",
+    "score" : -0.08256805551921033
+  }, {
+    "feature" : "chest",
+    "score" : -0.2042430478389432
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.6075056224674443
+  }, {
+    "feature" : "normal",
+    "score" : -0.7283586545720477
+  }, {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "year",
+    "score" : -0.10996977392203978
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.7649551732209694
+  }, {
+    "feature" : "normal",
+    "score" : -0.5934115491041394
+  }, {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "cough",
+    "score" : -0.16703719618977153
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.03777834154287473
+  }, {
+    "feature" : "normal",
+    "score" : -0.48962872000300833
+  }, {
+    "feature" : "cough",
+    "score" : 1.8238400159932717
+  }, {
+    "feature" : "chest",
+    "score" : -0.05897987964177982
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.5780658760888894
+  }, {
+    "feature" : "histori",
+    "score" : -0.18042403342466656
+  }, {
+    "feature" : "year",
+    "score" : -0.06120397526779803
+  } ]
+}

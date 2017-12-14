@@ -1,0 +1,305 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3834759859341709
+  }, {
+    "feature" : "1",
+    "score" : -0.23330674565139906
+  }, {
+    "feature" : "lobe",
+    "score" : -0.003866394021065643
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "possibl",
+    "score" : -0.01293089512946812
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3086335915781997
+  }, {
+    "feature" : "1",
+    "score" : -0.016884592925214013
+  }, {
+    "feature" : "lobe",
+    "score" : 1.032602211652202
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "ppd",
+    "score" : -0.10074211286882671
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  }, {
+    "feature" : "diseas",
+    "score" : -0.04950718524344367
+  }, {
+    "feature" : "2",
+    "score" : -0.18779078320559656
+  }, {
+    "feature" : "1",
+    "score" : -0.09443292338049819
+  }, {
+    "feature" : "posit",
+    "score" : -0.3749764859573319
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.584479039715039
+  }, {
+    "feature" : "2",
+    "score" : -0.06334993830537893
+  }, {
+    "feature" : "lobe",
+    "score" : -0.4596822395948951
+  }, {
+    "feature" : "posit",
+    "score" : -0.585622149949735
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "ppd",
+    "score" : -0.28896209927757277
+  }, {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6103237838895176
+  }, {
+    "feature" : "2",
+    "score" : -0.07625446779408031
+  }, {
+    "feature" : "find",
+    "score" : -0.19069129475933141
+  }, {
+    "feature" : "1",
+    "score" : -0.11457537090933329
+  }, {
+    "feature" : "posit",
+    "score" : -0.18761749592217045
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6382434514602978
+  }, {
+    "feature" : "find",
+    "score" : -0.013753050139073622
+  }, {
+    "feature" : "1",
+    "score" : -0.29667469938128743
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21756265530862448
+  }, {
+    "feature" : "posit",
+    "score" : -0.4398551701266337
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.39241003820234327
+  }, {
+    "feature" : "2",
+    "score" : -0.18433805932188152
+  }, {
+    "feature" : "1",
+    "score" : -0.10483049667441076
+  }, {
+    "feature" : "lobe",
+    "score" : -0.47033061996297404
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "possibl",
+    "score" : -0.5394670642034826
+  }, {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "1",
+    "score" : -0.34632932996410287
+  }, {
+    "feature" : "lobe",
+    "score" : -1.1822894390862382
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3042399615199088
+  }, {
+    "feature" : "posit",
+    "score" : -0.5723092207276977
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "ppd",
+    "score" : -0.19113406251491635
+  }, {
+    "feature" : "diseas",
+    "score" : -0.45953964368956646
+  }, {
+    "feature" : "lobe",
+    "score" : -0.22940461597281472
+  }, {
+    "feature" : "posit",
+    "score" : -0.48535190240992
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "ppd",
+    "score" : -0.043591959534219335
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6161136940553583
+  }, {
+    "feature" : "2",
+    "score" : -0.23868384216148128
+  }, {
+    "feature" : "1",
+    "score" : -0.23183735472565992
+  }, {
+    "feature" : "posit",
+    "score" : -0.3916005908799263
+  } ],
+  "c1" : [ {
+    "feature" : "possibl",
+    "score" : -0.06077128861957962
+  }, {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7394848688229935
+  }, {
+    "feature" : "2",
+    "score" : -0.07606954627265607
+  }, {
+    "feature" : "1",
+    "score" : -0.724531700237784
+  } ],
+  "c2" : [ {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "find",
+    "score" : -0.15998395584505462
+  } ],
+  "c3" : [ {
+    "feature" : "ppd",
+    "score" : 1.7489447055981149
+  }, {
+    "feature" : "suspect",
+    "score" : 0.004308025195854162
+  }, {
+    "feature" : "find",
+    "score" : 0.21543932067908764
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21641336150438076
+  }, {
+    "feature" : "posit",
+    "score" : 0.42322358661799336
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43104443353929006
+  }, {
+    "feature" : "1",
+    "score" : -0.05602699783659572
+  }, {
+    "feature" : "lobe",
+    "score" : -0.2638384379817008
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4503851149277327
+  }, {
+    "feature" : "2",
+    "score" : -0.022136888963575727
+  }, {
+    "feature" : "1",
+    "score" : -0.33146095413813814
+  }, {
+    "feature" : "lobe",
+    "score" : -0.28272753199583345
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "diseas",
+    "score" : -0.49293634939547
+  }, {
+    "feature" : "lobe",
+    "score" : 1.4381249695017317
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "ppd",
+    "score" : -0.10152804674636245
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  }, {
+    "feature" : "diseas",
+    "score" : -0.41635705619207763
+  }, {
+    "feature" : "2",
+    "score" : -0.15695000627254954
+  }, {
+    "feature" : "1",
+    "score" : -0.10270999849681055
+  }, {
+    "feature" : "posit",
+    "score" : -0.3743456208033789
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3585970487160432
+  }, {
+    "feature" : "1",
+    "score" : -0.274121551197903
+  }, {
+    "feature" : "lobe",
+    "score" : -0.25977871272804554
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "diseas",
+    "score" : -0.17226288770544165
+  }, {
+    "feature" : "2",
+    "score" : -0.07747024559789271
+  }, {
+    "feature" : "1",
+    "score" : -0.07645981758238762
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "lobe",
+    "score" : -1.8308118230133503
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lobe",
+    "score" : -1.5663957756553106
+  } ]
+}

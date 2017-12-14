@@ -1,0 +1,239 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "followup",
+    "score" : -0.31095554707828144
+  }, {
+    "feature" : "left",
+    "score" : -0.5659994631532601
+  }, {
+    "feature" : "neurogen",
+    "score" : 4.516470445889537
+  }, {
+    "feature" : "chang",
+    "score" : -0.17445934140704125
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.13056938252877148
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.2595403070454596
+  }, {
+    "feature" : "possibl",
+    "score" : -0.020689432207148993
+  }, {
+    "feature" : "followup",
+    "score" : -0.22890447522601937
+  }, {
+    "feature" : "left",
+    "score" : -0.13958091409533033
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.1436237089516104
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  }, {
+    "feature" : "chang",
+    "score" : -0.46880329110380164
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.6741714126323934
+  }, {
+    "feature" : "neurogen",
+    "score" : -1.2126509811117716
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.020466474271098316
+  }, {
+    "feature" : "left",
+    "score" : -0.6451006035226284
+  } ],
+  "c3_Class-41-591" : [ ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.4014142910277347
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4456088340375055
+  }, {
+    "feature" : "left",
+    "score" : -0.2584169016767138
+  }, {
+    "feature" : "chang",
+    "score" : -0.4198160825845255
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.44532000162632407
+  }, {
+    "feature" : "followup",
+    "score" : -0.2601624828968701
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "possibl",
+    "score" : -0.863147302725572
+  }, {
+    "feature" : "followup",
+    "score" : -0.2993715670029284
+  }, {
+    "feature" : "left",
+    "score" : -0.557304655160273
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.0550476900632311
+  }, {
+    "feature" : "chang",
+    "score" : -0.09874801900251806
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0019288766323625074
+  }, {
+    "feature" : "left",
+    "score" : -0.9359686799466271
+  } ],
+  "c3_Class-0-593_70" : [ ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -8.151589980968143E-4
+  }, {
+    "feature" : "left",
+    "score" : -0.5588418051266638
+  } ],
+  "c1" : [ {
+    "feature" : "possibl",
+    "score" : -0.0972340617913274
+  }, {
+    "feature" : "followup",
+    "score" : -0.062410274537636805
+  }, {
+    "feature" : "left",
+    "score" : -1.5825287267970036
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.3363486635882103
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  }, {
+    "feature" : "chang",
+    "score" : -0.9810912941064629
+  } ],
+  "c2" : [ {
+    "feature" : "followup",
+    "score" : 1.352594339152875
+  }, {
+    "feature" : "left",
+    "score" : 0.467455425903769
+  }, {
+    "feature" : "otherwis",
+    "score" : 0.13715912100285005
+  }, {
+    "feature" : "suggest",
+    "score" : -0.295068009505512
+  } ],
+  "c3" : [ {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "followup",
+    "score" : -0.3691312750494626
+  }, {
+    "feature" : "left",
+    "score" : -0.23964872595019554
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.09335528392096432
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  }, {
+    "feature" : "chang",
+    "score" : -0.0699065010826796
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -1.262188593556927
+  }, {
+    "feature" : "left",
+    "score" : -0.5344231643808052
+  }, {
+    "feature" : "chang",
+    "score" : -1.2513525264315604
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "neurogen",
+    "score" : 4.389247412686409
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "suggest",
+    "score" : -0.014773328991116037
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.15052695349299974
+  }, {
+    "feature" : "left",
+    "score" : -0.5605263868685628
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.2589836748321137
+  }, {
+    "feature" : "pyelocaliectasi",
+    "score" : 1.919029885742555
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  }, {
+    "feature" : "chang",
+    "score" : -0.019597769602195104
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "followup",
+    "score" : -0.4814290343304663
+  }, {
+    "feature" : "left",
+    "score" : -0.6075462115179127
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.06044534782608417
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "suggest",
+    "score" : 0.2286755823850651
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  } ]
+}

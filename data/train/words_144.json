@@ -1,0 +1,332 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.5063482748583414
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.7717361330559716
+  }, {
+    "feature" : "normal",
+    "score" : -1.073631197631717
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3834759859341709
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.08160586224777366
+  }, {
+    "feature" : "normal",
+    "score" : -0.9901119116975846
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.16221268826043164
+  }, {
+    "feature" : "normal",
+    "score" : -1.280073246346373
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3086335915781997
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.4213571234323867
+  }, {
+    "feature" : "normal",
+    "score" : -0.8497659970143505
+  }, {
+    "feature" : "chest",
+    "score" : -0.1979049251427764
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.012791546132163267
+  }, {
+    "feature" : "right",
+    "score" : -1.0958376404429995
+  }, {
+    "feature" : "normal",
+    "score" : -0.799542263765147
+  }, {
+    "feature" : "diseas",
+    "score" : -0.04950718524344367
+  }, {
+    "feature" : "chest",
+    "score" : -0.25888445035397983
+  }, {
+    "feature" : "pain",
+    "score" : -0.2255466072490058
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.3884261078317345
+  }, {
+    "feature" : "normal",
+    "score" : -1.2711169690025585
+  }, {
+    "feature" : "diseas",
+    "score" : -0.584479039715039
+  }, {
+    "feature" : "chest",
+    "score" : -0.24999127986149386
+  }, {
+    "feature" : "pain",
+    "score" : -0.31192947818207545
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.8878821795658339
+  }, {
+    "feature" : "normal",
+    "score" : -0.93926000912801
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6103237838895176
+  }, {
+    "feature" : "chest",
+    "score" : -0.26915820403430274
+  }, {
+    "feature" : "pain",
+    "score" : -0.15588424548696195
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.5826989210205133
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.2785055150187502
+  }, {
+    "feature" : "right",
+    "score" : -0.6870491196390682
+  }, {
+    "feature" : "normal",
+    "score" : -0.7406614575049939
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6382434514602978
+  }, {
+    "feature" : "histori",
+    "score" : -0.3052687050545566
+  }, {
+    "feature" : "chest",
+    "score" : -0.32313349804027364
+  }, {
+    "feature" : "pain",
+    "score" : -0.1719934248416874
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.27832499476581596
+  }, {
+    "feature" : "normal",
+    "score" : -1.0054502408613961
+  }, {
+    "feature" : "diseas",
+    "score" : -0.39241003820234327
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.45706732641184683
+  }, {
+    "feature" : "normal",
+    "score" : -0.3429822786114111
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0012055478681523132
+  }, {
+    "feature" : "right",
+    "score" : -1.0607321926717848
+  }, {
+    "feature" : "normal",
+    "score" : -0.7786992389862426
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3042399615199088
+  }, {
+    "feature" : "histori",
+    "score" : -0.01899140946617505
+  }, {
+    "feature" : "chest",
+    "score" : -0.31036431550940147
+  }, {
+    "feature" : "pain",
+    "score" : -0.12512675564854905
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.6943268183372665
+  }, {
+    "feature" : "diseas",
+    "score" : -0.45953964368956646
+  }, {
+    "feature" : "chest",
+    "score" : -0.5086261891934657
+  }, {
+    "feature" : "pain",
+    "score" : -0.28724967076552194
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -5.094743623687084E-4
+  }, {
+    "feature" : "right",
+    "score" : -1.183659362073748
+  }, {
+    "feature" : "normal",
+    "score" : -1.038733219591809
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6161136940553583
+  }, {
+    "feature" : "chest",
+    "score" : -0.266483798337823
+  }, {
+    "feature" : "pain",
+    "score" : -0.1284938136014735
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.2269448029582652
+  }, {
+    "feature" : "normal",
+    "score" : 0.19324659829562776
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7394848688229935
+  }, {
+    "feature" : "chest",
+    "score" : -0.032895449194482305
+  }, {
+    "feature" : "pain",
+    "score" : -0.4782326397468414
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.3745154586950919
+  }, {
+    "feature" : "normal",
+    "score" : -0.5083224580967655
+  }, {
+    "feature" : "chest",
+    "score" : -0.5577206059127225
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.6297423947729651
+  }, {
+    "feature" : "2001",
+    "score" : 0.7754516719707121
+  }, {
+    "feature" : "normal",
+    "score" : -0.5008301080058406
+  }, {
+    "feature" : "histori",
+    "score" : 0.012466136421831336
+  }, {
+    "feature" : "pain",
+    "score" : 1.152309789452539
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.14856939210984677
+  }, {
+    "feature" : "normal",
+    "score" : -0.8016678345522231
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43104443353929006
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7555487127922672
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4503851149277327
+  }, {
+    "feature" : "histori",
+    "score" : -0.11622976880203151
+  }, {
+    "feature" : "chest",
+    "score" : -0.04607171632244859
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.4796500513242714
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.2425939386082785
+  }, {
+    "feature" : "diseas",
+    "score" : -0.49293634939547
+  }, {
+    "feature" : "histori",
+    "score" : -0.04680013237863307
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.09407934382028625
+  }, {
+    "feature" : "right",
+    "score" : -1.3533490798268246
+  }, {
+    "feature" : "normal",
+    "score" : -0.5554929521240322
+  }, {
+    "feature" : "diseas",
+    "score" : -0.41635705619207763
+  }, {
+    "feature" : "chest",
+    "score" : -0.2042430478389432
+  }, {
+    "feature" : "pain",
+    "score" : -0.09237714284126336
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.21560180389857228
+  }, {
+    "feature" : "normal",
+    "score" : -1.0300546975188363
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3585970487160432
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.8094388081977745
+  }, {
+    "feature" : "normal",
+    "score" : -0.8392106689194082
+  }, {
+    "feature" : "diseas",
+    "score" : -0.17226288770544165
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.03777834154287473
+  }, {
+    "feature" : "right",
+    "score" : -0.6799997086399621
+  }, {
+    "feature" : "normal",
+    "score" : -0.692439583045203
+  }, {
+    "feature" : "chest",
+    "score" : -0.05897987964177982
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3958547886233637
+  }, {
+    "feature" : "normal",
+    "score" : -0.817508609807838
+  }, {
+    "feature" : "histori",
+    "score" : -0.18042403342466656
+  } ]
+}

@@ -1,0 +1,293 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.33733935714406976
+  }, {
+    "feature" : "normal",
+    "score" : -1.7042385115051553
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.21958604896363848
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "followup",
+    "score" : -0.31095554707828144
+  }, {
+    "feature" : "normal",
+    "score" : -1.2146750288072947
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4141417568216635
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.8386807984773353
+  }, {
+    "feature" : "normal",
+    "score" : -1.1201837442099498
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.11880648425594012
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "followup",
+    "score" : -0.22890447522601937
+  }, {
+    "feature" : "post",
+    "score" : -0.07186867861669001
+  }, {
+    "feature" : "normal",
+    "score" : -1.4482375426599603
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0623297724521894
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.961400468968985
+  }, {
+    "feature" : "appear",
+    "score" : -0.05857791587613667
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6766492121312301
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -0.9045788017467061
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.438104671647455
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.23599285507175888
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.0626513845366683
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7906194061094352
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7954982995390387
+  }, {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.8379627745690181
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.07230773010076483
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.3461436478955393
+  }, {
+    "feature" : "followup",
+    "score" : -0.2601624828968701
+  }, {
+    "feature" : "normal",
+    "score" : -1.1375370825443853
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5372837759613578
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.1779082004037514
+  }, {
+    "feature" : "followup",
+    "score" : -0.2993715670029284
+  }, {
+    "feature" : "normal",
+    "score" : -0.388040148303902
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.3061453956005817
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.880997611315957
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.017390858273751315
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.1751924741139819
+  } ],
+  "c1" : [ {
+    "feature" : "followup",
+    "score" : -0.062410274537636805
+  }, {
+    "feature" : "normal",
+    "score" : 0.21863356604152295
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.11260718822847114
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  } ],
+  "c2" : [ {
+    "feature" : "followup",
+    "score" : 1.352594339152875
+  }, {
+    "feature" : "normal",
+    "score" : -0.575101205883441
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.27876592835027536
+  } ],
+  "c3" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.0020177542716503893
+  }, {
+    "feature" : "normal",
+    "score" : -0.566624579475226
+  }, {
+    "feature" : "appear",
+    "score" : -0.14116592414334397
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.4687161298611553
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.05015164431689941
+  }, {
+    "feature" : "followup",
+    "score" : -0.3691312750494626
+  }, {
+    "feature" : "post",
+    "score" : -0.19661067595773649
+  }, {
+    "feature" : "normal",
+    "score" : -0.9069836105513673
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.03295997226200932
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -1.262188593556927
+  }, {
+    "feature" : "interv",
+    "score" : -0.4014947596656844
+  }, {
+    "feature" : "normal",
+    "score" : -0.854805781073318
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.41881807290722683
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.6740329199464474
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5104182399203901
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.4058345468203557
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4573793634092096
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.628468527285626
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.03525704307606649
+  }, {
+    "feature" : "normal",
+    "score" : -1.1653738473152764
+  }, {
+    "feature" : "appear",
+    "score" : -0.027605086778215524
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4807242552034413
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "followup",
+    "score" : -0.4814290343304663
+  }, {
+    "feature" : "normal",
+    "score" : -0.949458478566623
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9071933737192265
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.1629545692896763
+  }, {
+    "feature" : "interv",
+    "score" : -0.2914421194786805
+  }, {
+    "feature" : "normal",
+    "score" : -0.7834059520048133
+  }, {
+    "feature" : "appear",
+    "score" : -0.18833302041010092
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0170405269849623
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "ultrasound",
+    "score" : -1.1359384123016045
+  }, {
+    "feature" : "interv",
+    "score" : -0.12781857516348968
+  }, {
+    "feature" : "normal",
+    "score" : -0.9249054017422229
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0770457077627695
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  } ]
+}

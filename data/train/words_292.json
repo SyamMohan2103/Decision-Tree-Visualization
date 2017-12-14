@@ -1,0 +1,320 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.2050785669991677
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.532142742738713
+  }, {
+    "feature" : "normal",
+    "score" : -0.858904920410455
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.15292657082081315
+  }, {
+    "feature" : "old",
+    "score" : -4.1311967798735125E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.7920894945954898
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.2302817568460413
+  }, {
+    "feature" : "normal",
+    "score" : -1.0240585521340517
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.13720597575441726
+  }, {
+    "feature" : "normal",
+    "score" : -0.6798127677764121
+  }, {
+    "feature" : "volum",
+    "score" : -0.0436334453318624
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.1587092935894405
+  }, {
+    "feature" : "old",
+    "score" : -0.46345304047611113
+  }, {
+    "feature" : "normal",
+    "score" : -0.6396337829403917
+  }, {
+    "feature" : "cough",
+    "score" : -0.46139714274149946
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.2357563559952445
+  }, {
+    "feature" : "normal",
+    "score" : -1.016893530573453
+  }, {
+    "feature" : "cough",
+    "score" : -0.615366744942297
+  }, {
+    "feature" : "year",
+    "score" : -0.002112322977276513
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.08831232325506992
+  }, {
+    "feature" : "old",
+    "score" : -0.3435215420005502
+  }, {
+    "feature" : "normal",
+    "score" : -0.7514079743252277
+  }, {
+    "feature" : "find",
+    "score" : -0.15255304132849506
+  }, {
+    "feature" : "cough",
+    "score" : -0.5187498727186871
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.2661590812482535
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "exam",
+    "score" : -0.13418940554426126
+  }, {
+    "feature" : "old",
+    "score" : -0.19975689992825585
+  }, {
+    "feature" : "normal",
+    "score" : -0.5925291399995594
+  }, {
+    "feature" : "find",
+    "score" : -0.011002440509446982
+  }, {
+    "feature" : "cough",
+    "score" : -0.557149806715561
+  }, {
+    "feature" : "year",
+    "score" : -0.007437396164331014
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8043601573880143
+  }, {
+    "feature" : "infect",
+    "score" : -0.2940144420466083
+  }, {
+    "feature" : "year",
+    "score" : -0.28621259759707707
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "loss",
+    "score" : 0.34133768837208145
+  }, {
+    "feature" : "normal",
+    "score" : -0.27438581084710817
+  }, {
+    "feature" : "cough",
+    "score" : 0.43164447094319636
+  }, {
+    "feature" : "year",
+    "score" : -0.0848720196620136
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.10139269018270891
+  }, {
+    "feature" : "normal",
+    "score" : -0.6229593638490616
+  }, {
+    "feature" : "cough",
+    "score" : 1.7734305640818018
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.2611714202127713
+  }, {
+    "feature" : "old",
+    "score" : -0.28491530033202883
+  }, {
+    "feature" : "cough",
+    "score" : -0.6109818791309454
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.0665467728327736
+  }, {
+    "feature" : "old",
+    "score" : -0.3736913811409446
+  }, {
+    "feature" : "normal",
+    "score" : -0.8309865392037877
+  }, {
+    "feature" : "cough",
+    "score" : -0.4663548644877178
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -0.7236923402821471
+  }, {
+    "feature" : "normal",
+    "score" : 0.15459727185166322
+  }, {
+    "feature" : "cough",
+    "score" : -0.4473152211008842
+  }, {
+    "feature" : "year",
+    "score" : -0.002631720127132809
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -0.7850286339482941
+  }, {
+    "feature" : "normal",
+    "score" : -0.40665794863033994
+  }, {
+    "feature" : "find",
+    "score" : -0.12798716930801293
+  }, {
+    "feature" : "suggest",
+    "score" : -0.147534004752756
+  }, {
+    "feature" : "cough",
+    "score" : -0.6393115548090468
+  } ],
+  "c3" : [ {
+    "feature" : "opac",
+    "score" : 0.8159884540898313
+  }, {
+    "feature" : "normal",
+    "score" : -0.40066406882065453
+  }, {
+    "feature" : "find",
+    "score" : 0.17235146278082247
+  }, {
+    "feature" : "cough",
+    "score" : 0.5921275978933183
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.35431952665022215
+  }, {
+    "feature" : "normal",
+    "score" : -0.6413342394954245
+  }, {
+    "feature" : "seen",
+    "score" : -0.18906867122244098
+  }, {
+    "feature" : "year",
+    "score" : -0.15958676598190707
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.014960338465802078
+  }, {
+    "feature" : "normal",
+    "score" : -0.6044389437066903
+  }, {
+    "feature" : "cough",
+    "score" : -0.015294669339307867
+  }, {
+    "feature" : "year",
+    "score" : -0.05162934261811675
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.1837199891092796
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.08547656103031544
+  }, {
+    "feature" : "without",
+    "score" : -0.1604005950696279
+  }, {
+    "feature" : "old",
+    "score" : -0.3506125827116139
+  }, {
+    "feature" : "normal",
+    "score" : -0.9940751072594652
+  }, {
+    "feature" : "suggest",
+    "score" : -0.0073866644955580185
+  }, {
+    "feature" : "cough",
+    "score" : -0.1309550917063589
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 1.6447846957472443
+  }, {
+    "feature" : "old",
+    "score" : -0.22183961380229097
+  }, {
+    "feature" : "normal",
+    "score" : -0.4443943421960092
+  }, {
+    "feature" : "cough",
+    "score" : -0.25657868566978115
+  }, {
+    "feature" : "year",
+    "score" : -0.06605444329834738
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.4860044979739555
+  }, {
+    "feature" : "normal",
+    "score" : -0.8240437218501102
+  }, {
+    "feature" : "infect",
+    "score" : -0.04859307903623357
+  }, {
+    "feature" : "seen",
+    "score" : -0.018953216776914212
+  }, {
+    "feature" : "year",
+    "score" : -0.08797581764990715
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.6119641385767756
+  }, {
+    "feature" : "normal",
+    "score" : -0.6713685056710531
+  }, {
+    "feature" : "cough",
+    "score" : -0.13362975695181722
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "cardiac",
+    "score" : 0.2183984684579849
+  }, {
+    "feature" : "fever",
+    "score" : -0.03455977550133059
+  }, {
+    "feature" : "normal",
+    "score" : -0.5539516421247845
+  }, {
+    "feature" : "cough",
+    "score" : 1.4590720127946173
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 1.4095761275408545
+  }, {
+    "feature" : "normal",
+    "score" : -0.6540068591437507
+  }, {
+    "feature" : "suggest",
+    "score" : 0.11433779119253255
+  }, {
+    "feature" : "year",
+    "score" : -0.04896317938624123
+  } ]
+}

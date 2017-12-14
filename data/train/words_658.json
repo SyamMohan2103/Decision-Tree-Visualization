@@ -1,0 +1,686 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.16866967857203488
+  }, {
+    "feature" : "normal",
+    "score" : -0.8521192557525776
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15527078204019013
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.3564496269151063
+  }, {
+    "feature" : "old",
+    "score" : -0.532142742738713
+  }, {
+    "feature" : "normal",
+    "score" : -0.6073375144036474
+  }, {
+    "feature" : "left",
+    "score" : -0.28299973157663005
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2928424404040629
+  }, {
+    "feature" : "1",
+    "score" : -0.2639564333228741
+  }, {
+    "feature" : "bilater",
+    "score" : -0.12858011245437856
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.06528469126438574
+  }, {
+    "feature" : "fever",
+    "score" : -0.15292657082081315
+  }, {
+    "feature" : "old",
+    "score" : -4.1311967798735125E-4
+  }, {
+    "feature" : "grade",
+    "score" : 0.38444923921984026
+  }, {
+    "feature" : "normal",
+    "score" : -0.5600918721049749
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08400886945654754
+  }, {
+    "feature" : "reflux",
+    "score" : 0.6847003678034107
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.1297701535227298
+  }, {
+    "feature" : "old",
+    "score" : -0.2302817568460413
+  }, {
+    "feature" : "normal",
+    "score" : -0.7241187713299801
+  }, {
+    "feature" : "left",
+    "score" : -0.06979045704766516
+  }, {
+    "feature" : "femal",
+    "score" : -0.12869643190520158
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.0718118544758052
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7511805751400115
+  }, {
+    "feature" : "mild",
+    "score" : -0.21638529642135676
+  }, {
+    "feature" : "1",
+    "score" : -0.01910273496038283
+  }, {
+    "feature" : "bilater",
+    "score" : -0.07870005440815142
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3370857063161967
+  }, {
+    "feature" : "fever",
+    "score" : -0.13720597575441726
+  }, {
+    "feature" : "normal",
+    "score" : -0.4807002344844925
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.47846323949247
+  }, {
+    "feature" : "uti",
+    "score" : 0.9713243513297692
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.010233237135549158
+  }, {
+    "feature" : "right",
+    "score" : -0.5061456906892136
+  }, {
+    "feature" : "fever",
+    "score" : -0.1587092935894405
+  }, {
+    "feature" : "prior",
+    "score" : -0.01896795895811359
+  }, {
+    "feature" : "old",
+    "score" : -0.46345304047611113
+  }, {
+    "feature" : "normal",
+    "score" : -0.45228940087335306
+  }, {
+    "feature" : "left",
+    "score" : -0.3225503017613142
+  }, {
+    "feature" : "reflux",
+    "score" : -0.20669929777115076
+  }, {
+    "feature" : "2",
+    "score" : -0.33593036768553636
+  }, {
+    "feature" : "1",
+    "score" : -0.10683864958200824
+  }, {
+    "feature" : "bilater",
+    "score" : -0.10585396132764532
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.19501459087932208
+  }, {
+    "feature" : "right",
+    "score" : -0.17940632204487822
+  }, {
+    "feature" : "old",
+    "score" : -0.2357563559952445
+  }, {
+    "feature" : "normal",
+    "score" : -0.7190523358237275
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16687214572979078
+  }, {
+    "feature" : "reflux",
+    "score" : -0.6003517160658782
+  }, {
+    "feature" : "2",
+    "score" : -0.11332381549568915
+  }, {
+    "feature" : "year",
+    "score" : -0.002112322977276513
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.0034743643468846757
+  }, {
+    "feature" : "right",
+    "score" : -0.4100951842148089
+  }, {
+    "feature" : "fever",
+    "score" : -0.08831232325506992
+  }, {
+    "feature" : "prior",
+    "score" : -0.09290218315222165
+  }, {
+    "feature" : "old",
+    "score" : -0.3435215420005502
+  }, {
+    "feature" : "normal",
+    "score" : -0.5313256922683341
+  }, {
+    "feature" : "left",
+    "score" : -0.20070714551386734
+  }, {
+    "feature" : "reflux",
+    "score" : -0.3854988104361229
+  }, {
+    "feature" : "2",
+    "score" : -0.13640813977374622
+  }, {
+    "feature" : "1",
+    "score" : -0.129627226025694
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8953097030547176
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5625022339261699
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.22280441701875275
+  }, {
+    "feature" : "right",
+    "score" : -0.3173343735998641
+  }, {
+    "feature" : "prior",
+    "score" : -0.04315218319584637
+  }, {
+    "feature" : "old",
+    "score" : -0.19975689992825585
+  }, {
+    "feature" : "normal",
+    "score" : -0.41898138728450907
+  }, {
+    "feature" : "left",
+    "score" : -0.1292084508383569
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.05112928555017577
+  }, {
+    "feature" : "uti",
+    "score" : 0.9223162273814537
+  }, {
+    "feature" : "reflux",
+    "score" : -0.1227633552187108
+  }, {
+    "feature" : "1",
+    "score" : -0.3356490841581928
+  }, {
+    "feature" : "year",
+    "score" : -0.007437396164331014
+  }, {
+    "feature" : "bilater",
+    "score" : -0.03606059305053277
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.22266000081316203
+  }, {
+    "feature" : "ag",
+    "score" : -0.7026379910518525
+  }, {
+    "feature" : "normal",
+    "score" : -0.5687685412721927
+  }, {
+    "feature" : "femal",
+    "score" : -0.04061900483860645
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3799169959328368
+  }, {
+    "feature" : "reflux",
+    "score" : -0.25175740418178294
+  }, {
+    "feature" : "2",
+    "score" : -0.3297539473949666
+  }, {
+    "feature" : "1",
+    "score" : -0.1186021601235127
+  }, {
+    "feature" : "year",
+    "score" : -0.28621259759707707
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.21111034069305623
+  }, {
+    "feature" : "normal",
+    "score" : -0.194020074151951
+  }, {
+    "feature" : "left",
+    "score" : -0.2786523275801365
+  }, {
+    "feature" : "femal",
+    "score" : -0.05353454444829975
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.02752384503161555
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9235842531447832
+  }, {
+    "feature" : "1",
+    "score" : -0.3918268819754428
+  }, {
+    "feature" : "year",
+    "score" : -0.0848720196620136
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -9.644383161812537E-4
+  }, {
+    "feature" : "right",
+    "score" : -0.4899311800232608
+  }, {
+    "feature" : "prior",
+    "score" : -0.05674004649079858
+  }, {
+    "feature" : "old",
+    "score" : -0.10139269018270891
+  }, {
+    "feature" : "normal",
+    "score" : -0.4404988056579785
+  }, {
+    "feature" : "left",
+    "score" : -0.46798433997331357
+  }, {
+    "feature" : "uti",
+    "score" : -0.007365948147037426
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2394493636155764
+  }, {
+    "feature" : "bilater",
+    "score" : -0.12378786367722133
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.4215262718217826
+  }, {
+    "feature" : "growth",
+    "score" : 0.008695429136875658
+  }, {
+    "feature" : "right",
+    "score" : -0.3206957984116076
+  }, {
+    "feature" : "fever",
+    "score" : -0.2611714202127713
+  }, {
+    "feature" : "old",
+    "score" : -0.28491530033202883
+  }, {
+    "feature" : "grade",
+    "score" : 0.4850392719541176
+  }, {
+    "feature" : "uti",
+    "score" : -0.9691637180100748
+  }, {
+    "feature" : "reflux",
+    "score" : 1.0048227840729793
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -4.075794990484071E-4
+  }, {
+    "feature" : "right",
+    "score" : -0.5467088036101583
+  }, {
+    "feature" : "fever",
+    "score" : -0.0665467728327736
+  }, {
+    "feature" : "prior",
+    "score" : -0.0015392302292517983
+  }, {
+    "feature" : "old",
+    "score" : -0.3736913811409446
+  }, {
+    "feature" : "normal",
+    "score" : -0.5875962370569909
+  }, {
+    "feature" : "left",
+    "score" : -0.2794209025633319
+  }, {
+    "feature" : "reflux",
+    "score" : -0.11894126346720214
+  }, {
+    "feature" : "2",
+    "score" : -0.42697063982165323
+  }, {
+    "feature" : "1",
+    "score" : -0.26229400737444214
+  }, {
+    "feature" : "bilater",
+    "score" : -0.05303515184148083
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -0.5667014909980677
+  }, {
+    "feature" : "old",
+    "score" : -0.7236923402821471
+  }, {
+    "feature" : "normal",
+    "score" : 0.10931678302076148
+  }, {
+    "feature" : "left",
+    "score" : -0.7912643633985018
+  }, {
+    "feature" : "femal",
+    "score" : -0.24572024516101998
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.07962530526006643
+  }, {
+    "feature" : "reflux",
+    "score" : -0.29213484273107315
+  }, {
+    "feature" : "mild",
+    "score" : -0.020708455071630258
+  }, {
+    "feature" : "2",
+    "score" : -0.13607734209760572
+  }, {
+    "feature" : "1",
+    "score" : -0.8197139902241675
+  }, {
+    "feature" : "year",
+    "score" : -0.002631720127132809
+  }, {
+    "feature" : "bilater",
+    "score" : -0.20712018848996783
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.17298126886605603
+  }, {
+    "feature" : "fever",
+    "score" : -0.7850286339482941
+  }, {
+    "feature" : "normal",
+    "score" : -0.2875506029417205
+  }, {
+    "feature" : "left",
+    "score" : 0.2337277129518845
+  }, {
+    "feature" : "femal",
+    "score" : 0.24095585490565427
+  }, {
+    "feature" : "otherwis",
+    "score" : 0.06857956050142502
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.19711727546167723
+  }, {
+    "feature" : "uti",
+    "score" : -0.4504534666993942
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.29086553299062495
+  }, {
+    "feature" : "2001",
+    "score" : 0.8773234019140549
+  }, {
+    "feature" : "normal",
+    "score" : -0.283312289737613
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.74564589111145
+  }, {
+    "feature" : "reflux",
+    "score" : 0.5727304337342847
+  }, {
+    "feature" : "bilater",
+    "score" : 0.0032793039178163627
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.4877865100599527
+  }, {
+    "feature" : "growth",
+    "score" : 0.025075822158449706
+  }, {
+    "feature" : "right",
+    "score" : -0.06862125812206615
+  }, {
+    "feature" : "old",
+    "score" : -0.35431952665022215
+  }, {
+    "feature" : "grade",
+    "score" : 0.6982493863267276
+  }, {
+    "feature" : "normal",
+    "score" : -0.45349180527568367
+  }, {
+    "feature" : "left",
+    "score" : -0.11982436297509777
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.04667764196048216
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.023306219558568642
+  }, {
+    "feature" : "reflux",
+    "score" : 1.5483175221034533
+  }, {
+    "feature" : "mild",
+    "score" : -0.33380577858853916
+  }, {
+    "feature" : "1",
+    "score" : -0.06338730788707268
+  }, {
+    "feature" : "year",
+    "score" : -0.15958676598190707
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.2007473798328422
+  }, {
+    "feature" : "prior",
+    "score" : -0.038930393337128166
+  }, {
+    "feature" : "old",
+    "score" : -0.014960338465802078
+  }, {
+    "feature" : "normal",
+    "score" : -0.427402890536659
+  }, {
+    "feature" : "left",
+    "score" : -0.2672115821904026
+  }, {
+    "feature" : "femal",
+    "score" : -0.1203723784881782
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2961490951715194
+  }, {
+    "feature" : "uti",
+    "score" : 0.8852310950701527
+  }, {
+    "feature" : "mild",
+    "score" : -0.08674633675729695
+  }, {
+    "feature" : "2",
+    "score" : -0.0395996710914525
+  }, {
+    "feature" : "1",
+    "score" : -0.37500523611446224
+  }, {
+    "feature" : "year",
+    "score" : -0.05162934261811675
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -0.8370164599732237
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3609201934916183
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.08547656103031544
+  }, {
+    "feature" : "old",
+    "score" : -0.3506125827116139
+  }, {
+    "feature" : "normal",
+    "score" : -0.7029172734101778
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.030522815788055
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.07526347674649987
+  }, {
+    "feature" : "right",
+    "score" : -0.6250851216204323
+  }, {
+    "feature" : "fever",
+    "score" : 1.6447846957472443
+  }, {
+    "feature" : "old",
+    "score" : -0.22183961380229097
+  }, {
+    "feature" : "normal",
+    "score" : -0.314234263642813
+  }, {
+    "feature" : "left",
+    "score" : -0.2802631934342814
+  }, {
+    "feature" : "uti",
+    "score" : -0.9507703180803507
+  }, {
+    "feature" : "reflux",
+    "score" : -0.11109052160002493
+  }, {
+    "feature" : "2",
+    "score" : -0.2807607083552198
+  }, {
+    "feature" : "1",
+    "score" : -0.11620309045982057
+  }, {
+    "feature" : "year",
+    "score" : -0.06605444329834738
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3346146650934684
+  }, {
+    "feature" : "small",
+    "score" : -0.06511051072133851
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.09958220079387708
+  }, {
+    "feature" : "interv",
+    "score" : -0.017628521538033244
+  }, {
+    "feature" : "old",
+    "score" : -0.4860044979739555
+  }, {
+    "feature" : "normal",
+    "score" : -0.5826869236576382
+  }, {
+    "feature" : "left",
+    "score" : -0.12949183741605685
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.33992337584017646
+  }, {
+    "feature" : "1",
+    "score" : -0.310133111449957
+  }, {
+    "feature" : "year",
+    "score" : -0.08797581764990715
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3738637454361351
+  }, {
+    "feature" : "old",
+    "score" : -0.6119641385767756
+  }, {
+    "feature" : "normal",
+    "score" : -0.4747292392833115
+  }, {
+    "feature" : "left",
+    "score" : -0.30377310575895633
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6414825771667674
+  }, {
+    "feature" : "mild",
+    "score" : -0.08772116525980285
+  }, {
+    "feature" : "2",
+    "score" : -0.1385829892401946
+  }, {
+    "feature" : "1",
+    "score" : -0.08650440297050019
+  }, {
+    "feature" : "bilater",
+    "score" : -0.034097548468428884
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.030222673913042085
+  }, {
+    "feature" : "right",
+    "score" : -0.31407839035251706
+  }, {
+    "feature" : "interv",
+    "score" : -0.14572105973934024
+  }, {
+    "feature" : "fever",
+    "score" : -0.03455977550133059
+  }, {
+    "feature" : "normal",
+    "score" : -0.39170297600240667
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7191562430164761
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.18283748249367324
+  }, {
+    "feature" : "interv",
+    "score" : -0.06390928758174484
+  }, {
+    "feature" : "fever",
+    "score" : 1.4095761275408545
+  }, {
+    "feature" : "normal",
+    "score" : -0.46245270087111146
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7615863126397786
+  }, {
+    "feature" : "year",
+    "score" : -0.04896317938624123
+  } ]
+}

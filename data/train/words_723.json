@@ -1,0 +1,131 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "chang",
+    "score" : -0.26168902713483294
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "chang",
+    "score" : -0.703204977028592
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "previou",
+    "score" : -0.017696586022850028
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "sinc",
+    "score" : -0.7182654930830613
+  }, {
+    "feature" : "cough",
+    "score" : -1.3841914282244983
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "sinc",
+    "score" : -0.321510185231846
+  }, {
+    "feature" : "cough",
+    "score" : -1.8461002348268911
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.8103536653907981
+  }, {
+    "feature" : "cough",
+    "score" : -1.5562496181560612
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "sinc",
+    "score" : -0.6194143308284555
+  }, {
+    "feature" : "cough",
+    "score" : -1.671449420146683
+  }, {
+    "feature" : "chang",
+    "score" : -0.6297241600309464
+  } ],
+  "c2_Class-41-591" : [ ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "cough",
+    "score" : 1.294933412829589
+  }, {
+    "feature" : "chang",
+    "score" : -0.14812203700786172
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "sinc",
+    "score" : -0.47462359742544136
+  }, {
+    "feature" : "cough",
+    "score" : 5.320291692245405
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "sinc",
+    "score" : -0.03416837969907001
+  }, {
+    "feature" : "cough",
+    "score" : -1.832945637392836
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "sinc",
+    "score" : -1.0951684906071553
+  }, {
+    "feature" : "cough",
+    "score" : -1.3990645934631534
+  } ],
+  "c1" : [ {
+    "feature" : "cough",
+    "score" : -1.3419456633026525
+  }, {
+    "feature" : "chang",
+    "score" : -1.471637025650335
+  } ],
+  "c2" : [ {
+    "feature" : "cough",
+    "score" : -1.9179346644271404
+  } ],
+  "c3" : [ {
+    "feature" : "cough",
+    "score" : 1.7763827936799548
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "chang",
+    "score" : -0.10485975764430018
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "examin",
+    "score" : -0.18301998342709044
+  }, {
+    "feature" : "cough",
+    "score" : -0.0458840080179236
+  }, {
+    "feature" : "chang",
+    "score" : -1.877028897412619
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "cough",
+    "score" : -0.39286527511907676
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "sinc",
+    "score" : -1.1553844779856932
+  }, {
+    "feature" : "cough",
+    "score" : -0.7697360570093433
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "chang",
+    "score" : -0.029396656091033764
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "cough",
+    "score" : -0.4008892708554517
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "cough",
+    "score" : 4.377216038383852
+  } ],
+  "c1_Class-32-486" : [ ]
+}

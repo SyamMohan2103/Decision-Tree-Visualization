@@ -1,0 +1,314 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.19740495950852716
+  }, {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46017115691840615
+  }, {
+    "feature" : "1",
+    "score" : -0.2799680788905411
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.7912642388284655
+  }, {
+    "feature" : "airwai",
+    "score" : -0.26023952263924655
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "femal",
+    "score" : -0.19304464785780237
+  }, {
+    "feature" : "diseas",
+    "score" : -0.37036028880516
+  }, {
+    "feature" : "increas",
+    "score" : -0.18365203362554158
+  }, {
+    "feature" : "1",
+    "score" : -0.020261510360202663
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.5660184815950805
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "diseas",
+    "score" : -0.05940861890934712
+  }, {
+    "feature" : "2",
+    "score" : -0.22534893984671586
+  }, {
+    "feature" : "wheez",
+    "score" : -0.027042728111083714
+  }, {
+    "feature" : "1",
+    "score" : -0.11331950162452235
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.20565613343015005
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7013748077210743
+  }, {
+    "feature" : "2",
+    "score" : -0.07601992596645471
+  }, {
+    "feature" : "wheez",
+    "score" : -0.028557746495049573
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7323884989644985
+  }, {
+    "feature" : "2",
+    "score" : -0.09150536135289637
+  }, {
+    "feature" : "wheez",
+    "score" : -0.05026297610885104
+  }, {
+    "feature" : "1",
+    "score" : -0.13749043728716925
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.020024310069451164
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7658920981417069
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07851623463020242
+  }, {
+    "feature" : "1",
+    "score" : -0.3560096190502487
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "femal",
+    "score" : -0.06092850725790967
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4708920190297565
+  }, {
+    "feature" : "increas",
+    "score" : -0.07097500099028152
+  }, {
+    "feature" : "2",
+    "score" : -0.2212056711862578
+  }, {
+    "feature" : "1",
+    "score" : -0.1257965888690113
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.3176700013831832
+  }, {
+    "feature" : "viral",
+    "score" : 0.11882715308592813
+  }, {
+    "feature" : "femal",
+    "score" : -0.08030181667244962
+  }, {
+    "feature" : "1",
+    "score" : -0.41559517236751936
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "consist",
+    "score" : -0.31754169082403105
+  }, {
+    "feature" : "diseas",
+    "score" : -0.365087933035424
+  }, {
+    "feature" : "wheez",
+    "score" : -0.08301310882421292
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.18593301454684558
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5514475410275136
+  }, {
+    "feature" : "wheez",
+    "score" : -0.15510574243664532
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7393363907678876
+  }, {
+    "feature" : "2",
+    "score" : -0.28642061059377755
+  }, {
+    "feature" : "wheez",
+    "score" : -0.036322732727787195
+  }, {
+    "feature" : "1",
+    "score" : -0.2782048098797382
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -0.7402708260797382
+  }, {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "femal",
+    "score" : -0.36858036774152997
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8873817920591988
+  }, {
+    "feature" : "2",
+    "score" : -0.09128345552718728
+  }, {
+    "feature" : "1",
+    "score" : -0.8694379909355758
+  } ],
+  "c2" : [ {
+    "feature" : "femal",
+    "score" : 0.3614337823584814
+  }, {
+    "feature" : "wheez",
+    "score" : -0.6821218023561856
+  } ],
+  "c3" : [ {
+    "feature" : "wheez",
+    "score" : 0.8750032513340867
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.012061498685959638
+  }, {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5172532907942361
+  }, {
+    "feature" : "1",
+    "score" : -0.06723239358776827
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "femal",
+    "score" : -0.18055856773226728
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5404621071388345
+  }, {
+    "feature" : "increas",
+    "score" : -0.08406147502110745
+  }, {
+    "feature" : "2",
+    "score" : -0.026564266756290873
+  }, {
+    "feature" : "1",
+    "score" : -0.39775312238908594
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.6714435939912585
+  }, {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915235855926283
+  }, {
+    "feature" : "month",
+    "score" : -0.10173460007931023
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "vs",
+    "score" : -0.16800268359387246
+  }, {
+    "feature" : "airwai",
+    "score" : -0.03978064726642095
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4996284389811577
+  }, {
+    "feature" : "2",
+    "score" : -0.18834000752705946
+  }, {
+    "feature" : "wheez",
+    "score" : -0.12816155214802907
+  }, {
+    "feature" : "1",
+    "score" : -0.12325199120032376
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.18832953672635644
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43031643395661023
+  }, {
+    "feature" : "1",
+    "score" : -0.32894584276634176
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2067154534759484
+  }, {
+    "feature" : "2",
+    "score" : -0.09296429471747127
+  }, {
+    "feature" : "1",
+    "score" : -0.09175177589098532
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "wheez",
+    "score" : -0.11163147396396034
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "wheez",
+    "score" : -0.07040869592802543
+  } ]
+}

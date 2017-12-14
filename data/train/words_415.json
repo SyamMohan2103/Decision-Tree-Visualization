@@ -1,0 +1,365 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9556661426916818
+  }, {
+    "feature" : "interv",
+    "score" : -0.2530045228946168
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4955630931273212
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.756143858179608
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5953193559775325
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.09792704056199564
+  }, {
+    "feature" : "lung",
+    "score" : -0.8650812278366448
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.48185055662837
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.19465523757005593
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5056285784000135
+  }, {
+    "feature" : "lung",
+    "score" : -0.7009369449716834
+  }, {
+    "feature" : "appear",
+    "score" : -0.04393343850522487
+  }, {
+    "feature" : "ha",
+    "score" : -0.056853917540444374
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4915198439583122
+  }, {
+    "feature" : "chest",
+    "score" : -0.23748589810469153
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.015349856277870094
+  }, {
+    "feature" : "right",
+    "score" : -1.0736971691370982
+  }, {
+    "feature" : "lung",
+    "score" : -0.1548981722573345
+  }, {
+    "feature" : "prior",
+    "score" : -0.028451940070672806
+  }, {
+    "feature" : "cough",
+    "score" : -0.6920957141122491
+  }, {
+    "feature" : "chest",
+    "score" : -0.3106613246400979
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "promin",
+    "score" : -0.04427327215982197
+  }, {
+    "feature" : "right",
+    "score" : -0.380578287335776
+  }, {
+    "feature" : "cough",
+    "score" : -0.9230501174134456
+  }, {
+    "feature" : "chest",
+    "score" : -0.2999895205913482
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.869943272200185
+  }, {
+    "feature" : "lung",
+    "score" : -0.033755513215678976
+  }, {
+    "feature" : "prior",
+    "score" : -0.13935328272897932
+  }, {
+    "feature" : "cough",
+    "score" : -0.7781248090780306
+  }, {
+    "feature" : "chest",
+    "score" : -0.322989828430075
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.9158704539294727
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4987685523559326
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3342066380375105
+  }, {
+    "feature" : "right",
+    "score" : -0.6731678741354332
+  }, {
+    "feature" : "prior",
+    "score" : -0.06472827850999416
+  }, {
+    "feature" : "cough",
+    "score" : -0.8357247100733415
+  }, {
+    "feature" : "up",
+    "score" : -0.17718242811292215
+  }, {
+    "feature" : "chest",
+    "score" : -0.38776017794626366
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.33399001372101617
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7855695288177499
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.4478326682363935
+  }, {
+    "feature" : "cough",
+    "score" : 0.6474667064147945
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0014466575284203885
+  }, {
+    "feature" : "right",
+    "score" : -1.0393009972023526
+  }, {
+    "feature" : "prior",
+    "score" : -0.08511007462259622
+  }, {
+    "feature" : "cough",
+    "score" : 2.6601458461227026
+  }, {
+    "feature" : "chest",
+    "score" : -0.3724371596877784
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "promin",
+    "score" : -0.9163091981993339
+  }, {
+    "feature" : "right",
+    "score" : -0.6802985330959425
+  }, {
+    "feature" : "lung",
+    "score" : -0.07418804803843865
+  }, {
+    "feature" : "cough",
+    "score" : -0.916472818696418
+  }, {
+    "feature" : "up",
+    "score" : -0.009711886181183564
+  }, {
+    "feature" : "chest",
+    "score" : -0.6103513960202515
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -6.113692714562117E-4
+  }, {
+    "feature" : "right",
+    "score" : -1.1597445272708835
+  }, {
+    "feature" : "lung",
+    "score" : -0.011737457973483509
+  }, {
+    "feature" : "prior",
+    "score" : -0.0023088454764347275
+  }, {
+    "feature" : "cough",
+    "score" : -0.6995322967315767
+  }, {
+    "feature" : "chest",
+    "score" : -0.3197805417573629
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.2021554224868658
+  }, {
+    "feature" : "lung",
+    "score" : 1.0065221721446627
+  }, {
+    "feature" : "cough",
+    "score" : -0.6709728316513263
+  }, {
+    "feature" : "pneumonia",
+    "score" : 1.921413049485408
+  }, {
+    "feature" : "chest",
+    "score" : -0.03947453702768059
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.36694869108205114
+  }, {
+    "feature" : "lung",
+    "score" : -0.6088699483707491
+  }, {
+    "feature" : "cough",
+    "score" : -0.9589673322135702
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.10899323433798062
+  }, {
+    "feature" : "chest",
+    "score" : -0.6692646930899796
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.6170189831041126
+  }, {
+    "feature" : "appear",
+    "score" : -0.10587444695879591
+  }, {
+    "feature" : "cough",
+    "score" : 0.8881913968399774
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.0014959321512262
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.14556767338661192
+  }, {
+    "feature" : "seen",
+    "score" : -0.28360299800130423
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5938038107111973
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.30112107574368463
+  }, {
+    "feature" : "prior",
+    "score" : -0.05839559335834036
+  }, {
+    "feature" : "cough",
+    "score" : -0.0229420040089618
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.9192436311784529
+  }, {
+    "feature" : "chest",
+    "score" : -0.05528605677785803
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.9053910034116456
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.5023016547616683
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.24218939122987798
+  }, {
+    "feature" : "cough",
+    "score" : -0.19643263755953838
+  }, {
+    "feature" : "up",
+    "score" : 0.7804302452103278
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.11289521934542696
+  }, {
+    "feature" : "right",
+    "score" : -1.3260058080108827
+  }, {
+    "feature" : "lung",
+    "score" : -0.2756765742746953
+  }, {
+    "feature" : "cough",
+    "score" : -0.38486802850467167
+  }, {
+    "feature" : "chest",
+    "score" : -0.24509164495364427
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.21124575207433752
+  }, {
+    "feature" : "interv",
+    "score" : -0.026442782833446702
+  }, {
+    "feature" : "appear",
+    "score" : -0.02070381583678346
+  }, {
+    "feature" : "seen",
+    "score" : -0.02842982427997037
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.627097324740019
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.793084782705877
+  }, {
+    "feature" : "cough",
+    "score" : -0.20044463542772584
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.060333326197420586
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.04533401256641887
+  }, {
+    "feature" : "right",
+    "score" : -0.6662608905144248
+  }, {
+    "feature" : "lung",
+    "score" : -0.418788859309777
+  }, {
+    "feature" : "interv",
+    "score" : -0.21858159396031712
+  }, {
+    "feature" : "appear",
+    "score" : -0.14124977044567605
+  }, {
+    "feature" : "cough",
+    "score" : 2.188608019191926
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5673710460338358
+  }, {
+    "feature" : "up",
+    "score" : -0.03622040185281854
+  }, {
+    "feature" : "chest",
+    "score" : -0.07077585197402021
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3878568779244065
+  }, {
+    "feature" : "lung",
+    "score" : -0.18773408642000608
+  }, {
+    "feature" : "interv",
+    "score" : -0.09586393328098189
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7517405667444497
+  } ]
+}

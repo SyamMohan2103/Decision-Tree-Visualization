@@ -1,0 +1,341 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.16866967857203488
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15527078204019013
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.1316033063390181
+  }, {
+    "feature" : "old",
+    "score" : -0.532142742738713
+  }, {
+    "feature" : "urinari",
+    "score" : -0.2553704914124333
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2928424404040629
+  }, {
+    "feature" : "neg",
+    "score" : -0.21494667854760532
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.06528469126438574
+  }, {
+    "feature" : "old",
+    "score" : -4.1311967798735125E-4
+  }, {
+    "feature" : "urinari",
+    "score" : -0.1751161011194491
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08400886945654754
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.5275094925523104
+  }, {
+    "feature" : "patient",
+    "score" : -0.1297701535227298
+  }, {
+    "feature" : "old",
+    "score" : -0.2302817568460413
+  }, {
+    "feature" : "urinari",
+    "score" : -0.19183679446586985
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7511805751400115
+  }, {
+    "feature" : "neg",
+    "score" : -0.30326977411458156
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3370857063161967
+  }, {
+    "feature" : "previou",
+    "score" : -0.005898862007616675
+  }, {
+    "feature" : "urinari",
+    "score" : 0.37879324524766333
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.47846323949247
+  }, {
+    "feature" : "tract",
+    "score" : 1.336837684338272
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.010233237135549158
+  }, {
+    "feature" : "old",
+    "score" : -0.46345304047611113
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.2357563559952445
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16687214572979078
+  }, {
+    "feature" : "year",
+    "score" : -0.002112322977276513
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.3435215420005502
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.5625022339261699
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.22280441701875275
+  }, {
+    "feature" : "old",
+    "score" : -0.19975689992825585
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.05112928555017577
+  }, {
+    "feature" : "histori",
+    "score" : -0.24421495475599916
+  }, {
+    "feature" : "year",
+    "score" : -0.007437396164331014
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.22266000081316203
+  }, {
+    "feature" : "ag",
+    "score" : -0.7026379910518525
+  }, {
+    "feature" : "infect",
+    "score" : -0.41579920153059235
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3799169959328368
+  }, {
+    "feature" : "neg",
+    "score" : -0.14646719440951556
+  }, {
+    "feature" : "year",
+    "score" : -0.28621259759707707
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "urinari",
+    "score" : -0.5304675770423198
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9235842531447832
+  }, {
+    "feature" : "larg",
+    "score" : -0.010795746951190848
+  }, {
+    "feature" : "neg",
+    "score" : -0.1708934182418083
+  }, {
+    "feature" : "year",
+    "score" : -0.0848720196620136
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -9.644383161812537E-4
+  }, {
+    "feature" : "old",
+    "score" : -0.10139269018270891
+  }, {
+    "feature" : "histori",
+    "score" : -0.015193126995136003
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.008695429136875658
+  }, {
+    "feature" : "old",
+    "score" : -0.28491530033202883
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -4.075794990484071E-4
+  }, {
+    "feature" : "old",
+    "score" : -0.3736913811409446
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -0.7236923402821471
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.07962530526006643
+  }, {
+    "feature" : "year",
+    "score" : -0.002631720127132809
+  } ],
+  "c2" : [ {
+    "feature" : "urinari",
+    "score" : 0.1842981051053372
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.19711727546167723
+  }, {
+    "feature" : "tract",
+    "score" : 0.47317250405003275
+  } ],
+  "c3" : [ {
+    "feature" : "urinari",
+    "score" : -1.9023368715927
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.74564589111145
+  }, {
+    "feature" : "histori",
+    "score" : 0.009972908758189167
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.008040999123973092
+  }, {
+    "feature" : "growth",
+    "score" : 0.025075822158449706
+  }, {
+    "feature" : "old",
+    "score" : -0.35431952665022215
+  }, {
+    "feature" : "urinari",
+    "score" : -1.4849714305141304
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.023306219558568642
+  }, {
+    "feature" : "year",
+    "score" : -0.15958676598190707
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.2007473798328422
+  }, {
+    "feature" : "old",
+    "score" : -0.014960338465802078
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2961490951715194
+  }, {
+    "feature" : "larg",
+    "score" : -0.032668350293187084
+  }, {
+    "feature" : "tract",
+    "score" : 2.7246639608581456
+  }, {
+    "feature" : "histori",
+    "score" : -0.09298381150539323
+  }, {
+    "feature" : "year",
+    "score" : -0.05162934261811675
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "urinari",
+    "score" : -0.19024615628100325
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3609201934916183
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.447629062660839
+  }, {
+    "feature" : "old",
+    "score" : -0.3506125827116139
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.030522815788055
+  }, {
+    "feature" : "histori",
+    "score" : -0.037440104479036077
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.07526347674649987
+  }, {
+    "feature" : "old",
+    "score" : -0.22183961380229097
+  }, {
+    "feature" : "year",
+    "score" : -0.06605444329834738
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.12555302448423764
+  }, {
+    "feature" : "interv",
+    "score" : -0.017628521538033244
+  }, {
+    "feature" : "old",
+    "score" : -0.4860044979739555
+  }, {
+    "feature" : "infect",
+    "score" : -0.06872098976680852
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.33992337584017646
+  }, {
+    "feature" : "tract",
+    "score" : -0.040296739101455516
+  }, {
+    "feature" : "neg",
+    "score" : -0.23322650612607534
+  }, {
+    "feature" : "year",
+    "score" : -0.08797581764990715
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.6119641385767756
+  }, {
+    "feature" : "urinari",
+    "score" : -0.44635966630916235
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6414825771667674
+  }, {
+    "feature" : "neg",
+    "score" : -0.22861609079596532
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.030222673913042085
+  }, {
+    "feature" : "interv",
+    "score" : -0.14572105973934024
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7191562430164761
+  }, {
+    "feature" : "tract",
+    "score" : -0.08985136346634474
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.06390928758174484
+  }, {
+    "feature" : "urinari",
+    "score" : -0.08192100610097776
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7615863126397786
+  }, {
+    "feature" : "histori",
+    "score" : -0.1443392212504232
+  }, {
+    "feature" : "year",
+    "score" : -0.04896317938624123
+  } ]
+}

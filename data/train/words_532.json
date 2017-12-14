@@ -1,0 +1,191 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.8902390492195408
+  }, {
+    "feature" : "old",
+    "score" : -1.064285485477426
+  }, {
+    "feature" : "chang",
+    "score" : -0.17445934140704125
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -8.262393559747025E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.3469433039757415
+  }, {
+    "feature" : "old",
+    "score" : -0.4605635136920826
+  }, {
+    "feature" : "stabl",
+    "score" : -0.027078848099105393
+  }, {
+    "feature" : "mild",
+    "score" : -0.4327705928427135
+  }, {
+    "feature" : "chang",
+    "score" : -0.46880329110380164
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.9269060809522223
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.471512711990489
+  }, {
+    "feature" : "year",
+    "score" : -0.004224645954553026
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.6870430840011004
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.3995137998565117
+  }, {
+    "feature" : "stabl",
+    "score" : -0.06547376346987033
+  }, {
+    "feature" : "year",
+    "score" : -0.014874792328662028
+  }, {
+    "feature" : "chang",
+    "score" : -0.4198160825845255
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "cystic",
+    "score" : -1.1720680003026593
+  }, {
+    "feature" : "year",
+    "score" : -0.5724251951941541
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.9549813057139238
+  }, {
+    "feature" : "year",
+    "score" : -0.1697440393240272
+  }, {
+    "feature" : "chang",
+    "score" : -0.09874801900251806
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.20278538036541782
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.5698306006640577
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.7473827622818892
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.4473846805642943
+  }, {
+    "feature" : "mild",
+    "score" : -0.041416910143260516
+  }, {
+    "feature" : "year",
+    "score" : -0.005263440254265618
+  }, {
+    "feature" : "chang",
+    "score" : -0.9810912941064629
+  } ],
+  "c2" : [ {
+    "feature" : "fibrosi",
+    "score" : 3.041700657271427
+  } ],
+  "c3" : [ {
+    "feature" : "cystic",
+    "score" : -0.7288149491609569
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.64503028353165
+  }, {
+    "feature" : "old",
+    "score" : -0.7086390533004443
+  }, {
+    "feature" : "evalu",
+    "score" : -0.04823880569281585
+  }, {
+    "feature" : "mild",
+    "score" : -0.6676115571770783
+  }, {
+    "feature" : "year",
+    "score" : -0.31917353196381415
+  }, {
+    "feature" : "chang",
+    "score" : -0.0699065010826796
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.7538782325090286
+  }, {
+    "feature" : "old",
+    "score" : -0.029920676931604155
+  }, {
+    "feature" : "mild",
+    "score" : -0.1734926735145939
+  }, {
+    "feature" : "year",
+    "score" : -0.1032586852362335
+  }, {
+    "feature" : "chang",
+    "score" : -1.2513525264315604
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.7012251654232278
+  }, {
+    "feature" : "evalu",
+    "score" : -0.10015877402877875
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.44367922760458195
+  }, {
+    "feature" : "year",
+    "score" : -0.13210888659669476
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.1555643153067314
+  }, {
+    "feature" : "old",
+    "score" : -0.972008995947911
+  }, {
+    "feature" : "year",
+    "score" : -0.1759516352998143
+  }, {
+    "feature" : "chang",
+    "score" : -0.019597769602195104
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.9344475885997368
+  }, {
+    "feature" : "old",
+    "score" : -1.2239282771535511
+  }, {
+    "feature" : "mild",
+    "score" : -0.1754423305196057
+  } ],
+  "c1_Class-4-753_0" : [ ],
+  "c1_Class-32-486" : [ {
+    "feature" : "year",
+    "score" : -0.09792635877248246
+  } ]
+}

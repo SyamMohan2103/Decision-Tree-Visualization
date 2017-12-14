@@ -1,0 +1,116 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.5204790452784931
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -1.132036963190161
+  }, {
+    "feature" : "sinc",
+    "score" : -0.7182654930830613
+  }, {
+    "feature" : "wheez",
+    "score" : -0.05408545622216743
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.4113122668603001
+  }, {
+    "feature" : "sinc",
+    "score" : -0.321510185231846
+  }, {
+    "feature" : "wheez",
+    "score" : -0.057115492990099145
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.8103536653907981
+  }, {
+    "feature" : "wheez",
+    "score" : -0.10052595221770208
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.04004862013890233
+  }, {
+    "feature" : "sinc",
+    "score" : -0.6194143308284555
+  }, {
+    "feature" : "wheez",
+    "score" : -0.15703246926040484
+  } ],
+  "c2_Class-41-591" : [ ],
+  "c2_Class-4-753_0" : [ ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "sinc",
+    "score" : -0.47462359742544136
+  }, {
+    "feature" : "wheez",
+    "score" : -0.16602621764842584
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.37186602909369115
+  }, {
+    "feature" : "sinc",
+    "score" : -0.03416837969907001
+  }, {
+    "feature" : "wheez",
+    "score" : -0.31021148487329064
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "sinc",
+    "score" : -1.0951684906071553
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07264546545557439
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -1.4805416521594763
+  } ],
+  "c2" : [ {
+    "feature" : "wheez",
+    "score" : -1.3642436047123712
+  } ],
+  "c3" : [ {
+    "feature" : "wheez",
+    "score" : 1.7500065026681735
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "seen",
+    "score" : -0.5672059960026085
+  } ],
+  "c2_Class-9-599_0" : [ ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ ],
+  "c3_Class-32-486" : [ {
+    "feature" : "airwai",
+    "score" : -0.0795612945328419
+  }, {
+    "feature" : "sinc",
+    "score" : -1.1553844779856932
+  }, {
+    "feature" : "wheez",
+    "score" : -0.25632310429605815
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "seen",
+    "score" : -0.05685964855994074
+  } ],
+  "c2_Class-32-486" : [ ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "wheez",
+    "score" : -0.22326294792792067
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "wheez",
+    "score" : -0.14081739185605086
+  } ]
+}

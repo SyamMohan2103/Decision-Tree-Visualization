@@ -1,0 +1,122 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.5060090457892336
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.46581233038181696
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.8785272915287228
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "kidnei",
+    "score" : -0.2520265998542293
+  }, {
+    "feature" : "horsesho",
+    "score" : -1.7924123531273901
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -2.253541649277919
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "kidnei",
+    "score" : -1.435389669978814
+  } ],
+  "c3_Class-31-780_6" : [ ],
+  "c3_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.5006164202746668
+  } ],
+  "c3_Class-36-788_30" : [ ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -1.6875066447614466
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "kidnei",
+    "score" : -0.153387851467896
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -1.139750949288883
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "kidnei",
+    "score" : -2.7707526658168344
+  } ],
+  "c3_Class-4-753_0" : [ ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.026086287410626973
+  } ],
+  "c3_Class-24-596_54" : [ ],
+  "c1" : [ {
+    "feature" : "kidnei",
+    "score" : -0.23887590770911837
+  } ],
+  "c2" : [ {
+    "feature" : "kidnei",
+    "score" : 0.5913518064045811
+  }, {
+    "feature" : "horsesho",
+    "score" : -2.1960846145239086
+  } ],
+  "c3" : [ {
+    "feature" : "kidnei",
+    "score" : -5.236937496389983
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.07522746647534911
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.06991865631331141
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.6022421514873693
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.888447255495919
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -1.0827605438908057
+  }, {
+    "feature" : "horsesho",
+    "score" : -1.093063928857618
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -3.0915683429070078
+  } ],
+  "c3_Class-32-486" : [ ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.052885565666893404
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.0197700930647862
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "kidnei",
+    "score" : -1.9244476664775336
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "interv",
+    "score" : -0.43716318792063424
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.1574686561534033
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.19172786656196378
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.2847588607224605
+  } ]
+}

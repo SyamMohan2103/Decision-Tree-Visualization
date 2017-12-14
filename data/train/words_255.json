@@ -1,0 +1,272 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.2530045228946168
+  }, {
+    "feature" : "normal",
+    "score" : -1.2781788836288666
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.19740495950852716
+  }, {
+    "feature" : "fibrosi",
+    "score" : -0.47212054193616165
+  }, {
+    "feature" : "normal",
+    "score" : -0.9110062716054711
+  }, {
+    "feature" : "chang",
+    "score" : -0.13084451356741647
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -0.8401378081574623
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.7912642388284655
+  }, {
+    "feature" : "fibrosi",
+    "score" : -0.7143245437141994
+  }, {
+    "feature" : "normal",
+    "score" : -1.0861781569949702
+  }, {
+    "feature" : "mild",
+    "score" : -0.32457794463203515
+  }, {
+    "feature" : "chang",
+    "score" : -0.351602488514296
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7210503517267388
+  }, {
+    "feature" : "appear",
+    "score" : -0.04393343850522487
+  }, {
+    "feature" : "ha",
+    "score" : -0.056853917540444374
+  }, {
+    "feature" : "chest",
+    "score" : -0.23748589810469153
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -0.6784341013100296
+  }, {
+    "feature" : "chest",
+    "score" : -0.3106613246400979
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.0785785037355913
+  }, {
+    "feature" : "chest",
+    "score" : -0.2999895205913482
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -0.7969885384025013
+  }, {
+    "feature" : "chest",
+    "score" : -0.322989828430075
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.3429645545820763
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6284720809267635
+  }, {
+    "feature" : "chest",
+    "score" : -0.38776017794626366
+  }, {
+    "feature" : "chang",
+    "score" : -0.3148620800154732
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8531528119082891
+  }, {
+    "feature" : "cystic",
+    "score" : -0.6215829351133328
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.036785382912479
+  }, {
+    "feature" : "normal",
+    "score" : -0.2910301112279265
+  }, {
+    "feature" : "chang",
+    "score" : -0.07406101850393086
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6607482084869677
+  }, {
+    "feature" : "chest",
+    "score" : -0.3724371596877784
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "minim",
+    "score" : -0.015235667491792762
+  }, {
+    "feature" : "chest",
+    "score" : -0.6103513960202515
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -0.8813943555854864
+  }, {
+    "feature" : "chest",
+    "score" : -0.3197805417573629
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.16397517453114221
+  }, {
+    "feature" : "mild",
+    "score" : -0.03106268260744539
+  }, {
+    "feature" : "chest",
+    "score" : -0.03947453702768059
+  }, {
+    "feature" : "chang",
+    "score" : -0.7358185128251675
+  } ],
+  "c2" : [ {
+    "feature" : "fibrosi",
+    "score" : 1.6131053383667322
+  }, {
+    "feature" : "normal",
+    "score" : -0.4313259044125808
+  }, {
+    "feature" : "chest",
+    "score" : -0.6692646930899796
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.42496843460641953
+  }, {
+    "feature" : "appear",
+    "score" : -0.10587444695879591
+  }, {
+    "feature" : "cystic",
+    "score" : -0.3865125019512182
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.012061498685959638
+  }, {
+    "feature" : "fibrosi",
+    "score" : -0.34207895878435945
+  }, {
+    "feature" : "normal",
+    "score" : -0.6802377079135256
+  }, {
+    "feature" : "mild",
+    "score" : -0.5007086678828088
+  }, {
+    "feature" : "seen",
+    "score" : -0.28360299800130423
+  }, {
+    "feature" : "chang",
+    "score" : -0.05242987882215009
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.39980429975304865
+  }, {
+    "feature" : "interv",
+    "score" : -0.30112107574368463
+  }, {
+    "feature" : "normal",
+    "score" : -0.6411043358049885
+  }, {
+    "feature" : "mild",
+    "score" : -0.13011950513594545
+  }, {
+    "feature" : "chest",
+    "score" : -0.05528605677785803
+  }, {
+    "feature" : "chang",
+    "score" : -0.9385144487063095
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.2555246899598356
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.6714435939912585
+  }, {
+    "feature" : "normal",
+    "score" : -1.0543759101152668
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.47135139546421945
+  }, {
+    "feature" : "chest",
+    "score" : -0.24509164495364427
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.18832953672635644
+  }, {
+    "feature" : "fibrosi",
+    "score" : -0.6128305102578828
+  }, {
+    "feature" : "interv",
+    "score" : -0.026442782833446702
+  }, {
+    "feature" : "normal",
+    "score" : -0.8740303854864573
+  }, {
+    "feature" : "appear",
+    "score" : -0.02070381583678346
+  }, {
+    "feature" : "seen",
+    "score" : -0.02842982427997037
+  }, {
+    "feature" : "chang",
+    "score" : -0.014698328045516882
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.4955656599510165
+  }, {
+    "feature" : "normal",
+    "score" : -0.7120938589249672
+  }, {
+    "feature" : "mild",
+    "score" : -0.13158174788970428
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "cardiac",
+    "score" : 0.32759770268697735
+  }, {
+    "feature" : "interv",
+    "score" : -0.21858159396031712
+  }, {
+    "feature" : "normal",
+    "score" : -0.58755446400361
+  }, {
+    "feature" : "appear",
+    "score" : -0.14124977044567605
+  }, {
+    "feature" : "chest",
+    "score" : -0.07077585197402021
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.09586393328098189
+  }, {
+    "feature" : "normal",
+    "score" : -0.6936790513066672
+  } ]
+}

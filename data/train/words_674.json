@@ -1,0 +1,188 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -2.130298139381444
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.5183437860091185
+  }, {
+    "feature" : "neg",
+    "score" : -0.5373666963690134
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.4002296802624372
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.8102969283249504
+  }, {
+    "feature" : "neg",
+    "score" : -0.758174435286454
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.2017505862112314
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "ppd",
+    "score" : -0.20148422573765343
+  }, {
+    "feature" : "normal",
+    "score" : -1.1307235021833828
+  }, {
+    "feature" : "posit",
+    "score" : -0.7499529719146638
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7976308395593188
+  }, {
+    "feature" : "posit",
+    "score" : -1.17124429989947
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "ppd",
+    "score" : -0.5779241985551455
+  }, {
+    "feature" : "normal",
+    "score" : -1.3283142306708355
+  }, {
+    "feature" : "posit",
+    "score" : -0.3752349918443409
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.2382742576367938
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.0474534682112726
+  }, {
+    "feature" : "histori",
+    "score" : -0.6105374101091132
+  }, {
+    "feature" : "posit",
+    "score" : -0.8797103402532674
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.4219213531804817
+  }, {
+    "feature" : "neg",
+    "score" : -0.36616798602378886
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.4850501853798775
+  }, {
+    "feature" : "neg",
+    "score" : -0.4272335456045207
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -1.1012470141449462
+  }, {
+    "feature" : "histori",
+    "score" : -0.0379828189323501
+  }, {
+    "feature" : "posit",
+    "score" : -1.1446184414553955
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "ppd",
+    "score" : -0.3822681250298327
+  }, {
+    "feature" : "posit",
+    "score" : -0.97070380481984
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "ppd",
+    "score" : -0.08718391906843867
+  }, {
+    "feature" : "normal",
+    "score" : -1.4689905926424773
+  }, {
+    "feature" : "posit",
+    "score" : -0.7832011817598526
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.2732919575519037
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.7188765073543013
+  } ],
+  "c3" : [ {
+    "feature" : "ppd",
+    "score" : 3.4978894111962298
+  }, {
+    "feature" : "normal",
+    "score" : -0.7082807243440326
+  }, {
+    "feature" : "histori",
+    "score" : 0.024932272843662673
+  }, {
+    "feature" : "posit",
+    "score" : 0.8464471732359867
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.1337295131892091
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.0685072263416475
+  }, {
+    "feature" : "histori",
+    "score" : -0.23245953760406302
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.092541149933059
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.7572931835254446
+  }, {
+    "feature" : "histori",
+    "score" : -0.09360026475726614
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "ppd",
+    "score" : -0.2030560934927249
+  }, {
+    "feature" : "normal",
+    "score" : -0.7855856591070324
+  }, {
+    "feature" : "posit",
+    "score" : -0.7486912416067578
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.4567173091440955
+  }, {
+    "feature" : "neg",
+    "score" : -0.5830662653151883
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.1868230982082788
+  }, {
+    "feature" : "neg",
+    "score" : -0.5715402269899132
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.9792574400060167
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.1561317521777787
+  }, {
+    "feature" : "histori",
+    "score" : -0.3608480668493331
+  } ]
+}

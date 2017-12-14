@@ -1,0 +1,308 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.33733935714406976
+  }, {
+    "feature" : "normal",
+    "score" : -2.4101571339983354
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31054156408038025
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2352868254923464
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.7128992538302126
+  }, {
+    "feature" : "normal",
+    "score" : -1.71780984082091
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5856848808081258
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -1.5841789891909797
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16801773891309507
+  }, {
+    "feature" : "bladder",
+    "score" : -1.2793717910849514
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -2.0481171042681034
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.502361150280023
+  }, {
+    "feature" : "bladder",
+    "score" : -0.1055526977391538
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "hematuria",
+    "score" : -0.33737654085787505
+  }, {
+    "feature" : "normal",
+    "score" : -1.3596255355528242
+  }, {
+    "feature" : "appear",
+    "score" : -0.05857791587613667
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.95692647898494
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -1.0122913813784271
+  }, {
+    "feature" : "normal",
+    "score" : -1.2792675658807835
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.35881264408975644
+  }, {
+    "feature" : "normal",
+    "score" : -2.033787061146906
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.33374429145958157
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.8201903684296178
+  }, {
+    "feature" : "normal",
+    "score" : -1.5028159486504553
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -2.532318162496507
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1250044678523399
+  }, {
+    "feature" : "bladder",
+    "score" : -1.229609783784451
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.6346687471997282
+  }, {
+    "feature" : "normal",
+    "score" : -1.1850582799991187
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10225857110035154
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.6087203147760285
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7598339918656736
+  }, {
+    "feature" : "duplic",
+    "score" : -0.5560353021832051
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5241079309798268
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.42222068138611246
+  }, {
+    "feature" : "normal",
+    "score" : -0.5487716216942163
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8471685062895664
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.9798623600465216
+  }, {
+    "feature" : "normal",
+    "score" : -1.2459187276981232
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.017390858273751315
+  }, {
+    "feature" : "right",
+    "score" : -0.6413915968232152
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.0934176072203166
+  }, {
+    "feature" : "normal",
+    "score" : -1.6619730784075755
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.1334029819961353
+  }, {
+    "feature" : "hematuria",
+    "score" : 0.3439048111599622
+  }, {
+    "feature" : "normal",
+    "score" : 0.30919454370332644
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15925061052013287
+  }, {
+    "feature" : "bladder",
+    "score" : 1.9755872604019389
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.34596253773211205
+  }, {
+    "feature" : "normal",
+    "score" : -0.8133158972606799
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.39423455092335447
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5817310659812499
+  }, {
+    "feature" : "hematuria",
+    "score" : -0.6196921312299601
+  }, {
+    "feature" : "normal",
+    "score" : -0.8013281376413091
+  }, {
+    "feature" : "appear",
+    "score" : -0.14116592414334397
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.4912917822229
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3446064179860302
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.05015164431689941
+  }, {
+    "feature" : "right",
+    "score" : -0.1372425162441323
+  }, {
+    "feature" : "normal",
+    "score" : -1.282668478990849
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.046612439117137285
+  }, {
+    "feature" : "bladder",
+    "score" : -0.10551727725927847
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.4014947596656844
+  }, {
+    "feature" : "normal",
+    "score" : -1.2088778874133805
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5922981903430388
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -2.367439978218559
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7218403869832366
+  }, {
+    "feature" : "bladder",
+    "score" : -0.22499847646668358
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.9881502145189305
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.06104563157611
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7393185208356144
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.2501702432408646
+  }, {
+    "feature" : "normal",
+    "score" : -0.8887886843920184
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.19916440158775417
+  }, {
+    "feature" : "interv",
+    "score" : -0.03525704307606649
+  }, {
+    "feature" : "normal",
+    "score" : -1.6480874437002204
+  }, {
+    "feature" : "appear",
+    "score" : -0.027605086778215524
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6798467516803529
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19051716331856305
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.7477274908722702
+  }, {
+    "feature" : "normal",
+    "score" : -1.3427370113421062
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2829651543335348
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.6281567807050341
+  }, {
+    "feature" : "interv",
+    "score" : -0.2914421194786805
+  }, {
+    "feature" : "normal",
+    "score" : -1.107903284249569
+  }, {
+    "feature" : "appear",
+    "score" : -0.18833302041010092
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4383124860329521
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6700285470282704
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3656749649873465
+  }, {
+    "feature" : "interv",
+    "score" : -0.12781857516348968
+  }, {
+    "feature" : "normal",
+    "score" : -1.3080137182875013
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5231726252795572
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4549000890920555
+  } ]
+}

@@ -1,0 +1,200 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "bilater",
+    "score" : -0.2727596191251013
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.5856104282085343
+  }, {
+    "feature" : "bilater",
+    "score" : -0.16694803306466652
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "previou",
+    "score" : -0.008848293011425014
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.18193485536588774
+  }, {
+    "feature" : "sinc",
+    "score" : -0.35913274654153066
+  }, {
+    "feature" : "prior",
+    "score" : -0.04023711771964845
+  }, {
+    "feature" : "2",
+    "score" : -0.3186915298847677
+  }, {
+    "feature" : "bilater",
+    "score" : -0.22455017050055892
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.92170015789
+  }, {
+    "feature" : "sinc",
+    "score" : -0.160755092615923
+  }, {
+    "feature" : "2",
+    "score" : -0.10750841128631694
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.40517683269539906
+  }, {
+    "feature" : "prior",
+    "score" : -0.19707529356021172
+  }, {
+    "feature" : "2",
+    "score" : -0.12940812422747253
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4543275408907777
+  }, {
+    "feature" : "sinc",
+    "score" : -0.30970716541422777
+  }, {
+    "feature" : "exam",
+    "score" : -0.20128410334799163
+  }, {
+    "feature" : "prior",
+    "score" : -0.09153960523350833
+  }, {
+    "feature" : "histori",
+    "score" : -0.36632243987370383
+  }, {
+    "feature" : "bilater",
+    "score" : -0.0764960726673688
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 3.6909070856310096
+  }, {
+    "feature" : "2",
+    "score" : -0.31283206309950945
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "clinic",
+    "score" : 0.004477233336384201
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.2883386144917572
+  }, {
+    "feature" : "sinc",
+    "score" : -0.23731179871272068
+  }, {
+    "feature" : "prior",
+    "score" : -0.12036381642907372
+  }, {
+    "feature" : "histori",
+    "score" : -0.02278969097420737
+  }, {
+    "feature" : "bilater",
+    "score" : -0.26259372390025526
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.8065070044714289
+  }, {
+    "feature" : "sinc",
+    "score" : -0.017084189849535004
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.017543007714270375
+  }, {
+    "feature" : "sinc",
+    "score" : -0.5475842453035776
+  }, {
+    "feature" : "prior",
+    "score" : -0.003265200439795004
+  }, {
+    "feature" : "2",
+    "score" : -0.40505991571448935
+  }, {
+    "feature" : "bilater",
+    "score" : -0.11250455097911699
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.3848591011674261
+  }, {
+    "feature" : "2",
+    "score" : -0.1290943019963421
+  }, {
+    "feature" : "bilater",
+    "score" : -0.4393682868000869
+  } ],
+  "c2" : [ ],
+  "c3" : [ {
+    "feature" : "2001",
+    "score" : 1.3159851028710823
+  }, {
+    "feature" : "histori",
+    "score" : 0.014959363453347002
+  }, {
+    "feature" : "bilater",
+    "score" : 0.006956454388981867
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.28372403071985325
+  }, {
+    "feature" : "unchang",
+    "score" : -0.21426302552521267
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4969879764387977
+  }, {
+    "feature" : "prior",
+    "score" : -0.08258383640735327
+  }, {
+    "feature" : "examin",
+    "score" : -0.09150999171354522
+  }, {
+    "feature" : "2",
+    "score" : -0.037567546661581463
+  }, {
+    "feature" : "histori",
+    "score" : -0.13947572020494983
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "histori",
+    "score" : -0.056160157905112765
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "sinc",
+    "score" : -0.5776922389928466
+  }, {
+    "feature" : "2",
+    "score" : -0.2663529953952076
+  }, {
+    "feature" : "bilater",
+    "score" : -0.7098249244178488
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.5140314980000493
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "2",
+    "score" : -0.1314713675969446
+  }, {
+    "feature" : "bilater",
+    "score" : -0.07233182609517647
+  } ],
+  "c1_Class-4-753_0" : [ ],
+  "c1_Class-32-486" : [ {
+    "feature" : "histori",
+    "score" : -0.21650883645005986
+  } ]
+}

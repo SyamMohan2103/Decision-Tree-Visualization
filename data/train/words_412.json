@@ -1,0 +1,374 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9556661426916818
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4955630931273212
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.756143858179608
+  }, {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46017115691840615
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5953193559775325
+  }, {
+    "feature" : "lobe",
+    "score" : -0.00463967302230533
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.8650812278366448
+  }, {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.48185055662837
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "atelectasi",
+    "score" : -1.7210636493292728
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "diseas",
+    "score" : -0.37036028880516
+  }, {
+    "feature" : "lobe",
+    "score" : 1.2391227066027475
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.7009369449716834
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4915198439583122
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -1.0736971691370982
+  }, {
+    "feature" : "lung",
+    "score" : -0.1548981722573345
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "diseas",
+    "score" : -0.05940861890934712
+  }, {
+    "feature" : "wheez",
+    "score" : -0.027042728111083714
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.380578287335776
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7013748077210743
+  }, {
+    "feature" : "wheez",
+    "score" : -0.028557746495049573
+  }, {
+    "feature" : "lobe",
+    "score" : -0.5516187109387009
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.869943272200185
+  }, {
+    "feature" : "lung",
+    "score" : -0.033755513215678976
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7323884989644985
+  }, {
+    "feature" : "wheez",
+    "score" : -0.05026297610885104
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.9158704539294727
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.4987685523559326
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.6731678741354332
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7658920981417069
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07851623463020242
+  }, {
+    "feature" : "lobe",
+    "score" : -0.26107519745706764
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.4708920190297565
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7855695288177499
+  }, {
+    "feature" : "lobe",
+    "score" : -0.5643967679230235
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.4478326682363935
+  }, {
+    "feature" : "lobe",
+    "score" : -1.418747387151463
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -1.0393009972023526
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "consist",
+    "score" : -0.31754169082403105
+  }, {
+    "feature" : "diseas",
+    "score" : -0.365087933035424
+  }, {
+    "feature" : "wheez",
+    "score" : -0.08301310882421292
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.6802985330959425
+  }, {
+    "feature" : "lung",
+    "score" : -0.07418804803843865
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5514475410275136
+  }, {
+    "feature" : "wheez",
+    "score" : -0.15510574243664532
+  }, {
+    "feature" : "lobe",
+    "score" : -0.2752855508575473
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.1597445272708835
+  }, {
+    "feature" : "lung",
+    "score" : -0.011737457973483509
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7393363907678876
+  }, {
+    "feature" : "wheez",
+    "score" : -0.036322732727787195
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.44850120686292094
+  }, {
+    "feature" : "right",
+    "score" : -1.2021554224868658
+  }, {
+    "feature" : "lung",
+    "score" : 1.0065221721446627
+  }, {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8873817920591988
+  }, {
+    "feature" : "pneumonia",
+    "score" : 1.921413049485408
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.36694869108205114
+  }, {
+    "feature" : "lung",
+    "score" : -0.6088699483707491
+  }, {
+    "feature" : "wheez",
+    "score" : -0.6821218023561856
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.10899323433798062
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.6170189831041126
+  }, {
+    "feature" : "opac",
+    "score" : 1.223982681134747
+  }, {
+    "feature" : "wheez",
+    "score" : 0.8750032513340867
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.0014959321512262
+  }, {
+    "feature" : "lobe",
+    "score" : -0.25969604483340863
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.03525861063804793
+  }, {
+    "feature" : "right",
+    "score" : -0.14556767338661192
+  }, {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5172532907942361
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5938038107111973
+  }, {
+    "feature" : "lobe",
+    "score" : -0.31660613902291473
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5404621071388345
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.9192436311784529
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3392730528024383
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.9053910034116456
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.5023016547616683
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.24218939122987798
+  }, {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915235855926283
+  }, {
+    "feature" : "month",
+    "score" : -0.07193722217839639
+  }, {
+    "feature" : "lobe",
+    "score" : 1.725750036687111
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.3260058080108827
+  }, {
+    "feature" : "lung",
+    "score" : -0.2756765742746953
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4996284389811577
+  }, {
+    "feature" : "wheez",
+    "score" : -0.12816155214802907
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.21124575207433752
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43031643395661023
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.627097324740019
+  }, {
+    "feature" : "lobe",
+    "score" : -0.31173446851164993
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.793084782705877
+  }, {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2067154534759484
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.060333326197420586
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.6662608905144248
+  }, {
+    "feature" : "lung",
+    "score" : -0.418788859309777
+  }, {
+    "feature" : "wheez",
+    "score" : -0.11163147396396034
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5673710460338358
+  }, {
+    "feature" : "lobe",
+    "score" : -2.19697428091188
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3878568779244065
+  }, {
+    "feature" : "lung",
+    "score" : -0.18773408642000608
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07040869592802543
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7517405667444497
+  }, {
+    "feature" : "lobe",
+    "score" : -1.879675010607924
+  } ]
+}

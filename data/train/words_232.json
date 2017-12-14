@@ -1,0 +1,275 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.1372412845369624
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3372372248842013
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2588386054344061
+  }, {
+    "feature" : "neurogen",
+    "score" : 3.992033534901318
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.11540811810035193
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0742540547888159
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3849606004044366
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.2294033855961885
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6639561268181473
+  }, {
+    "feature" : "stabl",
+    "score" : -0.016924279774715004
+  }, {
+    "feature" : "mild",
+    "score" : -0.2704816324591462
+  }, {
+    "feature" : "bladder",
+    "score" : -0.11426414796214587
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5958889634161803
+  }, {
+    "feature" : "appear",
+    "score" : -0.03661119662352424
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4229057697066678
+  }, {
+    "feature" : "ha",
+    "score" : -0.06700298186326016
+  }, {
+    "feature" : "neurogen",
+    "score" : -1.0718421476963156
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.018089978171232087
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.1474955386485257
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.4971864514661649
+  }, {
+    "feature" : "bladder",
+    "score" : -1.3310916469161111
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3938662797446288
+  }, {
+    "feature" : "exam",
+    "score" : -0.1677367494777262
+  }, {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.045192332608635845
+  }, {
+    "feature" : "stabl",
+    "score" : -0.04092110147418748
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.3936109855525659
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3358023696032554
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5673634824721172
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8163408956547424
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0017049021591233212
+  }, {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.010869285911180195
+  }, {
+    "feature" : "dilat",
+    "score" : -0.5497472997281609
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -7.205055588142317E-4
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  } ],
+  "c1" : [ {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0703794946605647
+  }, {
+    "feature" : "mild",
+    "score" : -0.02588556998149439
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.1811764835569505
+  }, {
+    "feature" : "bladder",
+    "score" : 2.1386359597606175
+  } ],
+  "c2" : [ {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.17422871021403477
+  } ],
+  "c3" : [ {
+    "feature" : "appear",
+    "score" : -0.08822870066394603
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5429476253993137
+  }, {
+    "feature" : "bladder",
+    "score" : -1.4555791560656177
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "growth",
+    "score" : 0.03134477622757436
+  }, {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.020599983254354453
+  }, {
+    "feature" : "mild",
+    "score" : -0.41725724164321326
+  }, {
+    "feature" : "seen",
+    "score" : -0.2363358434442298
+  }, {
+    "feature" : "bladder",
+    "score" : -0.11422580416762376
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2617613030716766
+  }, {
+    "feature" : "mild",
+    "score" : -0.10843292573020108
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.31901140909625614
+  }, {
+    "feature" : "neurogen",
+    "score" : 3.8795831998347006
+  }, {
+    "feature" : "bladder",
+    "score" : -0.24356799737871518
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -0.9108621282450453
+  }, {
+    "feature" : "month",
+    "score" : -0.0599476872720834
+  }, {
+    "feature" : "bladder",
+    "score" : -0.800335781702899
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.13304828505395053
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "appear",
+    "score" : -0.017253178859823793
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3004526681160866
+  }, {
+    "feature" : "seen",
+    "score" : -0.02369152141384324
+  }, {
+    "feature" : "bladder",
+    "score" : -0.20624088066946192
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5669958748302086
+  }, {
+    "feature" : "mild",
+    "score" : -0.10965146141208983
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.05342664340924189
+  }, {
+    "feature" : "appear",
+    "score" : -0.11770813518726288
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6356503475896076
+  }, {
+    "feature" : "bladder",
+    "score" : -0.7253271842061181
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6731535866509497
+  }, {
+    "feature" : "bladder",
+    "score" : -0.49244379538702143
+  } ]
+}

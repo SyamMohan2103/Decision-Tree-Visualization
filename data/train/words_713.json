@@ -1,0 +1,431 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.08234476442667607
+  }, {
+    "feature" : "bladder",
+    "score" : -0.4632325595596299
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.26733722629194456
+  }, {
+    "feature" : "left",
+    "score" : -0.21224978895279917
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15530315138725734
+  }, {
+    "feature" : "bilater",
+    "score" : -0.09643508756295777
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.09792704056199564
+  }, {
+    "feature" : "ultrasound",
+    "score" : -0.31450529942900074
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.044552429467124226
+  }, {
+    "feature" : "bladder",
+    "score" : -0.47976442165685673
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.19465523757005593
+  }, {
+    "feature" : "left",
+    "score" : -0.0523428403863178
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3983736456340421
+  }, {
+    "feature" : "stabl",
+    "score" : -0.010154568324390389
+  }, {
+    "feature" : "increas",
+    "score" : -0.09182601681277079
+  }, {
+    "feature" : "bladder",
+    "score" : -0.039582261652182676
+  }, {
+    "feature" : "bilater",
+    "score" : -0.05902504277831013
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5056285784000135
+  }, {
+    "feature" : "previou",
+    "score" : -0.004424146505712507
+  }, {
+    "feature" : "appear",
+    "score" : -0.021966719252612434
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.25374344242456226
+  }, {
+    "feature" : "ha",
+    "score" : -0.04923693817451912
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.015349856277870094
+  }, {
+    "feature" : "right",
+    "score" : -0.37960927668666433
+  }, {
+    "feature" : "sinc",
+    "score" : -0.17956637327076533
+  }, {
+    "feature" : "left",
+    "score" : -0.24191271523154376
+  }, {
+    "feature" : "2",
+    "score" : -0.19515792032141757
+  }, {
+    "feature" : "bilater",
+    "score" : -0.07939047364839823
+  }, {
+    "feature" : "posit",
+    "score" : -0.22498587453932273
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.13455474460670408
+  }, {
+    "feature" : "sinc",
+    "score" : -0.0803775463079615
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.0884973164232332
+  }, {
+    "feature" : "2",
+    "score" : -0.06583519170178001
+  }, {
+    "feature" : "posit",
+    "score" : -0.3513732633651912
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.3075713951856146
+  }, {
+    "feature" : "sinc",
+    "score" : -0.20258841634769953
+  }, {
+    "feature" : "left",
+    "score" : -0.15053035223498773
+  }, {
+    "feature" : "2",
+    "score" : -0.07924597307641307
+  }, {
+    "feature" : "posit",
+    "score" : -0.11257048902989211
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.29831184807287375
+  }, {
+    "feature" : "bladder",
+    "score" : -0.46110366891916915
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3342066380375105
+  }, {
+    "feature" : "right",
+    "score" : -0.23800078563550892
+  }, {
+    "feature" : "sinc",
+    "score" : -0.15485358270711388
+  }, {
+    "feature" : "exam",
+    "score" : -0.1423293642039009
+  }, {
+    "feature" : "left",
+    "score" : -0.09690633368651602
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.02711539749212898
+  }, {
+    "feature" : "stabl",
+    "score" : -0.02455266199568285
+  }, {
+    "feature" : "bilater",
+    "score" : -0.02704544569156576
+  }, {
+    "feature" : "posit",
+    "score" : -0.26391308209348335
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.33399001372101617
+  }, {
+    "feature" : "ultrasound",
+    "score" : -0.12980386796082724
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.20148140635810238
+  }, {
+    "feature" : "increas",
+    "score" : -0.03548750049514076
+  }, {
+    "feature" : "2",
+    "score" : -0.1915697441549004
+  }, {
+    "feature" : "bladder",
+    "score" : -0.19654047411743505
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.06671557515140678
+  }, {
+    "feature" : "right",
+    "score" : -0.15833275913589476
+  }, {
+    "feature" : "left",
+    "score" : -0.20898923610489495
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4898044999458393
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0014466575284203885
+  }, {
+    "feature" : "right",
+    "score" : -0.3674483934094619
+  }, {
+    "feature" : "sinc",
+    "score" : -0.11865589935636034
+  }, {
+    "feature" : "left",
+    "score" : -0.3509882388904478
+  }, {
+    "feature" : "bilater",
+    "score" : -0.09284090085999772
+  }, {
+    "feature" : "posit",
+    "score" : -0.3433855064367715
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.24052185430189427
+  }, {
+    "feature" : "sinc",
+    "score" : -0.008542094924767502
+  }, {
+    "feature" : "dilat",
+    "score" : -0.5713141974983257
+  }, {
+    "feature" : "posit",
+    "score" : -0.2912111193965514
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -6.113692714562117E-4
+  }, {
+    "feature" : "right",
+    "score" : -0.4100316120721772
+  }, {
+    "feature" : "sinc",
+    "score" : -0.2737921226517888
+  }, {
+    "feature" : "left",
+    "score" : -0.2095656673158675
+  }, {
+    "feature" : "2",
+    "score" : -0.24804754235229134
+  }, {
+    "feature" : "bilater",
+    "score" : -0.03977636521015347
+  }, {
+    "feature" : "posit",
+    "score" : -0.23496033673765093
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -0.4250261279555634
+  }, {
+    "feature" : "left",
+    "score" : -0.5934482453448088
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.042227693567906455
+  }, {
+    "feature" : "2",
+    "score" : -0.07905379698061227
+  }, {
+    "feature" : "bladder",
+    "score" : 0.740845222650727
+  }, {
+    "feature" : "bilater",
+    "score" : -0.1553401465578373
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.12973595461253293
+  }, {
+    "feature" : "left",
+    "score" : 0.17529577667823684
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.10453721813624062
+  } ],
+  "c3" : [ {
+    "feature" : "ultrasound",
+    "score" : -7.56657851868896E-4
+  }, {
+    "feature" : "right",
+    "score" : 0.21814915472519558
+  }, {
+    "feature" : "2001",
+    "score" : 0.6579925514355411
+  }, {
+    "feature" : "appear",
+    "score" : -0.05293722347939796
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9257685044618414
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5042274067447613
+  }, {
+    "feature" : "bilater",
+    "score" : 0.0024594780205405118
+  }, {
+    "feature" : "posit",
+    "score" : 0.25393413274386734
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.05146594476696106
+  }, {
+    "feature" : "studi",
+    "score" : -0.10830520436271122
+  }, {
+    "feature" : "left",
+    "score" : -0.08986826811170136
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.01235998900765487
+  }, {
+    "feature" : "bladder",
+    "score" : -0.03956897897222943
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.2004086774559331
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15705676983555028
+  }, {
+    "feature" : "increas",
+    "score" : -0.04203073751055372
+  }, {
+    "feature" : "2",
+    "score" : -0.023005331458614574
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.19140683082413398
+  }, {
+    "feature" : "bladder",
+    "score" : -0.08437442867500634
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -0.5465172351641643
+  }, {
+    "feature" : "bladder",
+    "score" : -0.2772444453133554
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.11289521934542696
+  }, {
+    "feature" : "right",
+    "score" : -0.4688138519223882
+  }, {
+    "feature" : "sinc",
+    "score" : -0.2888461194964233
+  }, {
+    "feature" : "left",
+    "score" : -0.21019738544012123
+  }, {
+    "feature" : "2",
+    "score" : -0.1631072425159968
+  }, {
+    "feature" : "bilater",
+    "score" : -0.25096100720543085
+  }, {
+    "feature" : "posit",
+    "score" : -0.22460735547561092
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.07468665230114829
+  }, {
+    "feature" : "left",
+    "score" : -0.09711887361004802
+  }, {
+    "feature" : "appear",
+    "score" : -0.01035190791839173
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.1802715870873547
+  }, {
+    "feature" : "bladder",
+    "score" : -0.07144393624446115
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.280397815481002
+  }, {
+    "feature" : "left",
+    "score" : -0.2278298188753448
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.34019749888901785
+  }, {
+    "feature" : "2",
+    "score" : -0.08050944652124771
+  }, {
+    "feature" : "bilater",
+    "score" : -0.025573162205794617
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.04533401256641887
+  }, {
+    "feature" : "ultrasound",
+    "score" : -0.06110796348362862
+  }, {
+    "feature" : "right",
+    "score" : -0.23555879814422698
+  }, {
+    "feature" : "appear",
+    "score" : -0.07062488522283802
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.38139017939535463
+  }, {
+    "feature" : "bladder",
+    "score" : -0.2512607051356014
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "ultrasound",
+    "score" : -0.42597690461310167
+  }, {
+    "feature" : "right",
+    "score" : -0.1371281150020726
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.40389212111181977
+  }, {
+    "feature" : "bladder",
+    "score" : -0.17058753340952082
+  } ]
+}

@@ -1,0 +1,158 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -4.230091245027647
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.5964282282161388
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.6838174245462418
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.0012393590339620536
+  }, {
+    "feature" : "pneumonia",
+    "score" : -4.191306334609697
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.690845270538124
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -4.218655209336551
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -1.3903591214283333
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.7072690679857335
+  }, {
+    "feature" : "year",
+    "score" : -0.006336968753226197
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -1.0305646260016506
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -4.239157652912111
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.5992706997847675
+  }, {
+    "feature" : "year",
+    "score" : -0.02231218786413854
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.221926177158986
+  }, {
+    "feature" : "year",
+    "score" : -0.8586377685910843
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "year",
+    "score" : -0.254616051809853
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.30417807054812673
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.8547459009960866
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.1210741434228337
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -2.1710770208464414
+  }, {
+    "feature" : "pneumonia",
+    "score" : 5.434576819968478
+  }, {
+    "feature" : "year",
+    "score" : -0.007895160158878473
+  } ],
+  "c2" : [ {
+    "feature" : "pneumonia",
+    "score" : -0.3082794222851874
+  } ],
+  "c3" : [ {
+    "feature" : "pneumonia",
+    "score" : -5.6610854189022
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -1.0629585799506664
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.679530815180159
+  }, {
+    "feature" : "year",
+    "score" : -0.478760284452174
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.04488101539740623
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.600013636445333
+  }, {
+    "feature" : "year",
+    "score" : -0.15488802348893205
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -4.249150775651611
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -1.0518377481348415
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.665518841406873
+  }, {
+    "feature" : "year",
+    "score" : -0.19816332430993774
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -1.4580134939218665
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.7736990939085604
+  }, {
+    "feature" : "year",
+    "score" : -0.2639274455110981
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -1.8358924157303265
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.1706484173779881
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.6047676661312116
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.1262434226485034
+  }, {
+    "feature" : "year",
+    "score" : -0.14688953401873772
+  } ]
+}

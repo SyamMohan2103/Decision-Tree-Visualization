@@ -1,0 +1,455 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.2530045228946168
+  }, {
+    "feature" : "normal",
+    "score" : -1.2781788836288666
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "normal",
+    "score" : -0.9110062716054711
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46017115691840615
+  }, {
+    "feature" : "1",
+    "score" : -0.3959346367416964
+  }, {
+    "feature" : "bilater",
+    "score" : -0.19287017512591553
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.8401378081574623
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "normal",
+    "score" : -1.0861781569949702
+  }, {
+    "feature" : "diseas",
+    "score" : -0.37036028880516
+  }, {
+    "feature" : "1",
+    "score" : -0.028654101482195778
+  }, {
+    "feature" : "bilater",
+    "score" : -0.11805008555662026
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7210503517267388
+  }, {
+    "feature" : "chest",
+    "score" : -0.23748589810469153
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "sinc",
+    "score" : -0.35913274654153066
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "normal",
+    "score" : -0.6784341013100296
+  }, {
+    "feature" : "diseas",
+    "score" : -0.05940861890934712
+  }, {
+    "feature" : "2",
+    "score" : -0.3186915298847677
+  }, {
+    "feature" : "wheez",
+    "score" : -0.027042728111083714
+  }, {
+    "feature" : "1",
+    "score" : -0.16025796901294947
+  }, {
+    "feature" : "bilater",
+    "score" : -0.15878094729679645
+  }, {
+    "feature" : "chest",
+    "score" : -0.3106613246400979
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "sinc",
+    "score" : -0.160755092615923
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "normal",
+    "score" : -1.0785785037355913
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7013748077210743
+  }, {
+    "feature" : "2",
+    "score" : -0.10750841128631694
+  }, {
+    "feature" : "wheez",
+    "score" : -0.028557746495049573
+  }, {
+    "feature" : "year",
+    "score" : -0.0031684843766130984
+  }, {
+    "feature" : "chest",
+    "score" : -0.2999895205913482
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "sinc",
+    "score" : -0.40517683269539906
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "normal",
+    "score" : -0.7969885384025013
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7323884989644985
+  }, {
+    "feature" : "2",
+    "score" : -0.12940812422747253
+  }, {
+    "feature" : "wheez",
+    "score" : -0.05026297610885104
+  }, {
+    "feature" : "1",
+    "score" : -0.19444083253518205
+  }, {
+    "feature" : "chest",
+    "score" : -0.322989828430075
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.3429645545820763
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "sinc",
+    "score" : -0.30970716541422777
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "normal",
+    "score" : -0.6284720809267635
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7658920981417069
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07851623463020242
+  }, {
+    "feature" : "1",
+    "score" : -0.5034736093978757
+  }, {
+    "feature" : "year",
+    "score" : -0.01115609393206927
+  }, {
+    "feature" : "bilater",
+    "score" : -0.05409089138313152
+  }, {
+    "feature" : "chest",
+    "score" : -0.38776017794626366
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8531528119082891
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4708920190297565
+  }, {
+    "feature" : "2",
+    "score" : -0.31283206309950945
+  }, {
+    "feature" : "1",
+    "score" : -0.17790323423503437
+  }, {
+    "feature" : "year",
+    "score" : -0.42931888429554216
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.2910301112279265
+  }, {
+    "feature" : "1",
+    "score" : -0.5877403033053274
+  }, {
+    "feature" : "year",
+    "score" : -0.1273080259049265
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "sinc",
+    "score" : -0.23731179871272068
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "normal",
+    "score" : -0.6607482084869677
+  }, {
+    "feature" : "diseas",
+    "score" : -0.365087933035424
+  }, {
+    "feature" : "wheez",
+    "score" : -0.08301310882421292
+  }, {
+    "feature" : "bilater",
+    "score" : -0.18568180171999543
+  }, {
+    "feature" : "chest",
+    "score" : -0.3724371596877784
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "sinc",
+    "score" : -0.017084189849535004
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5514475410275136
+  }, {
+    "feature" : "wheez",
+    "score" : -0.15510574243664532
+  }, {
+    "feature" : "chest",
+    "score" : -0.6103513960202515
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "sinc",
+    "score" : -0.5475842453035776
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "normal",
+    "score" : -0.8813943555854864
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7393363907678876
+  }, {
+    "feature" : "2",
+    "score" : -0.40505991571448935
+  }, {
+    "feature" : "wheez",
+    "score" : -0.036322732727787195
+  }, {
+    "feature" : "1",
+    "score" : -0.39344099790245185
+  }, {
+    "feature" : "bilater",
+    "score" : -0.07955273042030694
+  }, {
+    "feature" : "chest",
+    "score" : -0.3197805417573629
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "normal",
+    "score" : 0.16397517453114221
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8873817920591988
+  }, {
+    "feature" : "2",
+    "score" : -0.1290943019963421
+  }, {
+    "feature" : "1",
+    "score" : -1.229570944211447
+  }, {
+    "feature" : "year",
+    "score" : -0.0039475800794392365
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3106802931156746
+  }, {
+    "feature" : "chest",
+    "score" : -0.03947453702768059
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.4313259044125808
+  }, {
+    "feature" : "wheez",
+    "score" : -0.6821218023561856
+  }, {
+    "feature" : "chest",
+    "score" : -0.6692646930899796
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.42496843460641953
+  }, {
+    "feature" : "wheez",
+    "score" : 0.8750032513340867
+  }, {
+    "feature" : "bilater",
+    "score" : 0.0049189560410810235
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "normal",
+    "score" : -0.6802377079135256
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5172532907942361
+  }, {
+    "feature" : "1",
+    "score" : -0.09508095865048688
+  }, {
+    "feature" : "year",
+    "score" : -0.239380142226087
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.30112107574368463
+  }, {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "normal",
+    "score" : -0.6411043358049885
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5404621071388345
+  }, {
+    "feature" : "2",
+    "score" : -0.037567546661581463
+  }, {
+    "feature" : "1",
+    "score" : -0.5625078353577936
+  }, {
+    "feature" : "year",
+    "score" : -0.07744401174446602
+  }, {
+    "feature" : "chest",
+    "score" : -0.05528605677785803
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.2555246899598356
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "normal",
+    "score" : -1.0543759101152668
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915235855926283
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "sinc",
+    "score" : -0.5776922389928466
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "normal",
+    "score" : -0.47135139546421945
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4996284389811577
+  }, {
+    "feature" : "2",
+    "score" : -0.2663529953952076
+  }, {
+    "feature" : "wheez",
+    "score" : -0.12816155214802907
+  }, {
+    "feature" : "1",
+    "score" : -0.17430462985985679
+  }, {
+    "feature" : "year",
+    "score" : -0.09908166215496887
+  }, {
+    "feature" : "bilater",
+    "score" : -0.5019220144108617
+  }, {
+    "feature" : "chest",
+    "score" : -0.24509164495364427
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.026442782833446702
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "normal",
+    "score" : -0.8740303854864573
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43031643395661023
+  }, {
+    "feature" : "1",
+    "score" : -0.4651996516156506
+  }, {
+    "feature" : "year",
+    "score" : -0.13196372275554905
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "normal",
+    "score" : -0.7120938589249672
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2067154534759484
+  }, {
+    "feature" : "2",
+    "score" : -0.1314713675969446
+  }, {
+    "feature" : "1",
+    "score" : -0.1297566001158504
+  }, {
+    "feature" : "bilater",
+    "score" : -0.051146324411589235
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "interv",
+    "score" : -0.21858159396031712
+  }, {
+    "feature" : "normal",
+    "score" : -0.58755446400361
+  }, {
+    "feature" : "wheez",
+    "score" : -0.11163147396396034
+  }, {
+    "feature" : "chest",
+    "score" : -0.07077585197402021
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "interv",
+    "score" : -0.09586393328098189
+  }, {
+    "feature" : "clear",
+    "score" : -0.3647805977731233
+  }, {
+    "feature" : "normal",
+    "score" : -0.6936790513066672
+  }, {
+    "feature" : "wheez",
+    "score" : -0.07040869592802543
+  }, {
+    "feature" : "year",
+    "score" : -0.07344476700936886
+  } ]
+}

@@ -1,0 +1,281 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9556661426916818
+  }, {
+    "feature" : "normal",
+    "score" : -1.2781788836288666
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.19740495950852716
+  }, {
+    "feature" : "normal",
+    "score" : -0.9110062716054711
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.8650812278366448
+  }, {
+    "feature" : "fever",
+    "score" : -0.2293898562312197
+  }, {
+    "feature" : "grade",
+    "score" : 0.5766738928706088
+  }, {
+    "feature" : "normal",
+    "score" : -0.8401378081574623
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.7912642388284655
+  }, {
+    "feature" : "normal",
+    "score" : -1.0861781569949702
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.7009369449716834
+  }, {
+    "feature" : "fever",
+    "score" : -0.20580896363162587
+  }, {
+    "feature" : "week",
+    "score" : -1.5828371837342923
+  }, {
+    "feature" : "normal",
+    "score" : -0.7210503517267388
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.1548981722573345
+  }, {
+    "feature" : "fever",
+    "score" : -0.23806394038416076
+  }, {
+    "feature" : "normal",
+    "score" : -0.6784341013100296
+  }, {
+    "feature" : "cough",
+    "score" : -0.6920957141122491
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.0785785037355913
+  }, {
+    "feature" : "cough",
+    "score" : -0.9230501174134456
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.033755513215678976
+  }, {
+    "feature" : "fever",
+    "score" : -0.13246848488260488
+  }, {
+    "feature" : "normal",
+    "score" : -0.7969885384025013
+  }, {
+    "feature" : "cough",
+    "score" : -0.7781248090780306
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.9158704539294727
+  }, {
+    "feature" : "normal",
+    "score" : -1.3429645545820763
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6284720809267635
+  }, {
+    "feature" : "cough",
+    "score" : -0.8357247100733415
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8531528119082891
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.2910301112279265
+  }, {
+    "feature" : "cough",
+    "score" : 0.6474667064147945
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6607482084869677
+  }, {
+    "feature" : "cough",
+    "score" : 2.6601458461227026
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.07418804803843865
+  }, {
+    "feature" : "fever",
+    "score" : -0.39175713031915693
+  }, {
+    "feature" : "grade",
+    "score" : 0.7275589508787144
+  }, {
+    "feature" : "cough",
+    "score" : -0.916472818696418
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.011737457973483509
+  }, {
+    "feature" : "fever",
+    "score" : -0.0998201592491604
+  }, {
+    "feature" : "normal",
+    "score" : -0.8813943555854864
+  }, {
+    "feature" : "cough",
+    "score" : -0.6995322967315767
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.0065221721446627
+  }, {
+    "feature" : "normal",
+    "score" : 0.16397517453114221
+  }, {
+    "feature" : "cough",
+    "score" : -0.6709728316513263
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.6088699483707491
+  }, {
+    "feature" : "fever",
+    "score" : -1.177542950922441
+  }, {
+    "feature" : "normal",
+    "score" : -0.4313259044125808
+  }, {
+    "feature" : "cough",
+    "score" : -0.9589673322135702
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.42496843460641953
+  }, {
+    "feature" : "cough",
+    "score" : 0.8881913968399774
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.012061498685959638
+  }, {
+    "feature" : "grade",
+    "score" : 1.0473741413162028
+  }, {
+    "feature" : "normal",
+    "score" : -0.6802377079135256
+  }, {
+    "feature" : "seen",
+    "score" : -0.28360299800130423
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6411043358049885
+  }, {
+    "feature" : "cough",
+    "score" : -0.0229420040089618
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "low",
+    "score" : -0.002475824261883615
+  }, {
+    "feature" : "lung",
+    "score" : -0.9053910034116456
+  }, {
+    "feature" : "normal",
+    "score" : -1.2555246899598356
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.6714435939912585
+  }, {
+    "feature" : "low",
+    "score" : -0.04974753106032732
+  }, {
+    "feature" : "lung",
+    "score" : -0.24218939122987798
+  }, {
+    "feature" : "fever",
+    "score" : -0.12821484154547316
+  }, {
+    "feature" : "normal",
+    "score" : -1.0543759101152668
+  }, {
+    "feature" : "cough",
+    "score" : -0.19643263755953838
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.2756765742746953
+  }, {
+    "feature" : "fever",
+    "score" : 2.4671770436208664
+  }, {
+    "feature" : "normal",
+    "score" : -0.47135139546421945
+  }, {
+    "feature" : "cough",
+    "score" : -0.38486802850467167
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.18832953672635644
+  }, {
+    "feature" : "normal",
+    "score" : -0.8740303854864573
+  }, {
+    "feature" : "seen",
+    "score" : -0.02842982427997037
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.7120938589249672
+  }, {
+    "feature" : "cough",
+    "score" : -0.20044463542772584
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "low",
+    "score" : -0.1412479783611307
+  }, {
+    "feature" : "cardiac",
+    "score" : 0.32759770268697735
+  }, {
+    "feature" : "lung",
+    "score" : -0.418788859309777
+  }, {
+    "feature" : "fever",
+    "score" : -0.05183966325199588
+  }, {
+    "feature" : "normal",
+    "score" : -0.58755446400361
+  }, {
+    "feature" : "cough",
+    "score" : 2.188608019191926
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.18773408642000608
+  }, {
+    "feature" : "fever",
+    "score" : 2.1143641913112816
+  }, {
+    "feature" : "clear",
+    "score" : -0.3647805977731233
+  }, {
+    "feature" : "normal",
+    "score" : -0.6936790513066672
+  } ]
+}

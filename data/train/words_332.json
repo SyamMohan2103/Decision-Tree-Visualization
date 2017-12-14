@@ -1,0 +1,218 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.491208697567011
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.062840650206383
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.26762148934156976
+  }, {
+    "feature" : "normal",
+    "score" : -0.980160776183706
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.2672078498274653
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.24011044896171177
+  }, {
+    "feature" : "normal",
+    "score" : -0.8412254103478619
+  }, {
+    "feature" : "appear",
+    "score" : -0.05125567719068077
+  }, {
+    "feature" : "chest",
+    "score" : -0.27706687106660666
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.2777412538238505
+  }, {
+    "feature" : "normal",
+    "score" : -0.7915064515283678
+  }, {
+    "feature" : "chest",
+    "score" : -0.3624381989262159
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.2583415876915232
+  }, {
+    "feature" : "chest",
+    "score" : -0.3499877613212026
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.1545465601555185
+  }, {
+    "feature" : "normal",
+    "score" : -0.9298199614695849
+  }, {
+    "feature" : "chest",
+    "score" : -0.3768214528258473
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.5667919803457557
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7332174277478908
+  }, {
+    "feature" : "chest",
+    "score" : -0.45238685785225363
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.9953449472263373
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "ever",
+    "score" : -0.4967325843135536
+  }, {
+    "feature" : "normal",
+    "score" : -0.33953512976591427
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7708729099014624
+  }, {
+    "feature" : "chest",
+    "score" : -0.43451000386615535
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.45704996898604466
+  }, {
+    "feature" : "chest",
+    "score" : -0.7120766028470372
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.11645684828210474
+  }, {
+    "feature" : "normal",
+    "score" : -1.028293414849734
+  }, {
+    "feature" : "chest",
+    "score" : -0.37307728517690286
+  } ],
+  "c1" : [ {
+    "feature" : "normal",
+    "score" : 0.1913043702863326
+  }, {
+    "feature" : "chest",
+    "score" : -0.04605362486087887
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -1.373800060155585
+  }, {
+    "feature" : "ever",
+    "score" : 0.5790131433860756
+  }, {
+    "feature" : "normal",
+    "score" : -0.5032135551480109
+  }, {
+    "feature" : "suggest",
+    "score" : -0.25818449922060355
+  }, {
+    "feature" : "chest",
+    "score" : -0.7808087802672368
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.4957965070408228
+  }, {
+    "feature" : "appear",
+    "score" : -0.12352018555106994
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -0.7936106592324464
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7479550584391532
+  }, {
+    "feature" : "chest",
+    "score" : -0.06450039723326746
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.4647788049531414
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "fever",
+    "score" : -0.14958397644011834
+  }, {
+    "feature" : "ever",
+    "score" : -0.15540120725401108
+  }, {
+    "feature" : "normal",
+    "score" : -1.2301052284678113
+  }, {
+    "feature" : "suggest",
+    "score" : -0.012926662411776178
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.878373114361302
+  }, {
+    "feature" : "normal",
+    "score" : -0.5499099613749227
+  }, {
+    "feature" : "chest",
+    "score" : -0.28594024206834534
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.0197021164008668
+  }, {
+    "feature" : "appear",
+    "score" : -0.02415445130749949
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "ever",
+    "score" : 1.1418451879505547
+  }, {
+    "feature" : "normal",
+    "score" : -0.8307761687457951
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "fever",
+    "score" : -0.060479604958993925
+  }, {
+    "feature" : "ever",
+    "score" : -0.0342348861477487
+  }, {
+    "feature" : "normal",
+    "score" : -0.6854802080042117
+  }, {
+    "feature" : "appear",
+    "score" : -0.16479139542788848
+  }, {
+    "feature" : "chest",
+    "score" : -0.08257182430626059
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.466758134757475
+  }, {
+    "feature" : "ever",
+    "score" : 1.1300653727578582
+  }, {
+    "feature" : "normal",
+    "score" : -0.8092922265244451
+  }, {
+    "feature" : "suggest",
+    "score" : 0.20009112753703986
+  } ]
+}

@@ -1,0 +1,413 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.065149069690722
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.246302531332751
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -0.7591718930045592
+  }, {
+    "feature" : "left",
+    "score" : -0.35374967420046094
+  }, {
+    "feature" : "ough",
+    "score" : -0.39764963991122343
+  }, {
+    "feature" : "1",
+    "score" : -0.23330674565139906
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.4960994448951796
+  }, {
+    "feature" : "lobe",
+    "score" : -0.003866394021065643
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -0.7001148401312186
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.2348754180078967
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "atelectasi",
+    "score" : -1.4342196394470634
+  }, {
+    "feature" : "normal",
+    "score" : -0.9051484641624752
+  }, {
+    "feature" : "left",
+    "score" : -0.08723807370901254
+  }, {
+    "feature" : "ough",
+    "score" : -0.33608814122516506
+  }, {
+    "feature" : "1",
+    "score" : -0.016884592925214013
+  }, {
+    "feature" : "lobe",
+    "score" : 1.032602211652202
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.6008752931056157
+  }, {
+    "feature" : "appear",
+    "score" : -0.03661119662352424
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.2429331571503432
+  }, {
+    "feature" : "chest",
+    "score" : -0.1979049251427764
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -0.5653617510916914
+  }, {
+    "feature" : "left",
+    "score" : -0.40318788829108465
+  }, {
+    "feature" : "2",
+    "score" : -0.18779078320559656
+  }, {
+    "feature" : "1",
+    "score" : -0.09443292338049819
+  }, {
+    "feature" : "chest",
+    "score" : -0.25888445035397983
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8988154197796594
+  }, {
+    "feature" : "2",
+    "score" : -0.06334993830537893
+  }, {
+    "feature" : "lobe",
+    "score" : -0.4596822395948951
+  }, {
+    "feature" : "chest",
+    "score" : -0.24999127986149386
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -0.6641571153354178
+  }, {
+    "feature" : "left",
+    "score" : -0.250883938792747
+  }, {
+    "feature" : "2",
+    "score" : -0.07625446779408031
+  }, {
+    "feature" : "1",
+    "score" : -0.11457537090933329
+  }, {
+    "feature" : "chest",
+    "score" : -0.26915820403430274
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.1191371288183969
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.2489737472574156
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.5237267341056363
+  }, {
+    "feature" : "left",
+    "score" : -0.16151056799019775
+  }, {
+    "feature" : "1",
+    "score" : -0.29667469938128743
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21756265530862448
+  }, {
+    "feature" : "chest",
+    "score" : -0.32313349804027364
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.7109606765902409
+  }, {
+    "feature" : "ough",
+    "score" : -0.4032398615525926
+  }, {
+    "feature" : "2",
+    "score" : -0.18433805932188152
+  }, {
+    "feature" : "1",
+    "score" : -0.10483049667441076
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6546412497089406
+  }, {
+    "feature" : "lobe",
+    "score" : -0.47033061996297404
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "two",
+    "score" : -0.058865388968791114
+  }, {
+    "feature" : "normal",
+    "score" : -0.24252509268993874
+  }, {
+    "feature" : "left",
+    "score" : -0.34831541905537805
+  }, {
+    "feature" : "ough",
+    "score" : 1.1538974748940347
+  }, {
+    "feature" : "1",
+    "score" : -0.34632932996410287
+  }, {
+    "feature" : "lobe",
+    "score" : -1.1822894390862382
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "consist",
+    "score" : -0.2646180644157446
+  }, {
+    "feature" : "normal",
+    "score" : -0.5506235070724731
+  }, {
+    "feature" : "left",
+    "score" : -0.5849804410561794
+  }, {
+    "feature" : "chest",
+    "score" : -0.31036431550940147
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lobe",
+    "score" : -0.22940461597281472
+  }, {
+    "feature" : "chest",
+    "score" : -0.5086261891934657
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -0.7344952963212387
+  }, {
+    "feature" : "left",
+    "score" : -0.34927613781079636
+  }, {
+    "feature" : "2",
+    "score" : -0.23868384216148128
+  }, {
+    "feature" : "1",
+    "score" : -0.23183735472565992
+  }, {
+    "feature" : "chest",
+    "score" : -0.266483798337823
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.37375098791331524
+  }, {
+    "feature" : "normal",
+    "score" : 0.13664597877595186
+  }, {
+    "feature" : "left",
+    "score" : -0.9890804814521947
+  }, {
+    "feature" : "2",
+    "score" : -0.07606954627265607
+  }, {
+    "feature" : "1",
+    "score" : -0.724531700237784
+  }, {
+    "feature" : "pneumonia",
+    "score" : 1.6011774817885136
+  }, {
+    "feature" : "chest",
+    "score" : -0.032895449194482305
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.35943825367715065
+  }, {
+    "feature" : "left",
+    "score" : 0.29215964922553217
+  }, {
+    "feature" : "ough",
+    "score" : 1.9636084260119762
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.0908276919093541
+  }, {
+    "feature" : "chest",
+    "score" : -0.5577206059127225
+  } ],
+  "c3" : [ {
+    "feature" : "opac",
+    "score" : 1.019985567612289
+  }, {
+    "feature" : "normal",
+    "score" : -0.3541403621720163
+  }, {
+    "feature" : "appear",
+    "score" : -0.08822870066394603
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.667913214865564
+  }, {
+    "feature" : "lobe",
+    "score" : -0.21641336150438076
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.029382174131917155
+  }, {
+    "feature" : "normal",
+    "score" : -0.5668647565946046
+  }, {
+    "feature" : "left",
+    "score" : -0.1497804578384942
+  }, {
+    "feature" : "ough",
+    "score" : -0.3687861042077235
+  }, {
+    "feature" : "1",
+    "score" : -0.05602699783659572
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.4948364905534585
+  }, {
+    "feature" : "lobe",
+    "score" : -0.2638384379817008
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.5342536131708238
+  }, {
+    "feature" : "left",
+    "score" : -0.33401448692487207
+  }, {
+    "feature" : "ough",
+    "score" : -0.3729961000792849
+  }, {
+    "feature" : "2",
+    "score" : -0.022136888963575727
+  }, {
+    "feature" : "1",
+    "score" : -0.33146095413813814
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7660363308735936
+  }, {
+    "feature" : "lobe",
+    "score" : -0.28272753199583345
+  }, {
+    "feature" : "chest",
+    "score" : -0.04607171632244859
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.0462705749665295
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.2519179991528797
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -0.8786465917627223
+  }, {
+    "feature" : "lobe",
+    "score" : 1.4381249695017317
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.3927928295535162
+  }, {
+    "feature" : "left",
+    "score" : -0.35032900142844153
+  }, {
+    "feature" : "2",
+    "score" : -0.15695000627254954
+  }, {
+    "feature" : "1",
+    "score" : -0.10270999849681055
+  }, {
+    "feature" : "chest",
+    "score" : -0.2042430478389432
+  }, {
+    "feature" : "small",
+    "score" : -0.08138813702041624
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -0.7283586545720477
+  }, {
+    "feature" : "left",
+    "score" : -0.16186480122206567
+  }, {
+    "feature" : "appear",
+    "score" : -0.017253178859823793
+  }, {
+    "feature" : "ough",
+    "score" : -0.41081294939448026
+  }, {
+    "feature" : "1",
+    "score" : -0.274121551197903
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.5225810845473613
+  }, {
+    "feature" : "lobe",
+    "score" : -0.25977871272804554
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.5934115491041394
+  }, {
+    "feature" : "left",
+    "score" : -0.37971639264256785
+  }, {
+    "feature" : "ough",
+    "score" : -0.650294519432333
+  }, {
+    "feature" : "2",
+    "score" : -0.07747024559789271
+  }, {
+    "feature" : "1",
+    "score" : -0.07645981758238762
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.050277769964445385
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.48962872000300833
+  }, {
+    "feature" : "appear",
+    "score" : -0.11770813518726288
+  }, {
+    "feature" : "ough",
+    "score" : 1.1086904930584267
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.47280918747349815
+  }, {
+    "feature" : "lobe",
+    "score" : -1.8308118230133503
+  }, {
+    "feature" : "chest",
+    "score" : -0.05897987964177982
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.5780658760888894
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.6264504490278726
+  }, {
+    "feature" : "lobe",
+    "score" : -1.5663957756553106
+  } ]
+}

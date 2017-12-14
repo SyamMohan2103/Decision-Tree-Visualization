@@ -1,0 +1,251 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9556661426916818
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -0.6507803255447568
+  }, {
+    "feature" : "chang",
+    "score" : -0.13084451356741647
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.8650812278366448
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "diseas",
+    "score" : -0.5237685710932302
+  }, {
+    "feature" : "chang",
+    "score" : -0.351602488514296
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.7009369449716834
+  }, {
+    "feature" : "volum",
+    "score" : -0.06545016799779359
+  }, {
+    "feature" : "chest",
+    "score" : -0.23748589810469153
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.1548981722573345
+  }, {
+    "feature" : "diseas",
+    "score" : -0.08401647902683425
+  }, {
+    "feature" : "chest",
+    "score" : -0.3106613246400979
+  }, {
+    "feature" : "pain",
+    "score" : -0.27065595426156164
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.9918938178442688
+  }, {
+    "feature" : "chest",
+    "score" : -0.2999895205913482
+  }, {
+    "feature" : "pain",
+    "score" : -0.3743154091716126
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.033755513215678976
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0357538029395947
+  }, {
+    "feature" : "chest",
+    "score" : -0.322989828430075
+  }, {
+    "feature" : "pain",
+    "score" : -0.18706111225179245
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.9158704539294727
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -1.0831350497901677
+  }, {
+    "feature" : "histori",
+    "score" : -0.36632243987370383
+  }, {
+    "feature" : "chest",
+    "score" : -0.38776017794626366
+  }, {
+    "feature" : "chang",
+    "score" : -0.3148620800154732
+  }, {
+    "feature" : "pain",
+    "score" : -0.20639212930322756
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.6659419149448116
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "chang",
+    "score" : -0.07406101850393086
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "consist",
+    "score" : -0.31754169082403105
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5163123336636753
+  }, {
+    "feature" : "histori",
+    "score" : -0.02278969097420737
+  }, {
+    "feature" : "chest",
+    "score" : -0.3724371596877784
+  }, {
+    "feature" : "pain",
+    "score" : -0.15015212095973823
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.07418804803843865
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7798646327031163
+  }, {
+    "feature" : "chest",
+    "score" : -0.6103513960202515
+  }, {
+    "feature" : "pain",
+    "score" : -0.3446996374746153
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.011737457973483509
+  }, {
+    "feature" : "diseas",
+    "score" : -1.045579606277506
+  }, {
+    "feature" : "chest",
+    "score" : -0.3197805417573629
+  }, {
+    "feature" : "pain",
+    "score" : -0.15419259088485948
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.0065221721446627
+  }, {
+    "feature" : "diseas",
+    "score" : -1.254947431703485
+  }, {
+    "feature" : "chest",
+    "score" : -0.03947453702768059
+  }, {
+    "feature" : "chang",
+    "score" : -0.7358185128251675
+  }, {
+    "feature" : "pain",
+    "score" : -0.5738792218976175
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.6088699483707491
+  }, {
+    "feature" : "chest",
+    "score" : -0.6692646930899796
+  } ],
+  "c3" : [ {
+    "feature" : "histori",
+    "score" : 0.014959363453347002
+  }, {
+    "feature" : "pain",
+    "score" : 1.3827718779422733
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "diseas",
+    "score" : -0.7315066577105271
+  }, {
+    "feature" : "chang",
+    "score" : -0.05242987882215009
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.7643288822875539
+  }, {
+    "feature" : "histori",
+    "score" : -0.13947572020494983
+  }, {
+    "feature" : "chest",
+    "score" : -0.05528605677785803
+  }, {
+    "feature" : "chang",
+    "score" : -0.9385144487063095
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "low",
+    "score" : -0.002475824261883615
+  }, {
+    "feature" : "lung",
+    "score" : -0.9053910034116456
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "low",
+    "score" : -0.04974753106032732
+  }, {
+    "feature" : "lung",
+    "score" : -0.24218939122987798
+  }, {
+    "feature" : "diseas",
+    "score" : -0.8365407214507994
+  }, {
+    "feature" : "histori",
+    "score" : -0.056160157905112765
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.2756765742746953
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7065813519234305
+  }, {
+    "feature" : "chest",
+    "score" : -0.24509164495364427
+  }, {
+    "feature" : "pain",
+    "score" : -0.11085258187925562
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -0.6085593691983532
+  }, {
+    "feature" : "chang",
+    "score" : -0.014698328045516882
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -0.29233981331877107
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "low",
+    "score" : -0.1412479783611307
+  }, {
+    "feature" : "lung",
+    "score" : -0.418788859309777
+  }, {
+    "feature" : "chest",
+    "score" : -0.07077585197402021
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.18773408642000608
+  }, {
+    "feature" : "histori",
+    "score" : -0.21650883645005986
+  } ]
+}

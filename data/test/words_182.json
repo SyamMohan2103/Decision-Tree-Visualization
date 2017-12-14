@@ -1,0 +1,566 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.03889488080158895
+  }, {
+    "feature" : "interv",
+    "score" : -0.14758596497310716
+  }, {
+    "feature" : "normal",
+    "score" : -0.7456043487835055
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16639622353550645
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.6974149750686027
+  }, {
+    "feature" : "normal",
+    "score" : -0.5314203251031915
+  }, {
+    "feature" : "left",
+    "score" : -0.3501942958755463
+  }, {
+    "feature" : "diseas",
+    "score" : -0.26843318032794505
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31382514813086343
+  }, {
+    "feature" : "1",
+    "score" : -0.16331470606484158
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.09894185524956209
+  }, {
+    "feature" : "normal",
+    "score" : -0.490080388091853
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.09002826183640021
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.19667244336902798
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.24155195923488437
+  }, {
+    "feature" : "renal",
+    "score" : -0.15231593804048346
+  }, {
+    "feature" : "post",
+    "score" : -0.03144254727595811
+  }, {
+    "feature" : "normal",
+    "score" : -0.6336039249137326
+  }, {
+    "feature" : "left",
+    "score" : -0.08636128320150646
+  }, {
+    "feature" : "diseas",
+    "score" : -0.21604350619648494
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8050040661492542
+  }, {
+    "feature" : "1",
+    "score" : -0.011819213897595654
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.510868390660947
+  }, {
+    "feature" : "normal",
+    "score" : -0.42061270517393096
+  }, {
+    "feature" : "appear",
+    "score" : -0.025627838595340385
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5127460241135662
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.015508926331589883
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.075044293355883
+  }, {
+    "feature" : "right",
+    "score" : -0.9903042606835697
+  }, {
+    "feature" : "renal",
+    "score" : -0.46926081705302686
+  }, {
+    "feature" : "normal",
+    "score" : -0.3957532257641839
+  }, {
+    "feature" : "left",
+    "score" : -0.39913562878826486
+  }, {
+    "feature" : "diseas",
+    "score" : -0.034655028401866086
+  }, {
+    "feature" : "2",
+    "score" : -0.13145354824391758
+  }, {
+    "feature" : "1",
+    "score" : -0.06610303993427326
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 1.2051397369991639
+  }, {
+    "feature" : "right",
+    "score" : -0.35101917962135437
+  }, {
+    "feature" : "normal",
+    "score" : -0.6291707938457616
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4091353128241626
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.17882884659856174
+  }, {
+    "feature" : "2",
+    "score" : -0.04434495681376525
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.8023757105601954
+  }, {
+    "feature" : "renal",
+    "score" : -0.33441612665521014
+  }, {
+    "feature" : "normal",
+    "score" : -0.46490998073479245
+  }, {
+    "feature" : "left",
+    "score" : -0.24836241755016492
+  }, {
+    "feature" : "diseas",
+    "score" : -0.42722663308406633
+  }, {
+    "feature" : "2",
+    "score" : -0.05337812745585622
+  }, {
+    "feature" : "1",
+    "score" : -0.08020275183250261
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.005138562332676567
+  }, {
+    "feature" : "normal",
+    "score" : -0.7833959901728779
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6028065694379888
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.3376700103912166
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.1874005351514249
+  }, {
+    "feature" : "right",
+    "score" : -0.6208836467803879
+  }, {
+    "feature" : "normal",
+    "score" : -0.3666087138739454
+  }, {
+    "feature" : "left",
+    "score" : -0.15988729816252972
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4467703996682145
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.05479279434179483
+  }, {
+    "feature" : "1",
+    "score" : -0.20767226935960498
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.33745114120408387
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : 1.522421382787621
+  }, {
+    "feature" : "ag",
+    "score" : -0.6148082553781837
+  }, {
+    "feature" : "normal",
+    "score" : -0.49767247361316863
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2746870166867445
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4071387581716143
+  }, {
+    "feature" : "2",
+    "score" : -0.12903664152531705
+  }, {
+    "feature" : "cystic",
+    "score" : -0.5127797570461705
+  }, {
+    "feature" : "1",
+    "score" : -0.07338134053180592
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "two",
+    "score" : -0.04120576986850144
+  }, {
+    "feature" : "right",
+    "score" : -0.4130499848334457
+  }, {
+    "feature" : "renal",
+    "score" : -0.442484262882356
+  }, {
+    "feature" : "normal",
+    "score" : -0.16976756488295713
+  }, {
+    "feature" : "left",
+    "score" : -0.34481465797639743
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9897607896402204
+  }, {
+    "feature" : "1",
+    "score" : -0.24243050738546792
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0014616491926154292
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.11893360141591304
+  }, {
+    "feature" : "right",
+    "score" : -0.9585796025608716
+  }, {
+    "feature" : "renal",
+    "score" : -0.6908218648883672
+  }, {
+    "feature" : "normal",
+    "score" : -0.3854364549507312
+  }, {
+    "feature" : "left",
+    "score" : -0.5791010666501649
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2129679652682612
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.33266714129851327
+  }, {
+    "feature" : "right",
+    "score" : -0.6274604751013091
+  }, {
+    "feature" : "renal",
+    "score" : -0.6704629604021181
+  }, {
+    "feature" : "dilat",
+    "score" : -0.3848231228366236
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3216777388077092
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -6.177048710274843E-4
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.007236120943436685
+  }, {
+    "feature" : "right",
+    "score" : -1.0696684127274239
+  }, {
+    "feature" : "renal",
+    "score" : -0.13380837726174488
+  }, {
+    "feature" : "normal",
+    "score" : -0.514146707424867
+  }, {
+    "feature" : "left",
+    "score" : -0.3457657209811862
+  }, {
+    "feature" : "diseas",
+    "score" : -0.43127957005179746
+  }, {
+    "feature" : "2",
+    "score" : -0.1670786895130369
+  }, {
+    "feature" : "1",
+    "score" : -0.16228613251690827
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.158746267891364
+  }, {
+    "feature" : "right",
+    "score" : -1.108785299163425
+  }, {
+    "feature" : "normal",
+    "score" : 0.0956521851431663
+  }, {
+    "feature" : "left",
+    "score" : -0.9791396799142164
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5176393892279479
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08533060707910586
+  }, {
+    "feature" : "2",
+    "score" : -0.053248682390859246
+  }, {
+    "feature" : "1",
+    "score" : -0.5071721408166838
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.33844817950191836
+  }, {
+    "feature" : "renal",
+    "score" : -1.00904841380019
+  }, {
+    "feature" : "normal",
+    "score" : -0.25160677757400546
+  }, {
+    "feature" : "left",
+    "score" : 0.28922328444549705
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.2112410963573394
+  }, {
+    "feature" : "suggest",
+    "score" : -0.12909224961030177
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5690957799411169
+  }, {
+    "feature" : "normal",
+    "score" : -0.2478982535204114
+  }, {
+    "feature" : "appear",
+    "score" : -0.06176009277553497
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8707246791352834
+  }, {
+    "feature" : "cystic",
+    "score" : -0.31885654455702883
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.11703018286756718
+  }, {
+    "feature" : "right",
+    "score" : -0.13426158819847744
+  }, {
+    "feature" : "post",
+    "score" : -0.08601717177423635
+  }, {
+    "feature" : "studi",
+    "score" : -0.1263560631569243
+  }, {
+    "feature" : "normal",
+    "score" : -0.3968053296162232
+  }, {
+    "feature" : "left",
+    "score" : -0.14827508205405457
+  }, {
+    "feature" : "diseas",
+    "score" : -0.30173109243266105
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.02497615371339719
+  }, {
+    "feature" : "1",
+    "score" : -0.039218894669470414
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.20499706569812526
+  }, {
+    "feature" : "interv",
+    "score" : -0.17565395285792093
+  }, {
+    "feature" : "examin",
+    "score" : -0.053380826937336964
+  }, {
+    "feature" : "normal",
+    "score" : -0.3739775292195766
+  }, {
+    "feature" : "left",
+    "score" : -0.3306574580605932
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3152695689089961
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31736873088745715
+  }, {
+    "feature" : "2",
+    "score" : -0.015495822274503008
+  }, {
+    "feature" : "1",
+    "score" : -0.2320226453200169
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.0469473111331881
+  }, {
+    "feature" : "normal",
+    "score" : -0.7323894024765707
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.386780799359694
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.005509721685133204
+  }, {
+    "feature" : "normal",
+    "score" : -0.6150526142339057
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3450554319461031
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1043617000004824
+  }, {
+    "feature" : "suggest",
+    "score" : -0.006463331205888089
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.1140651487754422
+  }, {
+    "feature" : "right",
+    "score" : -1.2230163579733375
+  }, {
+    "feature" : "renal",
+    "score" : -0.8754991426740442
+  }, {
+    "feature" : "normal",
+    "score" : -0.2749549806874613
+  }, {
+    "feature" : "left",
+    "score" : -0.3468080027417774
+  }, {
+    "feature" : "diseas",
+    "score" : -0.29144992866595354
+  }, {
+    "feature" : "2",
+    "score" : -0.10986500439078468
+  }, {
+    "feature" : "1",
+    "score" : -0.0718969919519185
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.21202715913067643
+  }, {
+    "feature" : "right",
+    "score" : -0.19483852090124065
+  }, {
+    "feature" : "renal",
+    "score" : -0.023859666895051593
+  }, {
+    "feature" : "interv",
+    "score" : -0.015424955950981463
+  }, {
+    "feature" : "normal",
+    "score" : -0.5098510582004334
+  }, {
+    "feature" : "left",
+    "score" : -0.16023797115605284
+  }, {
+    "feature" : "appear",
+    "score" : -0.012077225653749746
+  }, {
+    "feature" : "diseas",
+    "score" : -0.2510179249127396
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.36427952051278734
+  }, {
+    "feature" : "1",
+    "score" : -0.1918850671673903
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.7314867375762332
+  }, {
+    "feature" : "normal",
+    "score" : -0.41538808437289754
+  }, {
+    "feature" : "left",
+    "score" : -0.37590003454960985
+  }, {
+    "feature" : "diseas",
+    "score" : -0.12058401697984107
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6874460017644894
+  }, {
+    "feature" : "2",
+    "score" : -0.0542291719185249
+  }, {
+    "feature" : "1",
+    "score" : -0.05352186709979151
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.04580380744161066
+  }, {
+    "feature" : "right",
+    "score" : -0.6145131211750597
+  }, {
+    "feature" : "renal",
+    "score" : -0.4667286386539949
+  }, {
+    "feature" : "interv",
+    "score" : -0.12750592400844266
+  }, {
+    "feature" : "normal",
+    "score" : -0.34274010400210586
+  }, {
+    "feature" : "appear",
+    "score" : -0.08239569771394424
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7706851308248748
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.35773244987937786
+  }, {
+    "feature" : "renal",
+    "score" : -0.9177528545004991
+  }, {
+    "feature" : "interv",
+    "score" : -0.055920625202753274
+  }, {
+    "feature" : "normal",
+    "score" : -0.40464611326222255
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8161553941731892
+  }, {
+    "feature" : "suggest",
+    "score" : 0.10004556376851993
+  } ]
+}

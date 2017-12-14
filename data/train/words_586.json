@@ -1,0 +1,323 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.2781788836288666
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "normal",
+    "score" : -0.9110062716054711
+  }, {
+    "feature" : "left",
+    "score" : -0.42449957790559834
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  }, {
+    "feature" : "normal",
+    "score" : -0.8401378081574623
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "normal",
+    "score" : -1.0861781569949702
+  }, {
+    "feature" : "left",
+    "score" : -0.1046856807726356
+  }, {
+    "feature" : "increas",
+    "score" : -0.18365203362554158
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.7210503517267388
+  }, {
+    "feature" : "chest",
+    "score" : -0.33585578328885834
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "normal",
+    "score" : -0.6784341013100296
+  }, {
+    "feature" : "left",
+    "score" : -0.4838254304630875
+  }, {
+    "feature" : "chest",
+    "score" : -0.43934146556592196
+  }, {
+    "feature" : "pain",
+    "score" : -0.3827653132632245
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "normal",
+    "score" : -1.0785785037355913
+  }, {
+    "feature" : "year",
+    "score" : -0.0031684843766130984
+  }, {
+    "feature" : "chest",
+    "score" : -0.4242492553062711
+  }, {
+    "feature" : "pain",
+    "score" : -0.5293619172049087
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "normal",
+    "score" : -0.7969885384025013
+  }, {
+    "feature" : "left",
+    "score" : -0.30106070446997546
+  }, {
+    "feature" : "find",
+    "score" : -0.2288295619927426
+  }, {
+    "feature" : "chest",
+    "score" : -0.456776603105487
+  }, {
+    "feature" : "pain",
+    "score" : -0.26454435641652235
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.3429645545820763
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "normal",
+    "score" : -0.6284720809267635
+  }, {
+    "feature" : "left",
+    "score" : -0.19381266737303204
+  }, {
+    "feature" : "find",
+    "score" : -0.016503660764170473
+  }, {
+    "feature" : "year",
+    "score" : -0.01115609393206927
+  }, {
+    "feature" : "chest",
+    "score" : -0.5483757112810091
+  }, {
+    "feature" : "pain",
+    "score" : -0.2918825423344227
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -0.8531528119082891
+  }, {
+    "feature" : "increas",
+    "score" : -0.07097500099028152
+  }, {
+    "feature" : "year",
+    "score" : -0.42931888429554216
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.2910301112279265
+  }, {
+    "feature" : "left",
+    "score" : -0.4179784722097899
+  }, {
+    "feature" : "year",
+    "score" : -0.1273080259049265
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "normal",
+    "score" : -0.6607482084869677
+  }, {
+    "feature" : "left",
+    "score" : -0.7019764777808956
+  }, {
+    "feature" : "chest",
+    "score" : -0.526705690700316
+  }, {
+    "feature" : "pain",
+    "score" : -0.21234716144744376
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "chest",
+    "score" : -0.8631672357297756
+  }, {
+    "feature" : "pain",
+    "score" : -0.4874788920852089
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "normal",
+    "score" : -0.8813943555854864
+  }, {
+    "feature" : "left",
+    "score" : -0.419131334631735
+  }, {
+    "feature" : "chest",
+    "score" : -0.4522379862955447
+  }, {
+    "feature" : "pain",
+    "score" : -0.21806124869462504
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "normal",
+    "score" : 0.16397517453114221
+  }, {
+    "feature" : "left",
+    "score" : -1.1868964906896176
+  }, {
+    "feature" : "year",
+    "score" : -0.0039475800794392365
+  }, {
+    "feature" : "chest",
+    "score" : -0.05582542651670314
+  }, {
+    "feature" : "pain",
+    "score" : -0.8115877618292368
+  } ],
+  "c2" : [ {
+    "feature" : "normal",
+    "score" : -0.4313259044125808
+  }, {
+    "feature" : "left",
+    "score" : 0.3505915533564737
+  }, {
+    "feature" : "find",
+    "score" : -0.1919807539620194
+  }, {
+    "feature" : "chest",
+    "score" : -0.9464832207688548
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.42496843460641953
+  }, {
+    "feature" : "find",
+    "score" : 0.2585271941712337
+  }, {
+    "feature" : "pain",
+    "score" : 1.9555347026308483
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "normal",
+    "score" : -0.6802377079135256
+  }, {
+    "feature" : "left",
+    "score" : -0.17973653622340272
+  }, {
+    "feature" : "year",
+    "score" : -0.239380142226087
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "normal",
+    "score" : -0.6411043358049885
+  }, {
+    "feature" : "left",
+    "score" : -0.4008173549118662
+  }, {
+    "feature" : "increas",
+    "score" : -0.08406147502110745
+  }, {
+    "feature" : "year",
+    "score" : -0.07744401174446602
+  }, {
+    "feature" : "chest",
+    "score" : -0.07818629254312338
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.2555246899598356
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "normal",
+    "score" : -1.0543759101152668
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "normal",
+    "score" : -0.47135139546421945
+  }, {
+    "feature" : "left",
+    "score" : -0.42039477088024246
+  }, {
+    "feature" : "year",
+    "score" : -0.09908166215496887
+  }, {
+    "feature" : "chest",
+    "score" : -0.3466119338049017
+  }, {
+    "feature" : "pain",
+    "score" : -0.1567692214450442
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "normal",
+    "score" : -0.8740303854864573
+  }, {
+    "feature" : "left",
+    "score" : -0.19423774722009604
+  }, {
+    "feature" : "year",
+    "score" : -0.13196372275554905
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  }, {
+    "feature" : "normal",
+    "score" : -0.7120938589249672
+  }, {
+    "feature" : "left",
+    "score" : -0.4556596377506896
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.58755446400361
+  }, {
+    "feature" : "chest",
+    "score" : -0.10009217133470404
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.6936790513066672
+  }, {
+    "feature" : "year",
+    "score" : -0.07344476700936886
+  } ]
+}

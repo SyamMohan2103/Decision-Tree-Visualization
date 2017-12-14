@@ -1,0 +1,290 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.5346744525838891
+  }, {
+    "feature" : "followup",
+    "score" : -0.23321665256685745
+  }, {
+    "feature" : "old",
+    "score" : -0.7982141141080694
+  }, {
+    "feature" : "lobe",
+    "score" : -0.00463967302230533
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -6.196795169810268E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "atelectasi",
+    "score" : -1.7210636493292728
+  }, {
+    "feature" : "followup",
+    "score" : -0.17167835072048465
+  }, {
+    "feature" : "old",
+    "score" : -0.345422635269062
+  }, {
+    "feature" : "lobe",
+    "score" : 1.2391227066027475
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -0.7592185533733287
+  }, {
+    "feature" : "ppd",
+    "score" : -0.12089053974545316
+  }, {
+    "feature" : "old",
+    "score" : -0.6951795607141666
+  }, {
+    "feature" : "posit",
+    "score" : -0.44997174907864546
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.26910948921340816
+  }, {
+    "feature" : "old",
+    "score" : -0.35363453399286676
+  }, {
+    "feature" : "year",
+    "score" : -0.0031684843766130984
+  }, {
+    "feature" : "lobe",
+    "score" : -0.5516187109387009
+  }, {
+    "feature" : "posit",
+    "score" : -0.7027465267303824
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.6151427903712292
+  }, {
+    "feature" : "ppd",
+    "score" : -0.34675453147513324
+  }, {
+    "feature" : "old",
+    "score" : -0.5152823130008253
+  }, {
+    "feature" : "posit",
+    "score" : -0.22514097805978422
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.47600157127101783
+  }, {
+    "feature" : "old",
+    "score" : -0.2996353498923838
+  }, {
+    "feature" : "year",
+    "score" : -0.01115609393206927
+  }, {
+    "feature" : "lobe",
+    "score" : -0.26107519745706764
+  }, {
+    "feature" : "posit",
+    "score" : -0.5278261641869667
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "followup",
+    "score" : -0.19512185569539278
+  }, {
+    "feature" : "year",
+    "score" : -0.42931888429554216
+  }, {
+    "feature" : "lobe",
+    "score" : -0.5643967679230235
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.3166655182717895
+  }, {
+    "feature" : "followup",
+    "score" : -0.22452866779874872
+  }, {
+    "feature" : "year",
+    "score" : -0.1273080259049265
+  }, {
+    "feature" : "lobe",
+    "score" : -1.418747387151463
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.7348967868189238
+  }, {
+    "feature" : "old",
+    "score" : -0.15208903527406337
+  }, {
+    "feature" : "posit",
+    "score" : -0.686771012873543
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.48104370860378853
+  }, {
+    "feature" : "ppd",
+    "score" : -0.22936088318154937
+  }, {
+    "feature" : "old",
+    "score" : -0.4273729504980433
+  }, {
+    "feature" : "lobe",
+    "score" : -0.2752855508575473
+  }, {
+    "feature" : "posit",
+    "score" : -0.5824222387931028
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.8200632241443544
+  }, {
+    "feature" : "ppd",
+    "score" : -0.0523103533029474
+  }, {
+    "feature" : "old",
+    "score" : -0.5605370717114169
+  }, {
+    "feature" : "posit",
+    "score" : -0.46992067347530186
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.44850120686292094
+  }, {
+    "feature" : "right",
+    "score" : -0.8500522559111268
+  }, {
+    "feature" : "followup",
+    "score" : -0.04680770434940032
+  }, {
+    "feature" : "old",
+    "score" : -1.0855385104232207
+  }, {
+    "feature" : "year",
+    "score" : -0.0039475800794392365
+  }, {
+    "feature" : "repres",
+    "score" : -0.2474084007459497
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.25947190922506586
+  }, {
+    "feature" : "followup",
+    "score" : 1.0144457206891437
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.43629830945039116
+  }, {
+    "feature" : "ppd",
+    "score" : 2.0987337214180393
+  }, {
+    "feature" : "lobe",
+    "score" : -0.25969604483340863
+  }, {
+    "feature" : "posit",
+    "score" : 0.5078682654877347
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.03525861063804793
+  }, {
+    "feature" : "right",
+    "score" : -0.10293188953392211
+  }, {
+    "feature" : "followup",
+    "score" : -0.2768484470968434
+  }, {
+    "feature" : "old",
+    "score" : -0.5314792899753332
+  }, {
+    "feature" : "year",
+    "score" : -0.239380142226087
+  }, {
+    "feature" : "lobe",
+    "score" : -0.31660613902291473
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -0.9466414137430126
+  }, {
+    "feature" : "old",
+    "score" : -0.022440507698703115
+  }, {
+    "feature" : "year",
+    "score" : -0.07744401174446602
+  }, {
+    "feature" : "lobe",
+    "score" : -0.3392730528024383
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.5259188740674208
+  }, {
+    "feature" : "lobe",
+    "score" : 1.725750036687111
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.9376277038447765
+  }, {
+    "feature" : "ppd",
+    "score" : -0.12183366043206459
+  }, {
+    "feature" : "old",
+    "score" : -0.3327594207034365
+  }, {
+    "feature" : "year",
+    "score" : -0.09908166215496887
+  }, {
+    "feature" : "posit",
+    "score" : -0.44921471095122184
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.14937330460229659
+  }, {
+    "feature" : "old",
+    "score" : -0.7290067469609333
+  }, {
+    "feature" : "year",
+    "score" : -0.13196372275554905
+  }, {
+    "feature" : "lobe",
+    "score" : -0.31173446851164993
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.560795630962004
+  }, {
+    "feature" : "followup",
+    "score" : -0.3610717637617213
+  }, {
+    "feature" : "old",
+    "score" : -0.9179462078651632
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.47111759628845395
+  }, {
+    "feature" : "lobe",
+    "score" : -2.19697428091188
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.2742562300041452
+  }, {
+    "feature" : "year",
+    "score" : -0.07344476700936886
+  }, {
+    "feature" : "lobe",
+    "score" : -1.879675010607924
+  } ]
+}

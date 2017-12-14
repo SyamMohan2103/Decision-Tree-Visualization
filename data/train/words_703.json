@@ -1,0 +1,335 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.1921377889084953
+  }, {
+    "feature" : "bladder",
+    "score" : -1.528589421321107
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "followup",
+    "score" : -0.27208611530627674
+  }, {
+    "feature" : "old",
+    "score" : -0.9312497997927477
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3623740297980891
+  }, {
+    "feature" : "neurogen",
+    "score" : 5.588846948861845
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.11424821154538356
+  }, {
+    "feature" : "old",
+    "score" : -7.229594364778647E-4
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10395567159509428
+  }, {
+    "feature" : "bladder",
+    "score" : -1.5831417816745839
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.22709777230775777
+  }, {
+    "feature" : "followup",
+    "score" : -0.20029142437131173
+  }, {
+    "feature" : "old",
+    "score" : -0.40299307448057226
+  }, {
+    "feature" : "femal",
+    "score" : -0.22521874775948647
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9295385318601368
+  }, {
+    "feature" : "stabl",
+    "score" : -0.023693992373943085
+  }, {
+    "feature" : "bladder",
+    "score" : -0.13061479635846282
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5898999955162034
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5920680484901772
+  }, {
+    "feature" : "neurogen",
+    "score" : -1.500579006774842
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.017908165274484203
+  }, {
+    "feature" : "old",
+    "score" : -0.8110428208331945
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.4125736229916779
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.20649374395911266
+  }, {
+    "feature" : "year",
+    "score" : -0.0036965651655830626
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.6011626985009628
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6960609978423932
+  }, {
+    "feature" : "bladder",
+    "score" : -1.5215644407902666
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.389907736037508
+  }, {
+    "feature" : "old",
+    "score" : -0.3495745748744477
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.06326926254251139
+  }, {
+    "feature" : "stabl",
+    "score" : -0.057289543730618016
+  }, {
+    "feature" : "histori",
+    "score" : -0.4273761746928511
+  }, {
+    "feature" : "year",
+    "score" : -0.013015443130365649
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.3896550076736701
+  }, {
+    "feature" : "followup",
+    "score" : -0.22764218225065108
+  }, {
+    "feature" : "femal",
+    "score" : -0.07108325591906112
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4701232943387813
+  }, {
+    "feature" : "bladder",
+    "score" : -0.6485504600172067
+  }, {
+    "feature" : "year",
+    "score" : -0.5008720397448482
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "followup",
+    "score" : -0.2619501323077337
+  }, {
+    "feature" : "femal",
+    "score" : -0.09368544942568316
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.14287719774613
+  }, {
+    "feature" : "year",
+    "score" : -0.14852603261447683
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0016877670803914478
+  }, {
+    "feature" : "old",
+    "score" : -0.1774372078197406
+  }, {
+    "feature" : "histori",
+    "score" : -0.026587972482239687
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.4986017755810505
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -7.13264134776513E-4
+  }, {
+    "feature" : "old",
+    "score" : -0.653959916996653
+  } ],
+  "c1" : [ {
+    "feature" : "followup",
+    "score" : -0.05460899255117312
+  }, {
+    "feature" : "old",
+    "score" : -1.2664615954937575
+  }, {
+    "feature" : "femal",
+    "score" : -0.4300104136149108
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.09853128768214202
+  }, {
+    "feature" : "neurogen",
+    "score" : 1.6536470769797307
+  }, {
+    "feature" : "bladder",
+    "score" : 2.444664449443577
+  }, {
+    "feature" : "year",
+    "score" : -0.004605510166852428
+  } ],
+  "c2" : [ {
+    "feature" : "followup",
+    "score" : 1.1835200972720343
+  }, {
+    "feature" : "femal",
+    "score" : 0.42167273096694613
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.2439201823113783
+  } ],
+  "c3" : [ {
+    "feature" : "kidnei",
+    "score" : -2.160126569392419
+  }, {
+    "feature" : "histori",
+    "score" : 0.017452590484862668
+  }, {
+    "feature" : "bladder",
+    "score" : -1.663865512007476
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "followup",
+    "score" : -0.32298987945366003
+  }, {
+    "feature" : "old",
+    "score" : -0.6200591716378887
+  }, {
+    "feature" : "evalu",
+    "score" : -0.04220895335140894
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.028839975138659532
+  }, {
+    "feature" : "bladder",
+    "score" : -0.13057096575190394
+  }, {
+    "feature" : "year",
+    "score" : -0.27927683709495055
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "followup",
+    "score" : -1.104415066499335
+  }, {
+    "feature" : "old",
+    "score" : -0.026180592315153635
+  }, {
+    "feature" : "examin",
+    "score" : -0.10676165387467393
+  }, {
+    "feature" : "femal",
+    "score" : -0.21065165480195974
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3664658062891637
+  }, {
+    "feature" : "histori",
+    "score" : -0.16272167160786813
+  }, {
+    "feature" : "year",
+    "score" : -0.09035134849034976
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.44661595078432903
+  }, {
+    "feature" : "neurogen",
+    "score" : 5.431416479768581
+  }, {
+    "feature" : "bladder",
+    "score" : -0.278421402902325
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.6135720197453243
+  }, {
+    "feature" : "evalu",
+    "score" : -0.08763892389119912
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2752069168687692
+  }, {
+    "feature" : "month",
+    "score" : -0.08392676345496859
+  }, {
+    "feature" : "histori",
+    "score" : -0.06552018343159247
+  }, {
+    "feature" : "bladder",
+    "score" : -0.9148599714771998
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.13171108641921334
+  }, {
+    "feature" : "old",
+    "score" : -0.3882193241540092
+  }, {
+    "feature" : "year",
+    "score" : -0.11559527437583182
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.8505078714544221
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.42063371468907534
+  }, {
+    "feature" : "bladder",
+    "score" : -0.2357529558471483
+  }, {
+    "feature" : "year",
+    "score" : -0.15395767902768168
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "followup",
+    "score" : -0.4212504230183507
+  }, {
+    "feature" : "old",
+    "score" : -1.070937242509357
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7937941857486311
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.05288968019625152
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8899104428878358
+  }, {
+    "feature" : "bladder",
+    "score" : -0.8291180054983205
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "kidnei",
+    "score" : -0.9424149749932046
+  }, {
+    "feature" : "histori",
+    "score" : -0.2525936394754531
+  }, {
+    "feature" : "bladder",
+    "score" : -0.5629101271010467
+  }, {
+    "feature" : "year",
+    "score" : -0.08568556289092566
+  } ]
+}

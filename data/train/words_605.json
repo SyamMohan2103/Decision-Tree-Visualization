@@ -1,0 +1,269 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "interv",
+    "score" : -0.29517192994621433
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.2717238803743978
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.6237868287845916
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5124742929697095
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "kidnei",
+    "score" : -0.14701552793551817
+  }, {
+    "feature" : "reflux",
+    "score" : 1.198225662633216
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "otherwis",
+    "score" : -0.1256707483007951
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.314566063601607
+  }, {
+    "feature" : "stabl",
+    "score" : -0.023693992373943085
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "appear",
+    "score" : -0.05125567719068077
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8373107054857696
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -0.8857549326968615
+  }, {
+    "feature" : "reflux",
+    "score" : -0.3617237768284193
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.34127552047947707
+  }, {
+    "feature" : "right",
+    "score" : -0.3139610543594006
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.292026267713163
+  }, {
+    "feature" : "reflux",
+    "score" : -1.0506155197547156
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "vesicoureter",
+    "score" : -0.006080137365476127
+  }, {
+    "feature" : "right",
+    "score" : -0.7176665513023918
+  }, {
+    "feature" : "reflux",
+    "score" : -0.6746229289477517
+  }, {
+    "feature" : "find",
+    "score" : -0.2669678292261538
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.9843789521335945
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.5553351374929297
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.08947625359978109
+  }, {
+    "feature" : "reflux",
+    "score" : -0.21483587503526952
+  }, {
+    "feature" : "stabl",
+    "score" : -0.057289543730618016
+  }, {
+    "feature" : "find",
+    "score" : -0.019254271389267327
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6648547717646847
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4405754642958621
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.36944308536454057
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.04816672994294601
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.6162725132165072
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.8573795398646576
+  }, {
+    "feature" : "reflux",
+    "score" : -0.41903639296386935
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.7376709463794582
+  }, {
+    "feature" : "growth",
+    "score" : 0.015217001499446778
+  }, {
+    "feature" : "right",
+    "score" : -0.5612176307407476
+  }, {
+    "feature" : "reflux",
+    "score" : 1.758439899977517
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.9567403782241016
+  }, {
+    "feature" : "reflux",
+    "score" : -0.20814721436419575
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -0.9917275801255807
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.13934429025842693
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5112359828762265
+  }, {
+    "feature" : "pole",
+    "score" : -0.009430518418409854
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.3027172116266254
+  }, {
+    "feature" : "otherwis",
+    "score" : 0.12001423371203225
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.3449552470432731
+  }, {
+    "feature" : "find",
+    "score" : -0.22397755207898418
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5090146677869131
+  }, {
+    "feature" : "appear",
+    "score" : -0.12352018555106994
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.054880442153313
+  }, {
+    "feature" : "reflux",
+    "score" : 1.0022782749088717
+  }, {
+    "feature" : "find",
+    "score" : 0.3016150676633798
+  }, {
+    "feature" : "pole",
+    "score" : 0.9272996270352589
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "vesicoureter",
+    "score" : 0.8536263586891911
+  }, {
+    "feature" : "growth",
+    "score" : 0.04388269024777476
+  }, {
+    "feature" : "right",
+    "score" : -0.12008719818738145
+  }, {
+    "feature" : "otherwis",
+    "score" : -0.08168587536012957
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.040785885999291005
+  }, {
+    "feature" : "reflux",
+    "score" : 2.7095557065944194
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "interv",
+    "score" : -0.35130790571584186
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5182609390641383
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.631610366048369
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "kidnei",
+    "score" : -1.8034150059719642
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.0938989307145643
+  }, {
+    "feature" : "reflux",
+    "score" : -0.19440841587904342
+  }, {
+    "feature" : "pole",
+    "score" : -0.029662614644651614
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.17426884627206343
+  }, {
+    "feature" : "interv",
+    "score" : -0.030849911901962925
+  }, {
+    "feature" : "appear",
+    "score" : -0.02415445130749949
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5948659335621163
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.6542615353015342
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1225945588089192
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.5496371669773873
+  }, {
+    "feature" : "interv",
+    "score" : -0.2550118480168853
+  }, {
+    "feature" : "appear",
+    "score" : -0.16479139542788848
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2585234799508516
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3199655849684751
+  }, {
+    "feature" : "interv",
+    "score" : -0.11184125040550655
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.332776105017269
+  } ]
+}

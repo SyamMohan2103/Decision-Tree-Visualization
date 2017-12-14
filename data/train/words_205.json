@@ -1,0 +1,194 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.9556661426916818
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.6676792664171954
+  }, {
+    "feature" : "chang",
+    "score" : -0.13084451356741647
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.8650812278366448
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.010207446968881
+  }, {
+    "feature" : "increas",
+    "score" : -0.18365203362554158
+  }, {
+    "feature" : "chang",
+    "score" : -0.351602488514296
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.7009369449716834
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.1548981722573345
+  }, {
+    "feature" : "cough",
+    "score" : -0.6920957141122491
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "cough",
+    "score" : -0.9230501174134456
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.033755513215678976
+  }, {
+    "feature" : "cough",
+    "score" : -0.7781248090780306
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.9158704539294727
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "cough",
+    "score" : -0.8357247100733415
+  }, {
+    "feature" : "chang",
+    "score" : -0.3148620800154732
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "increas",
+    "score" : -0.07097500099028152
+  }, {
+    "feature" : "cystic",
+    "score" : -0.8790510278820228
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.4662359342726439
+  }, {
+    "feature" : "cough",
+    "score" : 0.6474667064147945
+  }, {
+    "feature" : "chang",
+    "score" : -0.07406101850393086
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "cough",
+    "score" : 2.6601458461227026
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.07418804803843865
+  }, {
+    "feature" : "cough",
+    "score" : -0.916472818696418
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.011737457973483509
+  }, {
+    "feature" : "cough",
+    "score" : -0.6995322967315767
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.0065221721446627
+  }, {
+    "feature" : "cough",
+    "score" : -0.6709728316513263
+  }, {
+    "feature" : "chang",
+    "score" : -0.7358185128251675
+  } ],
+  "c2" : [ {
+    "feature" : "fibrosi",
+    "score" : 2.281275422919417
+  }, {
+    "feature" : "lung",
+    "score" : -0.6088699483707491
+  }, {
+    "feature" : "cough",
+    "score" : -0.9589673322135702
+  } ],
+  "c3" : [ {
+    "feature" : "cystic",
+    "score" : -0.5466112290671585
+  }, {
+    "feature" : "cough",
+    "score" : 0.8881913968399774
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.4837726977971282
+  }, {
+    "feature" : "unchang",
+    "score" : -0.21426302552521267
+  }, {
+    "feature" : "seen",
+    "score" : -0.28360299800130423
+  }, {
+    "feature" : "chang",
+    "score" : -0.05242987882215009
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.5654086570239741
+  }, {
+    "feature" : "increas",
+    "score" : -0.08406147502110745
+  }, {
+    "feature" : "cough",
+    "score" : -0.0229420040089618
+  }, {
+    "feature" : "chang",
+    "score" : -0.9385144487063095
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.9053910034116456
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.24218939122987798
+  }, {
+    "feature" : "cough",
+    "score" : -0.19643263755953838
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.2756765742746953
+  }, {
+    "feature" : "cough",
+    "score" : -0.38486802850467167
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.8666732098735617
+  }, {
+    "feature" : "seen",
+    "score" : -0.02842982427997037
+  }, {
+    "feature" : "chang",
+    "score" : -0.014698328045516882
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.7008356699344553
+  }, {
+    "feature" : "cough",
+    "score" : -0.20044463542772584
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "lung",
+    "score" : -0.418788859309777
+  }, {
+    "feature" : "cough",
+    "score" : 2.188608019191926
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.18773408642000608
+  } ]
+}

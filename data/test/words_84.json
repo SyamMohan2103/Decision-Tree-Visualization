@@ -1,0 +1,383 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.6371107829439661
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -0.532142742738713
+  }, {
+    "feature" : "diseas",
+    "score" : -0.306780782196687
+  }, {
+    "feature" : "1",
+    "score" : -0.1866453859270274
+  }, {
+    "feature" : "chang",
+    "score" : -0.08722967070352063
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.5767208377025718
+  }, {
+    "feature" : "fever",
+    "score" : -0.15292657082081315
+  }, {
+    "feature" : "old",
+    "score" : -4.1311967798735125E-4
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "atelectasi",
+    "score" : -1.14737573205585
+  }, {
+    "feature" : "airwai",
+    "score" : -0.17349301509283102
+  }, {
+    "feature" : "old",
+    "score" : -0.2302817568460413
+  }, {
+    "feature" : "diseas",
+    "score" : -0.24690686799038986
+  }, {
+    "feature" : "increas",
+    "score" : -0.21206310959790842
+  }, {
+    "feature" : "1",
+    "score" : -0.01350767357346844
+  }, {
+    "feature" : "chang",
+    "score" : -0.23440164555190082
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.4672913121599781
+  }, {
+    "feature" : "fever",
+    "score" : -0.13720597575441726
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.37734565439672035
+  }, {
+    "feature" : "lung",
+    "score" : -0.10326545159955335
+  }, {
+    "feature" : "fever",
+    "score" : -0.1587092935894405
+  }, {
+    "feature" : "old",
+    "score" : -0.46345304047611113
+  }, {
+    "feature" : "diseas",
+    "score" : -0.03960574734905862
+  }, {
+    "feature" : "2",
+    "score" : -0.15023262656447725
+  }, {
+    "feature" : "1",
+    "score" : -0.07554633441634824
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.13710408895343335
+  }, {
+    "feature" : "old",
+    "score" : -0.2357563559952445
+  }, {
+    "feature" : "diseas",
+    "score" : -0.46758322178778805
+  }, {
+    "feature" : "2",
+    "score" : -0.05067995064430314
+  }, {
+    "feature" : "year",
+    "score" : -0.002112322977276513
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.022503676224150716
+  }, {
+    "feature" : "fever",
+    "score" : -0.08831232325506992
+  }, {
+    "feature" : "old",
+    "score" : -0.3435215420005502
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4882590166858834
+  }, {
+    "feature" : "2",
+    "score" : -0.06100357423526425
+  }, {
+    "feature" : "1",
+    "score" : -0.0916602915247795
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -0.6105803228884557
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.013349540046300776
+  }, {
+    "feature" : "old",
+    "score" : -0.19975689992825585
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5105947502655757
+  }, {
+    "feature" : "1",
+    "score" : -0.23733974603349914
+  }, {
+    "feature" : "year",
+    "score" : -0.007437396164331014
+  }, {
+    "feature" : "chang",
+    "score" : -0.20990804129226276
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.3139280238586108
+  }, {
+    "feature" : "increas",
+    "score" : -0.08195487475190402
+  }, {
+    "feature" : "2",
+    "score" : -0.1474704474575052
+  }, {
+    "feature" : "1",
+    "score" : -0.08386439257934086
+  }, {
+    "feature" : "year",
+    "score" : -0.28621259759707707
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "two",
+    "score" : -0.047092309568597994
+  }, {
+    "feature" : "reactiv",
+    "score" : -0.21178000749220588
+  }, {
+    "feature" : "1",
+    "score" : -0.2770634482450129
+  }, {
+    "feature" : "year",
+    "score" : -0.0848720196620136
+  }, {
+    "feature" : "chang",
+    "score" : -0.04937400950125903
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.10139269018270891
+  }, {
+    "feature" : "diseas",
+    "score" : -0.24339196401881039
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.12395534303123038
+  }, {
+    "feature" : "lung",
+    "score" : -0.04945870033412205
+  }, {
+    "feature" : "fever",
+    "score" : -0.2611714202127713
+  }, {
+    "feature" : "old",
+    "score" : -0.28491530033202883
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3676317071016616
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.007824972242079897
+  }, {
+    "feature" : "fever",
+    "score" : -0.0665467728327736
+  }, {
+    "feature" : "old",
+    "score" : -0.3736913811409446
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4928909447196511
+  }, {
+    "feature" : "2",
+    "score" : -0.190947073729185
+  }, {
+    "feature" : "1",
+    "score" : -0.1854698732531588
+  } ],
+  "c1" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.29900079567238785
+  }, {
+    "feature" : "airwai",
+    "score" : -0.49351388405315877
+  }, {
+    "feature" : "lung",
+    "score" : 0.6710148037047635
+  }, {
+    "feature" : "old",
+    "score" : -0.7236923402821471
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5915878824262965
+  }, {
+    "feature" : "2",
+    "score" : -0.06085563701812485
+  }, {
+    "feature" : "1",
+    "score" : -0.579625327290384
+  }, {
+    "feature" : "year",
+    "score" : -0.002631720127132809
+  }, {
+    "feature" : "repres",
+    "score" : -0.23325886998174494
+  }, {
+    "feature" : "chang",
+    "score" : -0.49054564705323145
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.40591331238851963
+  }, {
+    "feature" : "fever",
+    "score" : -0.7850286339482941
+  } ],
+  "c3" : [ ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "atelectasi",
+    "score" : -0.02350573972547056
+  }, {
+    "feature" : "old",
+    "score" : -0.35431952665022215
+  }, {
+    "feature" : "diseas",
+    "score" : -0.34483553946820406
+  }, {
+    "feature" : "1",
+    "score" : -0.044821595725178846
+  }, {
+    "feature" : "year",
+    "score" : -0.15958676598190707
+  }, {
+    "feature" : "chang",
+    "score" : -0.0349532505413398
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.014960338465802078
+  }, {
+    "feature" : "diseas",
+    "score" : -0.36030808424857497
+  }, {
+    "feature" : "increas",
+    "score" : -0.09706583389493016
+  }, {
+    "feature" : "2",
+    "score" : -0.01770951117086058
+  }, {
+    "feature" : "1",
+    "score" : -0.26516874825939063
+  }, {
+    "feature" : "year",
+    "score" : -0.05162934261811675
+  }, {
+    "feature" : "chang",
+    "score" : -0.6256762632157802
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.6035940223113205
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.1614595995130603
+  }, {
+    "feature" : "fever",
+    "score" : -0.08547656103031544
+  }, {
+    "feature" : "old",
+    "score" : -0.3506125827116139
+  }, {
+    "feature" : "diseas",
+    "score" : -0.39434907109589207
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "vs",
+    "score" : -0.11200179398660123
+  }, {
+    "feature" : "airwai",
+    "score" : -0.026520431510947302
+  }, {
+    "feature" : "lung",
+    "score" : -0.18378438895069824
+  }, {
+    "feature" : "fever",
+    "score" : 1.6447846957472443
+  }, {
+    "feature" : "old",
+    "score" : -0.22183961380229097
+  }, {
+    "feature" : "diseas",
+    "score" : -0.3330856378413283
+  }, {
+    "feature" : "2",
+    "score" : -0.12556000501803963
+  }, {
+    "feature" : "1",
+    "score" : -0.08216799413354918
+  }, {
+    "feature" : "year",
+    "score" : -0.06605444329834738
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -0.4860044979739555
+  }, {
+    "feature" : "diseas",
+    "score" : -0.28687763284717416
+  }, {
+    "feature" : "1",
+    "score" : -0.21929722851089453
+  }, {
+    "feature" : "year",
+    "score" : -0.08797581764990715
+  }, {
+    "feature" : "chang",
+    "score" : -0.009798884801097552
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.6119641385767756
+  }, {
+    "feature" : "diseas",
+    "score" : -0.13781030722170792
+  }, {
+    "feature" : "2",
+    "score" : -0.06197619647831418
+  }, {
+    "feature" : "1",
+    "score" : -0.061167850593990214
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "lung",
+    "score" : -0.27919258214125375
+  }, {
+    "feature" : "fever",
+    "score" : -0.03455977550133059
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.12515606176801447
+  }, {
+    "feature" : "fever",
+    "score" : 1.4095761275408545
+  }, {
+    "feature" : "year",
+    "score" : -0.04896317938624123
+  } ]
+}

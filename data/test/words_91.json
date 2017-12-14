@@ -1,0 +1,266 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.9940840778964115
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "focal",
+    "score" : -0.2632066126780362
+  }, {
+    "feature" : "diseas",
+    "score" : -0.613561564393374
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7937591228839458
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "fever",
+    "score" : -0.3058531416416263
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.9758006963220818
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -1.0550189851046208
+  }, {
+    "feature" : "airwai",
+    "score" : -0.34698603018566204
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4938137359807797
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "fever",
+    "score" : -0.2744119515088345
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.9886930791294992
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airwai",
+    "score" : -0.7546913087934407
+  }, {
+    "feature" : "fever",
+    "score" : -0.317418587178881
+  }, {
+    "feature" : "diseas",
+    "score" : -0.07921149469811724
+  }, {
+    "feature" : "cough",
+    "score" : -0.9227942854829989
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "airwai",
+    "score" : -0.2742081779068667
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9351664435755761
+  }, {
+    "feature" : "cough",
+    "score" : -1.230733489884594
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "fever",
+    "score" : -0.17662464651013984
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9765180333717668
+  }, {
+    "feature" : "cough",
+    "score" : -1.0374997454373742
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "pneumonia",
+    "score" : -1.998358023435382
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "airwai",
+    "score" : -0.02669908009260155
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0211895005311513
+  }, {
+    "feature" : "cough",
+    "score" : -1.114299613431122
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "infect",
+    "score" : -0.5880288840932166
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6278560477172216
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.0474260141178156
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "reactiv",
+    "score" : -0.42356001498441176
+  }, {
+    "feature" : "viral",
+    "score" : 0.15843620411457085
+  }, {
+    "feature" : "cough",
+    "score" : 0.8632889418863927
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.48678392803762077
+  }, {
+    "feature" : "cough",
+    "score" : 3.5468611281636035
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "airwai",
+    "score" : -0.24791068606246075
+  }, {
+    "feature" : "fever",
+    "score" : -0.5223428404255426
+  }, {
+    "feature" : "minim",
+    "score" : -0.02031422389114289
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7352634142033232
+  }, {
+    "feature" : "cough",
+    "score" : -1.2219637582618907
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "fever",
+    "score" : -0.1330935456655472
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9857818894393022
+  }, {
+    "feature" : "cough",
+    "score" : -0.9327097289754356
+  } ],
+  "c1" : [ {
+    "feature" : "airwai",
+    "score" : -0.9870277681063175
+  }, {
+    "feature" : "diseas",
+    "score" : -1.183175764852593
+  }, {
+    "feature" : "cough",
+    "score" : -0.8946304422017683
+  }, {
+    "feature" : "pneumonia",
+    "score" : 2.561884006531218
+  } ],
+  "c2" : [ {
+    "feature" : "fever",
+    "score" : -1.5700572678965883
+  }, {
+    "feature" : "cough",
+    "score" : -1.2786231096180936
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.1453243090783444
+  } ],
+  "c3" : [ {
+    "feature" : "cough",
+    "score" : 1.1842551957866365
+  }, {
+    "feature" : "pneumonia",
+    "score" : -2.6686611809411773
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "focal",
+    "score" : -0.016081998247946185
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6896710789364081
+  }, {
+    "feature" : "seen",
+    "score" : -0.37813734244488195
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7917383959090571
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.7206161684971499
+  }, {
+    "feature" : "cough",
+    "score" : -0.030589338678615734
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.22565814646282
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "pneumonia",
+    "score" : -2.0030688265337138
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "focal",
+    "score" : -0.895258125321678
+  }, {
+    "feature" : "fever",
+    "score" : -0.17095312206063087
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7886981421917841
+  }, {
+    "feature" : "cough",
+    "score" : -0.2619101834127178
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "airwai",
+    "score" : -0.053040863021894605
+  }, {
+    "feature" : "fever",
+    "score" : 3.2895693914944886
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6661712756826565
+  }, {
+    "feature" : "cough",
+    "score" : -0.5131573713395623
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "focal",
+    "score" : -0.25110604896847527
+  }, {
+    "feature" : "infect",
+    "score" : -0.09718615807246714
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5737552656943483
+  }, {
+    "feature" : "seen",
+    "score" : -0.037906433553828424
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.8361297469173709
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -0.27562061444341585
+  }, {
+    "feature" : "cough",
+    "score" : -0.26725951390363445
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.08044443306315567
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "fever",
+    "score" : -0.06911955100266118
+  }, {
+    "feature" : "cough",
+    "score" : 2.9181440255892346
+  }, {
+    "feature" : "pneumonia",
+    "score" : -0.7564947104904161
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "fever",
+    "score" : 2.819152255081709
+  }, {
+    "feature" : "pneumonia",
+    "score" : -1.0023207324000976
+  } ]
+}

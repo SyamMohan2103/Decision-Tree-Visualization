@@ -1,0 +1,176 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -1.5927769890841825
+  }, {
+    "feature" : "normal",
+    "score" : -2.130298139381444
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.5183437860091185
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -1.4418021229736424
+  }, {
+    "feature" : "normal",
+    "score" : -1.4002296802624372
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.8102969283249504
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -1.168228303668229
+  }, {
+    "feature" : "normal",
+    "score" : -1.2017505862112314
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.2581636341408789
+  }, {
+    "feature" : "normal",
+    "score" : -1.1307235021833828
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.7976308395593188
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.05625919168092389
+  }, {
+    "feature" : "normal",
+    "score" : -1.3283142306708355
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -1.52645083762435
+  }, {
+    "feature" : "normal",
+    "score" : -2.2382742576367938
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -1.0474534682112726
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "heez",
+    "score" : -0.10767463071250521
+  }, {
+    "feature" : "normal",
+    "score" : -1.4219213531804817
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "heez",
+    "score" : -0.016137640567432943
+  }, {
+    "feature" : "normal",
+    "score" : -0.4850501853798775
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "consist",
+    "score" : -0.5292361288314892
+  }, {
+    "feature" : "normal",
+    "score" : -1.1012470141449462
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.12364675329804956
+  }, {
+    "feature" : "minim",
+    "score" : -0.025392780290493022
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.019562430994836077
+  }, {
+    "feature" : "normal",
+    "score" : -1.4689905926424773
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.6775370426743914
+  }, {
+    "feature" : "normal",
+    "score" : 0.2732919575519037
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -1.0147833011833294
+  }, {
+    "feature" : "normal",
+    "score" : -0.7188765073543013
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.7082807243440326
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "heez",
+    "score" : -0.48559611686685106
+  }, {
+    "feature" : "normal",
+    "score" : -1.1337295131892091
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "heez",
+    "score" : -0.34247549319798437
+  }, {
+    "feature" : "normal",
+    "score" : -1.0685072263416475
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -1.5089850858336364
+  }, {
+    "feature" : "normal",
+    "score" : -2.092541149933059
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.40364900682236315
+  }, {
+    "feature" : "heez",
+    "score" : -0.1737727739687351
+  }, {
+    "feature" : "normal",
+    "score" : -1.7572931835254446
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.4594609815280976
+  }, {
+    "feature" : "normal",
+    "score" : -0.7855856591070324
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.4567173091440955
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -1.1868230982082788
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "lung",
+    "score" : -0.697981469255238
+  }, {
+    "feature" : "heez",
+    "score" : -0.0337011636049142
+  }, {
+    "feature" : "normal",
+    "score" : -0.9792574400060167
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.31289016065205183
+  }, {
+    "feature" : "normal",
+    "score" : -1.1561317521777787
+  } ]
+}

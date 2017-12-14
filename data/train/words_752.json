@@ -1,0 +1,407 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "renal",
+    "score" : -0.05132793233740104
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.31054156408038025
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -0.7128992538302126
+  }, {
+    "feature" : "left",
+    "score" : -0.5659994631532601
+  }, {
+    "feature" : "diseas",
+    "score" : -0.613561564393374
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5856848808081258
+  }, {
+    "feature" : "1",
+    "score" : -0.3732907718540548
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "grade",
+    "score" : 0.7688984784396805
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.16801773891309507
+  }, {
+    "feature" : "reflux",
+    "score" : 1.3694007356068214
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.2010049137708199
+  }, {
+    "feature" : "left",
+    "score" : -0.13958091409533033
+  }, {
+    "feature" : "diseas",
+    "score" : -0.4938137359807797
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.502361150280023
+  }, {
+    "feature" : "1",
+    "score" : -0.02701534714693688
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "kidnei",
+    "score" : -0.95692647898494
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "right",
+    "score" : -1.0122913813784271
+  }, {
+    "feature" : "renal",
+    "score" : -0.6192636915166304
+  }, {
+    "feature" : "left",
+    "score" : -0.6451006035226284
+  }, {
+    "feature" : "diseas",
+    "score" : -0.07921149469811724
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4133985955423015
+  }, {
+    "feature" : "2",
+    "score" : -0.42492203984635685
+  }, {
+    "feature" : "1",
+    "score" : -0.15109266883269648
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "right",
+    "score" : -0.35881264408975644
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9351664435755761
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.33374429145958157
+  }, {
+    "feature" : "reflux",
+    "score" : -1.2007034321317565
+  }, {
+    "feature" : "2",
+    "score" : -0.14334454838175592
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.8201903684296178
+  }, {
+    "feature" : "renal",
+    "score" : -0.44131484575196683
+  }, {
+    "feature" : "left",
+    "score" : -0.4014142910277347
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9765180333717668
+  }, {
+    "feature" : "reflux",
+    "score" : -0.7709976208722458
+  }, {
+    "feature" : "2",
+    "score" : -0.17254416563663003
+  }, {
+    "feature" : "1",
+    "score" : -0.183320583049559
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "renal",
+    "score" : -0.00678114379803847
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.1250044678523399
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "right",
+    "score" : -0.6346687471997282
+  }, {
+    "feature" : "left",
+    "score" : -0.2584169016767138
+  }, {
+    "feature" : "diseas",
+    "score" : -1.0211895005311513
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10225857110035154
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2455267104374216
+  }, {
+    "feature" : "1",
+    "score" : -0.4746794920669983
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -0.6278560477172216
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7598339918656736
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5035148083635659
+  }, {
+    "feature" : "2",
+    "score" : -0.41710941746601254
+  }, {
+    "feature" : "1",
+    "score" : -0.16772878515868173
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.42222068138611246
+  }, {
+    "feature" : "renal",
+    "score" : -0.5839278032872262
+  }, {
+    "feature" : "left",
+    "score" : -0.557304655160273
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.8471685062895664
+  }, {
+    "feature" : "1",
+    "score" : -0.5541268964900258
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.9798623600465216
+  }, {
+    "feature" : "renal",
+    "score" : -0.9116484536633096
+  }, {
+    "feature" : "left",
+    "score" : -0.9359686799466271
+  }, {
+    "feature" : "diseas",
+    "score" : -0.48678392803762077
+  }, {
+    "feature" : "reflux",
+    "score" : -0.4788987272311528
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.6413915968232152
+  }, {
+    "feature" : "renal",
+    "score" : -0.88478166681636
+  }, {
+    "feature" : "grade",
+    "score" : 0.9700785439082352
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7352634142033232
+  }, {
+    "feature" : "reflux",
+    "score" : 2.0096455681459586
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.0934176072203166
+  }, {
+    "feature" : "renal",
+    "score" : -0.17658126706452573
+  }, {
+    "feature" : "left",
+    "score" : -0.5588418051266638
+  }, {
+    "feature" : "diseas",
+    "score" : -0.9857818894393022
+  }, {
+    "feature" : "reflux",
+    "score" : -0.2378825269344043
+  }, {
+    "feature" : "2",
+    "score" : -0.5400798876193191
+  }, {
+    "feature" : "1",
+    "score" : -0.3709397465063176
+  } ],
+  "c1" : [ {
+    "feature" : "right",
+    "score" : -1.1334029819961353
+  }, {
+    "feature" : "left",
+    "score" : -1.5825287267970036
+  }, {
+    "feature" : "diseas",
+    "score" : -1.183175764852593
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.15925061052013287
+  }, {
+    "feature" : "reflux",
+    "score" : -0.5842696854621463
+  }, {
+    "feature" : "2",
+    "score" : -0.1721257359951228
+  }, {
+    "feature" : "1",
+    "score" : -1.159250654580768
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.34596253773211205
+  }, {
+    "feature" : "renal",
+    "score" : -1.331598597072501
+  }, {
+    "feature" : "left",
+    "score" : 0.467455425903769
+  }, {
+    "feature" : "kidnei",
+    "score" : 0.39423455092335447
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 0.5817310659812499
+  }, {
+    "feature" : "kidnei",
+    "score" : -3.4912917822229
+  }, {
+    "feature" : "reflux",
+    "score" : 1.1454608674685693
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "right",
+    "score" : -0.1372425162441323
+  }, {
+    "feature" : "grade",
+    "score" : 1.3964987726534552
+  }, {
+    "feature" : "left",
+    "score" : -0.23964872595019554
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6896710789364081
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.046612439117137285
+  }, {
+    "feature" : "reflux",
+    "score" : 3.0966350442069066
+  }, {
+    "feature" : "1",
+    "score" : -0.08964319145035769
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "left",
+    "score" : -0.5344231643808052
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7206161684971499
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5922981903430388
+  }, {
+    "feature" : "2",
+    "score" : -0.050090062215441954
+  }, {
+    "feature" : "1",
+    "score" : -0.5303374965187813
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "renal",
+    "score" : -0.061954384731492756
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.7218403869832366
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "renal",
+    "score" : -0.0072709471278512095
+  }, {
+    "feature" : "diseas",
+    "score" : -0.7886981421917841
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.06104563157611
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.2501702432408646
+  }, {
+    "feature" : "renal",
+    "score" : -1.1553592614375656
+  }, {
+    "feature" : "left",
+    "score" : -0.5605263868685628
+  }, {
+    "feature" : "diseas",
+    "score" : -0.6661712756826565
+  }, {
+    "feature" : "reflux",
+    "score" : -0.22218104320004986
+  }, {
+    "feature" : "2",
+    "score" : -0.3551373271936102
+  }, {
+    "feature" : "1",
+    "score" : -0.16433598826709836
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -0.19916440158775417
+  }, {
+    "feature" : "renal",
+    "score" : -0.03148659522134607
+  }, {
+    "feature" : "left",
+    "score" : -0.2589836748321137
+  }, {
+    "feature" : "diseas",
+    "score" : -0.5737552656943483
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.6798467516803529
+  }, {
+    "feature" : "1",
+    "score" : -0.43859445702178906
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.7477274908722702
+  }, {
+    "feature" : "left",
+    "score" : -0.6075462115179127
+  }, {
+    "feature" : "diseas",
+    "score" : -0.27562061444341585
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2829651543335348
+  }, {
+    "feature" : "2",
+    "score" : -0.17529515679592617
+  }, {
+    "feature" : "1",
+    "score" : -0.12233570118798043
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.6281567807050341
+  }, {
+    "feature" : "renal",
+    "score" : -0.6159220825734187
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.4383124860329521
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.3656749649873465
+  }, {
+    "feature" : "renal",
+    "score" : -1.2111197012932837
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.5231726252795572
+  } ]
+}

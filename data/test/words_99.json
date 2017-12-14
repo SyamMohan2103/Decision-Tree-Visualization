@@ -1,0 +1,275 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "kidnei",
+    "score" : -0.1921377889084953
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.3623740297980891
+  }, {
+    "feature" : "1",
+    "score" : -0.32662941212968316
+  }, {
+    "feature" : "bilater",
+    "score" : -0.22501520001733633
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "patient",
+    "score" : -0.11424821154538356
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.10395567159509428
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.22709777230775777
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.48310391846976874
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.9295385318601368
+  }, {
+    "feature" : "1",
+    "score" : -0.02363842779519131
+  }, {
+    "feature" : "bilater",
+    "score" : -0.13772509718646153
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.5898999955162034
+  }, {
+    "feature" : "hematuria",
+    "score" : -0.2952044831020224
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.5920680484901772
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "patient",
+    "score" : -0.017908165274484203
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.150088586711766
+  }, {
+    "feature" : "1",
+    "score" : -0.13220607986854652
+  }, {
+    "feature" : "bilater",
+    "score" : -0.18524443497604356
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 2.4102794739983278
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.20649374395911266
+  }, {
+    "feature" : "calculi",
+    "score" : -0.1870519049822485
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "1",
+    "score" : -0.16040550366500522
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "kidnei",
+    "score" : -0.6960609978423932
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "patient",
+    "score" : -0.389907736037508
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.3748010703028498
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.06326926254251139
+  }, {
+    "feature" : "calculi",
+    "score" : -0.23082753900737848
+  }, {
+    "feature" : "histori",
+    "score" : -0.4273761746928511
+  }, {
+    "feature" : "1",
+    "score" : -0.41534453871920995
+  }, {
+    "feature" : "bilater",
+    "score" : -0.06310603874209852
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "patient",
+    "score" : -0.3896550076736701
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : 3.044842765575242
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.4701232943387813
+  }, {
+    "feature" : "1",
+    "score" : -0.14676268106361184
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "clinic",
+    "score" : 0.0052234390336978655
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.14287719774613
+  }, {
+    "feature" : "1",
+    "score" : -0.48486101477093585
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.0016877670803914478
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.23786720283182608
+  }, {
+    "feature" : "histori",
+    "score" : -0.026587972482239687
+  }, {
+    "feature" : "bilater",
+    "score" : -0.21662876453721905
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.6653342825970265
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "patient",
+    "score" : -7.13264134776513E-4
+  }, {
+    "feature" : "hydronephrosi",
+    "score" : -0.01447224188687337
+  }, {
+    "feature" : "1",
+    "score" : -0.32457226503381653
+  }, {
+    "feature" : "bilater",
+    "score" : -0.0928115170516343
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.317492535782728
+  }, {
+    "feature" : "hematuria",
+    "score" : 0.30091671980697393
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.09853128768214202
+  }, {
+    "feature" : "1",
+    "score" : -1.0143442816333677
+  }, {
+    "feature" : "bilater",
+    "score" : -0.3624603350478051
+  } ],
+  "c2" : [ {
+    "feature" : "kidnei",
+    "score" : 0.2439201823113783
+  }, {
+    "feature" : "calculi",
+    "score" : -0.02353813075335239
+  } ],
+  "c3" : [ {
+    "feature" : "hematuria",
+    "score" : -0.5422306329212011
+  }, {
+    "feature" : "kidnei",
+    "score" : -2.160126569392419
+  }, {
+    "feature" : "histori",
+    "score" : 0.017452590484862668
+  }, {
+    "feature" : "bilater",
+    "score" : 0.005738781938356874
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.23406036573513436
+  }, {
+    "feature" : "evalu",
+    "score" : -0.04220895335140894
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.028839975138659532
+  }, {
+    "feature" : "1",
+    "score" : -0.07843778933894083
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4099941313962505
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.3664658062891637
+  }, {
+    "feature" : "histori",
+    "score" : -0.16272167160786813
+  }, {
+    "feature" : "1",
+    "score" : -0.4640452906400338
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "kidnei",
+    "score" : -0.44661595078432903
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "evalu",
+    "score" : -0.08763892389119912
+  }, {
+    "feature" : "kidnei",
+    "score" : -1.2752069168687692
+  }, {
+    "feature" : "histori",
+    "score" : -0.06552018343159247
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "patient",
+    "score" : -0.13171108641921334
+  }, {
+    "feature" : "1",
+    "score" : -0.143793983903837
+  }, {
+    "feature" : "bilater",
+    "score" : -0.5855756722988992
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.42405431826135287
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.42063371468907534
+  }, {
+    "feature" : "1",
+    "score" : -0.3837701343347806
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "kidnei",
+    "score" : -0.7937941857486311
+  }, {
+    "feature" : "1",
+    "score" : -0.10704373419958302
+  }, {
+    "feature" : "bilater",
+    "score" : -0.0596707106742235
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "patient",
+    "score" : -0.05288968019625152
+  }, {
+    "feature" : "kidnei",
+    "score" : -0.8899104428878358
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "kidnei",
+    "score" : -0.9424149749932046
+  }, {
+    "feature" : "histori",
+    "score" : -0.2525936394754531
+  } ]
+}

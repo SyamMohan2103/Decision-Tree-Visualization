@@ -1,0 +1,101 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -1.0737327213117802
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "diseas",
+    "score" : -0.8641740247859397
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "airspac",
+    "score" : 0.11067586693557169
+  }, {
+    "feature" : "neumonia",
+    "score" : 0.5843236362565312
+  }, {
+    "feature" : "diseas",
+    "score" : -0.13862011360746435
+  }, {
+    "feature" : "worsen",
+    "score" : 0.8520022257293798
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -1.6365412512966504
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -1.7089065323362653
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -1.787081598672858
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "diseas",
+    "score" : -1.098748066746978
+  } ],
+  "c2_Class-4-753_0" : [ ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "diseas",
+    "score" : -0.8518718610730448
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "diseas",
+    "score" : -1.286710955230837
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "diseas",
+    "score" : -1.7251182802071898
+  } ],
+  "c1" : [ {
+    "feature" : "diseas",
+    "score" : -2.0705575569117918
+  } ],
+  "c2" : [ {
+    "feature" : "airspac",
+    "score" : -2.0928154783657114
+  } ],
+  "c3" : [ ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "diseas",
+    "score" : -1.2069243697306442
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "diseas",
+    "score" : -1.2610782756359844
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "neumonia",
+    "score" : 3.4210266868106514
+  }, {
+    "feature" : "diseas",
+    "score" : -1.3802217277844124
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -1.1657997146638142
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "diseas",
+    "score" : -1.0040716996509584
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "diseas",
+    "score" : -0.4823360679193643
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "neumonia",
+    "score" : -0.04693643896468077
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "neumonia",
+    "score" : -0.013032222558919998
+  } ]
+}

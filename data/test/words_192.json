@@ -1,0 +1,134 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "right",
+    "score" : -1.2475736575691831
+  } ],
+  "c1_Class-0-593_70" : [ ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.9662078369395375
+  }, {
+    "feature" : "mild",
+    "score" : -0.7573485136098481
+  } ],
+  "c1_Class-9-599_0" : [ ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.300177173423532
+  }, {
+    "feature" : "right",
+    "score" : -1.771509865393723
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 4.8205589479966555
+  }, {
+    "feature" : "right",
+    "score" : -0.6279221087188012
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "right",
+    "score" : -1.4353331026047835
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.7496021406056996
+  }, {
+    "feature" : "right",
+    "score" : -1.1106702749858595
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "hydronephrosi",
+    "score" : 6.089685531150484
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -0.7388861707290811
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.47573440566365216
+  }, {
+    "feature" : "right",
+    "score" : -1.7147590797293153
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -1.330668565194053
+  }, {
+    "feature" : "right",
+    "score" : -1.1224352614814952
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.02894448377374674
+  }, {
+    "feature" : "right",
+    "score" : -1.9134807564482033
+  } ],
+  "c1" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.634985071565456
+  }, {
+    "feature" : "right",
+    "score" : -1.9834551602511614
+  }, {
+    "feature" : "mild",
+    "score" : -0.07247959046679277
+  } ],
+  "c2" : [ {
+    "feature" : "right",
+    "score" : -0.6054344232532508
+  } ],
+  "c3" : [ {
+    "feature" : "right",
+    "score" : 1.0180293355738261
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.4681207314702687
+  }, {
+    "feature" : "right",
+    "score" : -0.2401743963747629
+  }, {
+    "feature" : "mild",
+    "score" : -1.1683201882448084
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.819988262792501
+  }, {
+    "feature" : "mild",
+    "score" : -0.3036121690833796
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ ],
+  "c3_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -2.1877978614291287
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "hydronephrosi",
+    "score" : -0.8481086365227057
+  }, {
+    "feature" : "right",
+    "score" : -0.34853769254412686
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -1.3085230706030684
+  }, {
+    "feature" : "mild",
+    "score" : -0.30702406873463745
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "right",
+    "score" : -1.0992743339547746
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "right",
+    "score" : -0.6399311699369502
+  } ]
+}

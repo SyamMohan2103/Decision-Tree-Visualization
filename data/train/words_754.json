@@ -1,0 +1,200 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -1.2742215658879321
+  }, {
+    "feature" : "normal",
+    "score" : -1.7042385115051553
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.6294940559148823
+  }, {
+    "feature" : "normal",
+    "score" : -1.2146750288072947
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -1.1534416754051435
+  }, {
+    "feature" : "normal",
+    "score" : -1.1201837442099498
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.9524327249522658
+  }, {
+    "feature" : "normal",
+    "score" : -1.4482375426599603
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.9345826243199562
+  }, {
+    "feature" : "normal",
+    "score" : -0.961400468968985
+  }, {
+    "feature" : "appear",
+    "score" : -0.05857791587613667
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.2065309031991067
+  }, {
+    "feature" : "normal",
+    "score" : -0.9045788017467061
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.438104671647455
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.04500735244830143
+  }, {
+    "feature" : "normal",
+    "score" : -1.0626513845366683
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -1.2211606457769113
+  }, {
+    "feature" : "normal",
+    "score" : -1.7906194061094352
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "exam",
+    "score" : -0.2683788110885225
+  }, {
+    "feature" : "normal",
+    "score" : -0.8379627745690181
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.1375370825443853
+  }, {
+    "feature" : "cystic",
+    "score" : -0.8287772283810916
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -1.3823805105499718
+  }, {
+    "feature" : "normal",
+    "score" : -0.388040148303902
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.880997611315957
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.0989174006682441
+  }, {
+    "feature" : "dilat",
+    "score" : -0.8795957186457903
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.015649944484159795
+  }, {
+    "feature" : "normal",
+    "score" : -1.1751924741139819
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.342029607409527
+  }, {
+    "feature" : "normal",
+    "score" : 0.21863356604152295
+  } ],
+  "c2" : [ {
+    "feature" : "fibrosi",
+    "score" : 2.1508071178223096
+  }, {
+    "feature" : "lung",
+    "score" : -0.8118266247770393
+  }, {
+    "feature" : "normal",
+    "score" : -0.575101205883441
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.566624579475226
+  }, {
+    "feature" : "appear",
+    "score" : -0.14116592414334397
+  }, {
+    "feature" : "cystic",
+    "score" : -0.5153499911373304
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.45610527837914594
+  }, {
+    "feature" : "normal",
+    "score" : -0.9069836105513673
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.5330723996707315
+  }, {
+    "feature" : "normal",
+    "score" : -0.854805781073318
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -1.207188044622641
+  }, {
+    "feature" : "normal",
+    "score" : -1.6740329199464474
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.3229191990261206
+  }, {
+    "feature" : "normal",
+    "score" : -1.4058345468203557
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.36756877790139647
+  }, {
+    "feature" : "normal",
+    "score" : -0.628468527285626
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.8171073470105104
+  }, {
+    "feature" : "normal",
+    "score" : -1.1653738473152764
+  }, {
+    "feature" : "appear",
+    "score" : -0.027605086778215524
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "fibrosi",
+    "score" : -0.660754213268022
+  }, {
+    "feature" : "normal",
+    "score" : -0.949458478566623
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "lung",
+    "score" : -0.5583851642825075
+  }, {
+    "feature" : "normal",
+    "score" : -0.7834059520048133
+  }, {
+    "feature" : "appear",
+    "score" : -0.18833302041010092
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.25031212353602894
+  }, {
+    "feature" : "normal",
+    "score" : -0.9249054017422229
+  } ]
+}

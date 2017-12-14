@@ -1,0 +1,188 @@
+{
+  "c1_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -1.2742215658879321
+  }, {
+    "feature" : "normal",
+    "score" : -1.7042385115051553
+  } ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "normal",
+    "score" : -1.2146750288072947
+  }, {
+    "feature" : "ough",
+    "score" : -0.6362394135738202
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -1.1534416754051435
+  }, {
+    "feature" : "normal",
+    "score" : -1.1201837442099498
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "normal",
+    "score" : -1.4482375426599603
+  }, {
+    "feature" : "ough",
+    "score" : -0.5377410172682492
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "lung",
+    "score" : -0.9345826243199562
+  }, {
+    "feature" : "normal",
+    "score" : -0.961400468968985
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.2065309031991067
+  }, {
+    "feature" : "normal",
+    "score" : -0.9045788017467061
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.438104671647455
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "lung",
+    "score" : -0.04500735244830143
+  }, {
+    "feature" : "normal",
+    "score" : -1.0626513845366683
+  } ],
+  "c1_Class-41-591" : [ {
+    "feature" : "lung",
+    "score" : -1.2211606457769113
+  }, {
+    "feature" : "normal",
+    "score" : -1.7906194061094352
+  } ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.8379627745690181
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "normal",
+    "score" : -1.1375370825443853
+  }, {
+    "feature" : "ough",
+    "score" : -0.6451837680554349
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.388040148303902
+  }, {
+    "feature" : "ough",
+    "score" : 1.8462359299880045
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "normal",
+    "score" : -0.880997611315957
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "lung",
+    "score" : -0.0989174006682441
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -0.015649944484159795
+  }, {
+    "feature" : "normal",
+    "score" : -1.1751924741139819
+  } ],
+  "c1" : [ {
+    "feature" : "lung",
+    "score" : 1.342029607409527
+  }, {
+    "feature" : "normal",
+    "score" : 0.21863356604152295
+  } ],
+  "c2" : [ {
+    "feature" : "lung",
+    "score" : -0.8118266247770393
+  }, {
+    "feature" : "normal",
+    "score" : -0.575101205883441
+  }, {
+    "feature" : "ough",
+    "score" : 3.141773430835717
+  } ],
+  "c3" : [ {
+    "feature" : "normal",
+    "score" : -0.566624579475226
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "normal",
+    "score" : -0.9069836105513673
+  }, {
+    "feature" : "ough",
+    "score" : -0.590057757194698
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "normal",
+    "score" : -0.854805781073318
+  }, {
+    "feature" : "ough",
+    "score" : -0.596793750480316
+  } ],
+  "c1_Class-24-596_54" : [ {
+    "feature" : "lung",
+    "score" : -1.207188044622641
+  }, {
+    "feature" : "normal",
+    "score" : -1.6740329199464474
+  } ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "lung",
+    "score" : -0.3229191990261206
+  }, {
+    "feature" : "normal",
+    "score" : -1.4058345468203557
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.36756877790139647
+  }, {
+    "feature" : "normal",
+    "score" : -0.628468527285626
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "normal",
+    "score" : -1.1653738473152764
+  }, {
+    "feature" : "ough",
+    "score" : -0.6573007084065976
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "normal",
+    "score" : -0.949458478566623
+  }, {
+    "feature" : "ough",
+    "score" : -1.0404712142736159
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "cardiac",
+    "score" : 0.4367969369159698
+  }, {
+    "feature" : "lung",
+    "score" : -0.5583851642825075
+  }, {
+    "feature" : "normal",
+    "score" : -0.7834059520048133
+  }, {
+    "feature" : "ough",
+    "score" : 1.7739047602201883
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "lung",
+    "score" : -0.25031212353602894
+  }, {
+    "feature" : "clear",
+    "score" : -0.48637411633516336
+  }, {
+    "feature" : "normal",
+    "score" : -0.9249054017422229
+  } ]
+}

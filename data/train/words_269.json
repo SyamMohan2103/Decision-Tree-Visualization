@@ -1,0 +1,191 @@
+{
+  "c1_Class-36-788_30" : [ ],
+  "c2_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.5964282282161388
+  } ],
+  "c1_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.0012393590339620536
+  } ],
+  "c2_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -0.690845270538124
+  } ],
+  "c1_Class-9-599_0" : [ {
+    "feature" : "chest",
+    "score" : -0.47497179620938307
+  } ],
+  "c3_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -1.3903591214283333
+  }, {
+    "feature" : "chest",
+    "score" : -0.6213226492801958
+  }, {
+    "feature" : "pain",
+    "score" : -0.5413119085231233
+  } ],
+  "c3_Class-41-591" : [ {
+    "feature" : "old",
+    "score" : -0.7072690679857335
+  }, {
+    "feature" : "year",
+    "score" : -0.006336968753226197
+  }, {
+    "feature" : "chest",
+    "score" : -0.5999790411826964
+  }, {
+    "feature" : "pain",
+    "score" : -0.7486308183432252
+  } ],
+  "c3_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -1.0305646260016506
+  }, {
+    "feature" : "find",
+    "score" : -0.4576591239854852
+  }, {
+    "feature" : "chest",
+    "score" : -0.64597965686015
+  }, {
+    "feature" : "pain",
+    "score" : -0.3741222245035849
+  } ],
+  "c1_Class-41-591" : [ ],
+  "c3_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.5992706997847675
+  }, {
+    "feature" : "find",
+    "score" : -0.03300732152834095
+  }, {
+    "feature" : "year",
+    "score" : -0.02231218786413854
+  }, {
+    "feature" : "chest",
+    "score" : -0.7755203558925273
+  }, {
+    "feature" : "pain",
+    "score" : -0.4127842586064551
+  } ],
+  "c2_Class-41-591" : [ {
+    "feature" : "year",
+    "score" : -0.8586377685910843
+  } ],
+  "c2_Class-4-753_0" : [ {
+    "feature" : "year",
+    "score" : -0.254616051809853
+  } ],
+  "c3_Class-4-753_0" : [ {
+    "feature" : "old",
+    "score" : -0.30417807054812673
+  }, {
+    "feature" : "chest",
+    "score" : -0.7448743193755568
+  }, {
+    "feature" : "pain",
+    "score" : -0.30030424191947647
+  } ],
+  "c3_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -0.8547459009960866
+  }, {
+    "feature" : "chest",
+    "score" : -1.220702792040503
+  }, {
+    "feature" : "pain",
+    "score" : -0.6893992749492306
+  } ],
+  "c3_Class-24-596_54" : [ {
+    "feature" : "old",
+    "score" : -1.1210741434228337
+  }, {
+    "feature" : "chest",
+    "score" : -0.6395610835147258
+  }, {
+    "feature" : "pain",
+    "score" : -0.30838518176971896
+  } ],
+  "c1" : [ {
+    "feature" : "old",
+    "score" : -2.1710770208464414
+  }, {
+    "feature" : "year",
+    "score" : -0.007895160158878473
+  }, {
+    "feature" : "chest",
+    "score" : -0.07894907405536118
+  }, {
+    "feature" : "pain",
+    "score" : -1.147758443795235
+  } ],
+  "c2" : [ {
+    "feature" : "find",
+    "score" : -0.3839615079240388
+  }, {
+    "feature" : "chest",
+    "score" : -1.3385293861799592
+  } ],
+  "c3" : [ {
+    "feature" : "find",
+    "score" : 0.5170543883424674
+  }, {
+    "feature" : "pain",
+    "score" : 2.7655437558845466
+  } ],
+  "c2_Class-0-593_70" : [ {
+    "feature" : "old",
+    "score" : -1.0629585799506664
+  }, {
+    "feature" : "year",
+    "score" : -0.478760284452174
+  } ],
+  "c2_Class-9-599_0" : [ {
+    "feature" : "old",
+    "score" : -0.04488101539740623
+  }, {
+    "feature" : "year",
+    "score" : -0.15488802348893205
+  }, {
+    "feature" : "chest",
+    "score" : -0.11057211355571606
+  } ],
+  "c1_Class-24-596_54" : [ ],
+  "c1_Class-31-780_6" : [ {
+    "feature" : "old",
+    "score" : -1.0518377481348415
+  } ],
+  "c3_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -0.665518841406873
+  }, {
+    "feature" : "year",
+    "score" : -0.19816332430993774
+  }, {
+    "feature" : "chest",
+    "score" : -0.49018328990728854
+  }, {
+    "feature" : "pain",
+    "score" : -0.22170516375851124
+  } ],
+  "c2_Class-36-788_30" : [ {
+    "feature" : "old",
+    "score" : -1.4580134939218665
+  }, {
+    "feature" : "year",
+    "score" : -0.2639274455110981
+  } ],
+  "c2_Class-32-486" : [ {
+    "feature" : "old",
+    "score" : -1.8358924157303265
+  } ],
+  "c1_Class-4-753_0" : [ {
+    "feature" : "chest",
+    "score" : -0.14155170394804042
+  } ],
+  "c1_Class-32-486" : [ {
+    "feature" : "year",
+    "score" : -0.14688953401873772
+  } ]
+}

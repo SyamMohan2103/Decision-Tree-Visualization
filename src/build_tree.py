@@ -89,7 +89,7 @@ def createTrainingSet(inputFile):
                 if len(split_f) > 1:
                     feature_name = split_f[0]
                     if feature_name == 'ough':
-                    features.add(feature_name)
+                        features.add(feature_name)
         features = list(features)
         tree_training_set = []
         train.seek(0)

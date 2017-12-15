@@ -167,10 +167,3 @@ function drawBars(trainTest, dataPoint) {
 function make_y_gridlines() {
   return d3.axisLeft(y).ticks(2)
 }
-
-$(document).ready(function() {
-  $('#tree_list').change(function() {
-    var dataPoint = $(this).val();
-    console.log(dataPoint);
-  })
-});

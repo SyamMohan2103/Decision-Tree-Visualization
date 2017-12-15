@@ -2,7 +2,7 @@ var svg = d3.select("#nodelink"),
   width = +svg.attr("width"),
   height = +svg.attr("height"),
   radius = 5
-  clickedNode = null;
+  clickedSample = null;
 
 function calcRadius(d) {
   switch (d.group) {
@@ -14,17 +14,11 @@ function calcRadius(d) {
 }
 
 function highlightNode(id) {
-  // console.log(id);
-  // svg.selectAll("circle.node").transition().attr("stroke", function(d) {
-  //   return (d.id === id) ? "#000000" : "#fff";
-  // })
-  // .attr("stroke-width", function(d) {
-  //   return (d.id === id) ? "3px" : "1.5px";
-  // })
-  // .attr("r", function(d) {
-  //   return (d.id === id) ? 6 : this.getAttribute("r");
-  // });
-  clickedNode = id;
+  clickedSample = id;
+}
+
+function unHighlightNode() {
+  clickedSample = 10000;
 }
 
 var simulation = d3.forceSimulation().force("link", d3.forceLink().id(function(d) {
@@ -40,7 +34,7 @@ d3.json("data/nodelink/Class-4-753_0.json", function(error, graph) {
   }).attr("stroke", "#999");
 
   var node = svg.append("g").attr("class", "nodes").selectAll("circle").data(graph.nodes).enter().append("circle").attr("class", "node").attr("id", function(d) {
-    return d.id;
+    return "node-" + d.id;
   }).attr("stroke", "#fff")
     .attr("stroke-width", "1.5px")
     .attr("r", calcRadius)
@@ -60,25 +54,27 @@ d3.json("data/nodelink/Class-4-753_0.json", function(error, graph) {
   svg.selectAll("circle").on("click", function(d) {
     if (d.group === 2)
       return;
+
+    var notClicked = (this.getAttribute("r") != 6);
     var clickedNode = this;
     d3.selectAll("circle.node").transition().attr("stroke", function() {
-      return (this === clickedNode) ? "#000000" : "#fff";
+      return (notClicked && this === clickedNode) ? "#000000" : "#fff";
     })
     .attr("stroke-width", function() {
-      return (this === clickedNode) ? "3px" : "1.5px";
+      return (notClicked && this === clickedNode) ? "3px" : "1.5px";
     })
     .attr("r", function() {
-      return (this === clickedNode) ? 6 : this.getAttribute("r");
+      return (notClicked && this === clickedNode) ? 6 : calcRadius(d);
     });
     link.attr("stroke-width", function(l) {
-      if (d.id == l.source.id) {
+      if (notClicked && d.id == l.source.id) {
         return 5;
       } else {
         return 0.1;
       }
     })
     .attr("stroke", function(l) {
-      if (d.id == l.source.id) {
+      if (notClicked && d.id == l.source.id) {
         return "#31a354";
       } else {
         return "#999";
@@ -116,13 +112,36 @@ d3.json("data/nodelink/Class-4-753_0.json", function(error, graph) {
     }).attr("cy", function(d) {
       return d.y = Math.max(radius, Math.min(height - radius, d.y));
     });
+  }
 
-    if (clickedNode) {
-      node.attr("stroke", function(d) {
-        // console.log(d);
-        return (d.id === clickedNode) ? "#000000" : "#fff";
+  setInterval(function() { updateHighlights(); }, 10);
+
+  function updateHighlights() {
+    if (clickedSample) {
+      node.transition().attr("stroke", function(d) {
+        return (d.id === clickedSample) ? "#000000" : "#fff";
+      })
+      .attr("stroke-width", function(d) {
+        return (d.id === clickedSample) ? "3px" : "1.5px";
+      })
+      .attr("r", function(d) {
+        return (d.id === clickedSample) ? 6 : this.getAttribute("r");
       });
-      clickedNode = null;
+      link.attr("stroke-width", function(l) {
+        if (clickedSample == l.source.id) {
+          return 5;
+        } else {
+          return 0.1;
+        }
+      })
+      .attr("stroke", function(l) {
+        if (clickedSample == l.source.id) {
+          return "#31a354";
+        } else {
+          return "#999";
+        }
+      });
+      clickedSample = null;
     }
   }
 });

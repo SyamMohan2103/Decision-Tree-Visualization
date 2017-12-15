@@ -115,6 +115,20 @@
       width: 1500px;
       margin: auto;
     }
+
+    .highlight-circle {
+      stroke: #31a354;
+      stroke-width: 5px;
+      visibility: visible;
+      fill: none;
+    }
+
+    .highlight-path {
+      stroke: #31a354;
+      visibility: visible;
+      fill: none;
+    }
+
   </style>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -164,38 +178,76 @@
         type = target.getAttribute("id"),
         cL = target.getAttribute("class");
       if (cL == "node") {
+        type = parseInt(type.split("-")[1]);
         var nodeNum = type;
         var trainTest = "train";
-        if (type > 782) {
+        if (type > 781) {
           trainTest = "test";
           type -= 782
         }
-        console.log(document.querySelectorAll("circle#" + trainTest + "#\\" + type));
+        var circleID = "Class-4-753_0-" + trainTest + "-" + type;
+        var circle = document.getElementById(circleID);
+        if (circle && circle.classList.contains("highlight-circle")) {
+          circle.classList.remove("highlight-circle");
+        } else if (circle) {
+          circle.classList.add("highlight-circle");
+        }
+        var pathID = "path-Class-4-753_0-" + trainTest + "-" + type;
+        var path = document.getElementById(pathID);
+        var highlightedPaths = document.getElementsByClassName("highlight-path");
+        var notClicked = path && !path.classList.contains("highlight-path");
+        Array.prototype.forEach.call(highlightedPaths, function(hPath) {
+          hPath.classList.remove("highlight-path");
+          hPath.classList.add("sample-path");
+        });
+        if (path && path.classList.contains("highlight-path")) {
+          path.classList.remove("highlight-path");
+          path.classList.add("sample-path")
+        } else if (path && notClicked) {
+          path.classList.remove("sample-path");
+          path.classList.add("highlight-path");
+        }
         loadData(trainTest, type);
         drawBars(trainTest, type);
-        // console.log(document.body.querySelectorAll("line." + nodeNum));
       } else if (name == "circle") {
-        console.log(target);
-        var trainTest = target.getAttribute("id").split(" ")[1];
-        var dataPoint = target.getAttribute("id").split(" ")[2];
-        highlightNode(dataPoint);
+        var atts = type.split("-");
+        var trainTest = atts[atts.length - 2];
+        var dataPoint = parseInt(atts[atts.length - 1]);
+        var nodeNum = (trainTest == "train") ? dataPoint : dataPoint + 782;
+
+        var highlightedNodes = document.getElementsByClassName("highlight-circle");
+        Array.prototype.forEach.call(highlightedNodes, function(node) {
+          if (node != target) {
+            node.classList.remove("highlight-circle");
+          }
+        })
+        if (target.classList.contains("highlight-circle")) {
+          target.classList.remove("highlight-circle");
+          unHighlightNode();
+        }
+        else {
+          target.classList.add("highlight-circle");
+          highlightNode(nodeNum);
+        }
+        var highlightedPaths = document.getElementsByClassName("highlight-path");
+        Array.prototype.forEach.call(highlightedPaths, function(path) {
+          if (path.getAttribute("id") != "path-" + type) {
+            path.classList.remove("highlight-path");
+            path.classList.add("sample-path");
+          }
+        });
+        var targetPath = document.getElementById("path-" + type);
+        if (targetPath.classList.contains("highlight-path")) {
+          targetPath.classList.remove("highlight-path");
+          targetPath.classList.add("sample-path");
+        }
+        else {
+          targetPath.classList.remove("sample-path");
+          targetPath.classList.add("highlight-path");
+        }
         loadData(trainTest, dataPoint);
         drawBars(trainTest, dataPoint);
-        // console.log(document.getElementById("path-" + dataPoint));
       }
-      // } else if (name == "rect" && type) {
-      //   console.log(type);
-      //   var vis = document.querySelector('.vis'),
-      //     target = document.getElementById(type);
-      //   if (vis !== null) {
-      //     vis.classList.remove('vis')
-      //     vis.classList.add('inv');
-      //   }
-      //   if (target !== null ) {
-      //     target.classList.remove('inv');
-      //     target.classList.add('vis');
-      //   }
-      // }
     }, false);
   </script>
 </body>

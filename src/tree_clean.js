@@ -49,7 +49,7 @@ export function cleanRawJSONTree(raw) {
 		if (node.children)
 			node.children = node.children.map(c => Number(c.id));
 		if (node.parent)
-			node.parent = node.parent.id;
+			node.parent = parseInt(node.parent.id);
 		return node;
 	};
 

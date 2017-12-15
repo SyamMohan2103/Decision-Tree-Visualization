@@ -17,8 +17,8 @@ class Sample extends React.Component {
 
 	render() {
 	    return <g>
-	      <circle cx={this.state.p.x} cy={this.state.p.y} ref="circle" r={2.5} className={"sample " + this.state.targetclass + " " + this.state.correctLeaf} id={this.state.name + " " + this.state.num}/>
-	      <path d={this.state.path} className={"sample-path " + this.state.targetclass} ref="path"/>;
+	      <circle cx={this.state.p.x} cy={this.state.p.y} ref="circle" r={2.5} className={"sample " + this.state.targetclass + " " + this.state.correctLeaf} id={this.state.name + "-" + this.state.num}/>
+	      <path d={this.state.path} className={"sample-path " + this.state.targetclass} ref="path" id={"path-" + this.state.name + "-" + this.state.num}/>;
 	    </g>;
 	  }
 

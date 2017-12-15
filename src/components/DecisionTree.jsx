@@ -137,21 +137,21 @@ class DecisionTree extends React.Component {
 				  <g className="sample-sets">
 					<SampleSet samples={trainSamples.samples['randomSubset']}
 							   progresses={sampleProgressRandom}
-							   name={className + " train"} />
+							   name={className + "-train"} />
 				 	<SampleSet samples={testSamples.samples['randomSubset']}
 							   progresses={testProgressRandom}
-							   name={className + " test"} />
+							   name={className + "-test"} />
 				  </g>
 				</svg>
 			  </div>
 			  <div id="buttons">
-				<button id={"train " + this.props.class}>
+				<button id={"train_" + this.props.class}>
 				  {!this.state.animatingTrain ? 'Start Training' : 'Stop Training'}
 				</button>
-				<button id={"test " + this.props.class}>
+				<button id={"test_" + this.props.class}>
 				  {!this.state.animatingTest ? 'Start Testing' : 'Stop Testing'}
 				</button>
-				<button id={"reset " + this.props.class}>Reset</button>
+				<button id={"reset_" + this.props.class}>Reset</button>
 			  </div>
 			</div>
 		);
@@ -206,11 +206,11 @@ class DecisionTree extends React.Component {
 	}
 
 	componentDidMount() {
-		document.getElementById('train ' + this.props.class)
+		document.getElementById('train_' + this.props.class)
 			.addEventListener('click', this.startstopTrain);
-		document.getElementById('test ' + this.props.class)
+		document.getElementById('test_' + this.props.class)
 			.addEventListener('click', this.startstopTest);
-		document.getElementById('reset ' + this.props.class)
+		document.getElementById('reset_' + this.props.class)
 			.addEventListener('mousedown', this.reset);
 	}
 }

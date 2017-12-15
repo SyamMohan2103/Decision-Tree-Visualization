@@ -129,6 +129,11 @@
       fill: none;
     }
 
+    .nodes text {
+      pointer-events: none;
+      font: 10px sans-serif;
+    }
+
   </style>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -202,7 +207,7 @@
         });
         if (path && path.classList.contains("highlight-path")) {
           path.classList.remove("highlight-path");
-          path.classList.add("sample-path")
+          path.classList.add("sample-path");
         } else if (path && notClicked) {
           path.classList.remove("sample-path");
           path.classList.add("highlight-path");
@@ -247,6 +252,15 @@
         }
         loadData(trainTest, dataPoint);
         drawBars(trainTest, dataPoint);
+      } else {
+        unHighlightNode();
+        Array.prototype.forEach.call(document.getElementsByClassName("highlight-circle"), function(node) {
+          node.classList.remove("highlight-circle");
+        });
+        Array.prototype.forEach.call(document.getElementsByClassName("highlight-path"), function(path) {
+          path.classList.remove("highlight-path");
+          path.classList.add("sample-path");
+        });
       }
     }, false);
   </script>

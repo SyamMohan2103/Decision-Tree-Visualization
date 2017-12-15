@@ -6,7 +6,7 @@ import { makeState, makeSelector } from '../state.js';
 
 import SampleSet from './SampleSet.jsx';
 import { TreePathList } from './TreePath.jsx';
-import { TreeLinkList } from './TreeLink.jsx';
+import { TreeLinkList, TreeLabelList } from './TreeLink.jsx';
 import { TreeLeafList } from './TreeLeaf.jsx';
 import ClassifierResults from './ClassifierResults.jsx';
 
@@ -112,11 +112,13 @@ class DecisionTree extends React.Component {
 				<svg width={width} height={height}>
 				  <g className="decision-tree">
 					<TreeLinkList links={_.values(tree.links)} tree={tree}
-								  state={state} selector={selector} />
+									state={state} selector={selector} />
 					<TreeLeafList leaves={_.values(tree.leaves)} tree={tree}
 								  state={state} selector={selector} />
 					<TreePathList paths={pixelPaths}
 								  state={state} />
+					<TreeLabelList links={_.values(tree.links)} tree={tree}
+									state={state} selector={selector} />
 				  </g>
 				  <g className="tree-results">
 					<ClassifierResults

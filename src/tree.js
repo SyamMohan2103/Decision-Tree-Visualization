@@ -25,7 +25,7 @@ export function makeDecisionTree(rawTree) {
 
 	let links = _.flatMap(_.values(nodes), function childLinks(node) {
 		return _.map(node.children,
-		             childId => makeLink(node.id, childId));
+		             childId => makeLink(node, childId));
 	});
 
 	let applySamples = function apply(samples) {
@@ -41,8 +41,8 @@ export function makeDecisionTree(rawTree) {
 	return api;
 }
 
-function makeLink(srcId, dstId) {
-	return { source : srcId, target : dstId };
+function makeLink(src, dstId) {
+	return { source : src.id, target : dstId, label : src.split_key };
 }
 
 function buildTree(nodes, id) {

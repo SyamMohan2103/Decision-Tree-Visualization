@@ -111,16 +111,6 @@
       border: 1px solid #bbb;
     }
 
-    .links line {
-      stroke: #999;
-      stroke-opacity: 0.6;
-    }
-
-    .nodes circle {
-      stroke: #fff;
-      stroke-width: 1.5px;
-    }
-
     #container {
       width: 1500px;
       margin: auto;
@@ -174,20 +164,24 @@
         type = target.getAttribute("id"),
         cL = target.getAttribute("class");
       if (cL == "node") {
+        var nodeNum = type;
         var trainTest = "train";
-        if (type > 781) {
+        if (type > 782) {
           trainTest = "test";
-          type -= 781
+          type -= 782
         }
+        console.log(document.querySelectorAll("circle#" + trainTest + "#\\" + type));
         loadData(trainTest, type);
         drawBars(trainTest, type);
-        console.log(document.getElementsByClassName("tree-path"));
+        // console.log(document.body.querySelectorAll("line." + nodeNum));
       } else if (name == "circle") {
+        console.log(target);
         var trainTest = target.getAttribute("id").split(" ")[1];
         var dataPoint = target.getAttribute("id").split(" ")[2];
+        highlightNode(dataPoint);
         loadData(trainTest, dataPoint);
         drawBars(trainTest, dataPoint);
-        console.log(document.getElementById("path-" + dataPoint));
+        // console.log(document.getElementById("path-" + dataPoint));
       }
       // } else if (name == "rect" && type) {
       //   console.log(type);

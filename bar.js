@@ -17,7 +17,7 @@ var y = d3.scaleLinear().rangeRound([barHeight, 0]);
 
 var z = d3.scaleOrdinal().range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#ff0000"]);
 
-var zAlt = d3.scaleOrdinal().range(d3.schemeCategory20c.slice(8, 12).reverse())
+var zAlt = d3.scaleOrdinal().range(d3.schemeCategory20c.slice(8, 12).reverse());
 
 var pis = d3.map();
 

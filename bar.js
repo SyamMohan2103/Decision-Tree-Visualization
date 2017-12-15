@@ -82,41 +82,84 @@ function drawBars(trainTest, dataPoint) {
     }).attr("fill", function(d) {
       return pickColor(d.key, d.value[1]);
     }).on("mouseover", function(d) {
-      d3.select(this).style("stroke-width", 3).attr("stroke", "blue")
+      d3.select(this).style("stroke-width", 3).attr("stroke", "blue");
       dispatch.call("rectSelected", null, d.key + "_" + d.value[1]);
     }).on("mouseout", function(d) {
       d3.select(this).transition().style("stroke-width", 0).attr("stroke", "none");
       dispatch.call("rectDeselected", null, d);
     });
 
-    g.append("g").attr("class", "axis").attr("transform", "translate(0," + barHeight + ")").attr("class", "bar").style("font-size", "8px").call(d3.axisBottom(x0));
+    g.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + barHeight + ")")
+      .attr("class", "bar")
+      .style("font-size", "8px")
+      .call(d3.axisBottom(x0));
 
-    g.append("g").attr("class", "axis").style("font-size", "10px").call(d3.axisLeft(y).ticks(null, "s")).append("text").attr("x", x0(data[parseInt(data.length / 2.5)].label)).attr("y", y(y.ticks().pop()) - 25).attr("class", "bar").attr("dy", "0.32em").attr("font-size", 20).attr("fill", "#000").attr("font-weight", "bold").attr("text-anchor", "start").text("CBM Predictions");
+    g.append("g")
+      .attr("class", "axis")
+      .style("font-size", "10px")
+      .call(d3.axisLeft(y).ticks(null, "s"))
+      .append("text")
+        .attr("x", x0(data[parseInt(data.length / 2.5)].label))
+        .attr("y", y(y.ticks().pop()) - 25)
+        .attr("class", "bar")
+        .attr("dy", "0.32em")
+        .attr("font-size", 20)
+        .attr("fill", "#000")
+        .attr("font-weight", "bold")
+        .attr("text-anchor", "start")
+        .text("CBM Predictions");
 
-    g.append("g").attr("class", "grid").call(make_y_gridlines().tickSize(-barWidth).tickFormat(""));
+    g.append("g")
+      .attr("class", "grid")
+      .call(make_y_gridlines()
+      .tickSize(-barWidth).tickFormat(""));
 
-    var legend = g.append("g").attr("font-family", "sans-serif").attr("font-size", 10).attr("class", "bar").attr("text-anchor", "end").selectAll("g").data(keys.slice().reverse()).enter().append("g").attr("transform", function(d, i) {
-      return "translate(0," + i * 20 + ")";
-    });
+    var legend = g.append("g")
+      .attr("font-family", "sans-serif")
+      .attr("font-size", 10)
+      .attr("class", "bar")
+      .attr("text-anchor", "end")
+      .selectAll("g")
+      .data(keys.slice().reverse())
+        .enter()
+        .append("g")
+        .attr("transform", function(d, i) {
+          return "translate(0," + i * 20 + ")";
+        });
 
-    legend.append("rect").attr("x", barWidth - 75).attr("width", function(d, i) {
-      return 75 * pis.get(d);
-    }).attr("height", 19).attr("fill", z).attr("class", "bar").on("mouseover", function(d) {
-      if (d == "marginal")
-        return;
-      d3.select(this).style("stroke-width", 5).attr("stroke", "blue")
-      dispatch.call("rectSelected", null, d);
-    }).on("mouseout", function(d) {
-      d3.select(this).transition().style("stroke-width", 0).attr("stroke", "none");
-      dispatch.call("rectDeselected", null, d);
-    });
+    legend.append("rect")
+      .attr("x", barWidth - 75)
+      .attr("width", function(d, i) {
+        return 75 * pis.get(d);
+      }).attr("height", 19)
+      .attr("fill", z)
+      .attr("class", "bar")
+      .on("mouseover", function(d) {
+        if (d == "marginal")
+          return;
+        d3.select(this).style("stroke-width", 5).attr("stroke", "blue");
+        dispatch.call("rectSelected", null, d);
+      }).on("mouseout", function(d) {
+        d3.select(this)
+          .transition()
+          .style("stroke-width", 0)
+          .attr("stroke", "none");
+        dispatch.call("rectDeselected", null, d);
+      });
 
-    legend.append("text").attr("class", "bar").attr("x", barWidth - 80).attr("y", 9.5).attr("dy", "0.32em").text(function(d) {
-      if (d == "marginal") {
-        return d;
-      }
-      return d + "(" + pis.get(d).toFixed(2) + ")";
-    });
+    legend.append("text")
+      .attr("class", "bar")
+      .attr("x", barWidth - 80)
+      .attr("y", 9.5)
+      .attr("dy", "0.32em")
+      .text(function(d) {
+        if (d == "marginal") {
+          return d;
+        }
+        return d + "(" + pis.get(d).toFixed(2) + ")";
+      });
   });
 }
 

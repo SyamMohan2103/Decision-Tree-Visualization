@@ -180,6 +180,28 @@
       font-size: 14px;
     }
 
+    .legend {
+      list-style: none;
+      font-size: 14px;
+    }
+    .legend li {
+      float: left;
+      margin-right: 10px;
+    }
+    .legend span {
+      border: 1px solid #ccc;
+      float: left; width: 12px;
+      height: 12px;
+      margin: 2px;
+    }
+
+    .legend .target {
+      background-color: #98abc5;
+    }
+    .legend .nontarget {
+      background-color: #ff8c00;
+    }
+
   </style>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -221,6 +243,12 @@
   </div>
 
   <div id="container">
+    <div style="padding: 20px">
+      <ul class="legend">
+        <li><span class="target"></span> not diseased</li>
+        <li><span class="nontarget"></span> diseased</li>
+    </ul>
+    </div>
     <!-- <div id="Class-0-593_70" class="main"></div> -->
     <div id="Class-4-753_0" class="main" style="float:left"></div>
     <!-- <div id="Class-9-599_0" class="main"></div> -->
@@ -236,7 +264,7 @@
     </div>
   </div>
 
-  <svg id="nodelink" width="800" height="500"></svg>
+  <svg id="nodelink" width="800" height="450"></svg>
 
   <!-- <script src="trees/Class-0-593_70.js"></script> -->
   <script src="trees/Class-4-753_0.js"></script>

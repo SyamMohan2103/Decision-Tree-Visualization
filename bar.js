@@ -101,7 +101,7 @@ function drawBars(trainTest, dataPoint) {
       .style("font-size", "10px")
       .call(d3.axisLeft(y).ticks(null, "s"))
       .append("text")
-        .attr("x", x0(data[parseInt(data.length / 2.5)].label))
+        .attr("x", x0(data[parseInt(data.length / 3)].label))
         .attr("y", y(y.ticks().pop()) - 25)
         .attr("class", "bar")
         .attr("dy", "0.32em")
@@ -109,7 +109,7 @@ function drawBars(trainTest, dataPoint) {
         .attr("fill", "#000")
         .attr("font-weight", "bold")
         .attr("text-anchor", "start")
-        .text("CBM Predictions");
+        .text("CBM Predictions for patient " + dataPoint);
 
     g.append("g")
       .attr("class", "grid")

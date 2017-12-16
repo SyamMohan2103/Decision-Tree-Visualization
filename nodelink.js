@@ -106,10 +106,6 @@ d3.json("data/nodelink/Class-4-753_0.json", function(error, graph) {
     return d.id;
   });
 
-  // node.append("text")
-  //     .attr("dx", 12)
-  //     // .attr("dy", ".35em")
-  //     .text(function(d) { return d.id; } );
   var label = svg.selectAll("node-label")
                .data(graph.nodes)
                .enter()
@@ -155,6 +151,8 @@ d3.json("data/nodelink/Class-4-753_0.json", function(error, graph) {
         return (d.id === clickedSample) ? "#000000" : "#fff";
       })
       .attr("stroke-width", function(d) {
+        if (d.id === clickedSample) {
+        }
         return (d.id === clickedSample) ? "3px" : "1.5px";
       })
       .attr("r", function(d) {

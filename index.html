@@ -107,8 +107,8 @@
       font-size: 12px;
       margin: 0 5px;
       border-radius: 8px;
-      background-color: transparent;
       border: 1px solid #bbb;
+      cursor: pointer;
     }
 
     #container {
@@ -132,14 +132,94 @@
     .nodes text {
       pointer-events: none;
       font: 10px sans-serif;
+      font-weight: lighter;
+    }
+
+    .header{
+      margin-left: 40px;
+    }
+
+    #info{
+      font-weight: lighter;
+      font-size: 14px;
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      padding-top: 50px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.4);
+    }
+
+    .modal-content {
+      background-color: #fefefe;
+      margin: auto;
+      padding: 20px 20px;
+      border: 1px solid #888;
+      width: 60%;
+      font-weight: lighter;
+      line-height: 120%;
+      height: 80%;
+      overflow: scroll;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+    .modal-body {
+      font-size: 14px;
     }
 
   </style>
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.6/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
 </head>
 
 <body>
+  <div class="header">
+    <h1 id="title"> Visualizing Machine Learning </h1>
+    <p id="info">
+      Providing insight into the <a href="http://www.chengli.io/publications/li2016conditional.pdf" target="_blank">CBM model</a>
+      and it's classification of the <a href="http://www.uco.es/grupos/kdis/kdiswiki/index.php/Resources" target="_blank">medical dataset</a>.
+    </p>
+    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+      About this project
+    </button>
+  </div>
+  <div>
+    <h3 class="header">
+      Disease: Class-4-753_0
+    </h3>
+  </div>
+
+  <div class="modal fade" id="myModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <span class="close" data-dismiss="modal" style="float:right">&times;</span>
+        <div class="modal-header">
+          <h4 class="modal-title">About this project</h4>
+        </div>
+        <div class="modal-body">
+          This project explains a sophisticated machine learning model through simpler visualization techniques. We
+        </div>
+        <div class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>
+
   <div id="container">
     <!-- <div id="Class-0-593_70" class="main"></div> -->
     <div id="Class-4-753_0" class="main" style="float:left"></div>
@@ -190,6 +270,10 @@
           trainTest = "test";
           type -= 782
         }
+        var highlightedNodes = document.getElementsByClassName("highlight-circle");
+        Array.prototype.forEach.call(highlightedNodes, function(node) {
+          node.classList.remove("highlight-circle");
+        });
         var circleID = "Class-4-753_0-" + trainTest + "-" + type;
         var circle = document.getElementById(circleID);
         if (circle && circle.classList.contains("highlight-circle")) {
@@ -225,7 +309,7 @@
           if (node != target) {
             node.classList.remove("highlight-circle");
           }
-        })
+        });
         if (target.classList.contains("highlight-circle")) {
           target.classList.remove("highlight-circle");
           unHighlightNode();

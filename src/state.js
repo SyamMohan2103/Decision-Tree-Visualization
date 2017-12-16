@@ -19,7 +19,7 @@ const initialState = {
 			results_test:     { min: 0.75, max: 0.9  }
 		},
 		canvas: {
-		 	size:   { width: 600,
+		 	size:   { width: 800,
 			          height: 600 },
 			margin: { top: 10,
 			          bottom: 10,

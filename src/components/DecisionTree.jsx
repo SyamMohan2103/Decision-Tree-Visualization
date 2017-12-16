@@ -45,15 +45,11 @@ class DecisionTree extends React.Component {
 		      yTreeScale = selector.yTreeScale(state);
 		const { width, height } = selector.canvasSize(state);
 
-		const sampleProgressRandom = progressArray(this.state.progressTrain,
-											 trainSamples.samples['randomSubset'].length, 0.2);
-		const sampleProgressComplete = progressArray(this.state.progressTrain,
-											 trainSamples.samples['complete'].length, 0.2);
+		const sampleProgress = progressArray(this.state.progressTrain,
+												 trainSamples.samples.length, 0.2);
 
-	  const testProgressRandom = progressArray(this.state.progressTest,
-	 									  testSamples.samples['randomSubset'].length, 0.2);
-		const testProgressComplete = progressArray(this.state.progressTest,
-											 testSamples.samples['complete'].length, 0.2);
+		const testProgress = progressArray(this.state.progressTest,
+												 testSamples.samples.length, 0.2);
 
 		function nodesToPixels(nodePath, isTarget) {
 			function nodeToPoint(nodeId) {
@@ -81,28 +77,28 @@ class DecisionTree extends React.Component {
 		    "BOTTOM_RIGHT",
 		    "SKEW_RIGHT");
 
-		trainSamples.samples['randomSubsetTarget'].forEach((s, i) => {
-			var row = i % 5;
-			var col = i / 5;
+		trainSamples.byTarget['target'].forEach((s, i) => {
+			var row = i % 15;
+			var col = i / 15;
 			var result_p = placeTargets(row, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
-		trainSamples.samples['randomSubsetNontarget'].forEach((s, i) => {
-			var row = i % 5;
-			var col = i / 5;
+		trainSamples.byTarget['nontarget'].forEach((s, i) => {
+			var row = i % 15;
+			var col = i / 15;
 			var result_p = placeNonTargets(row, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
-		testSamples.samples['randomSubsetTarget'].forEach((s, i) => {
+		testSamples.byTarget['target'].forEach((s, i) => {
 			var row = i % 5;
 			var col = i / 5;
-			var result_p = placeTargets(row + 9.5, col);
+			var result_p = placeTargets(row + 19.5, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
-		testSamples.samples['randomSubsetNontarget'].forEach((s, i) => {
+		testSamples.byTarget['nontarget'].forEach((s, i) => {
 			var row = i % 5;
 			var col = i / 5;
-			var result_p = placeNonTargets(row + 9.5, col);
+			var result_p = placeNonTargets(row + 19.5, col);
 			s.path = [...pixelPaths[s.pathID], result_p];
 		});
 
@@ -125,23 +121,23 @@ class DecisionTree extends React.Component {
 					  width={width}
 					  x="0"
 					  y={yScale(state.ui.extent.results_training.max)}
-					  samples={trainSamples.samples['complete']}
-					  progress={sampleProgressComplete}
+					  samples={trainSamples.samples/*['complete']*/}
+					  progress={sampleProgress/*Complete*/}
 						name="Training" />
 					<ClassifierResults
 					  width={width}
 					  x="0"
-					  y={yScale(state.ui.extent.results_training.max) - 50}
-					  samples={testSamples.samples['complete']}
-					  progress={testProgressComplete}
+					  y={yScale(state.ui.extent.results_training.max) - 100}
+					  samples={testSamples.samples/*['complete']*/}
+					  progress={testProgress/*Complete*/}
 						name="Testing" />
 				  </g>
 				  <g className="sample-sets">
-					<SampleSet samples={trainSamples.samples['randomSubset']}
-							   progresses={sampleProgressRandom}
+					<SampleSet samples={trainSamples.samples/*['randomSubset']*/}
+							   progresses={sampleProgress/*Random*/}
 							   name={className + "-train"} />
-				 	<SampleSet samples={testSamples.samples['randomSubset']}
-							   progresses={testProgressRandom}
+				 	<SampleSet samples={testSamples.samples/*['randomSubset']*/}
+							   progresses={testProgress/*Random*/}
 							   name={className + "-test"} />
 				  </g>
 				</svg>

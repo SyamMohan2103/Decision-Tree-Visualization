@@ -158,11 +158,12 @@
     }
 
     .modal-content {
+      font-family: sans-serif;
       background-color: #fefefe;
       margin: auto;
       padding: 20px 20px;
       border: 1px solid #888;
-      width: 60%;
+      width: 50%;
       font-weight: lighter;
       line-height: 120%;
       height: 80%;
@@ -234,7 +235,21 @@
           <h4 class="modal-title">About this project</h4>
         </div>
         <div class="modal-body">
-          This project explains a sophisticated machine learning model through simpler visualization techniques. We
+          This project explains a sophisticated machine learning model through simpler visualization techniques. We utilize
+          D3.js and React to visualize these components.
+        </div>
+        <div class="modal-header">
+          <h4 class="modal-title">How to Explore the Data</h4>
+        </div>
+        <div class="modal-body">
+          Click "Start Training" to begin training the decision tree. Click "Start Testing" to see how well the tree fits the data set.
+          Then, click on any node below the tree to see it's features in the node-link visualization. <br /> <br />
+          This click will show the node's path through the decision tree, helping you understand what features the decision tree
+          considered when making a decision for that data point.
+          Clicking a node also shows that data point's raw output from the CBM model, showing the model's method for predicting
+          if a patient has a disease or not. <br /> <br />
+          All the visualizations are connected, so clicking on a node in the node-link will highlight it in the decision tree and show
+          that node's raw output from the CBM.
         </div>
         <div class="modal-footer">
         </div>

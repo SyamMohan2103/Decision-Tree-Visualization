@@ -213,13 +213,11 @@
 <body>
   <div class="header">
     <h1 id="title"> Visualizing Machine Learning </h1>
+    <button type="button" data-toggle="modal" data-target="#myModal" style="float:right; margin-right: 200px">Click here first!</button>
     <p id="info">
       Providing insight into the <a href="http://www.chengli.io/publications/li2016conditional.pdf" target="_blank">CBM model</a>
       and it's classification of the <a href="http://www.uco.es/grupos/kdis/kdiswiki/index.php/Resources" target="_blank">medical dataset</a>.
     </p>
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-      About this project
-    </button>
   </div>
   <div>
     <h3 class="header">
@@ -242,13 +240,17 @@
           <h4 class="modal-title">How to Explore the Data</h4>
         </div>
         <div class="modal-body">
-          Click "Start Training" to begin training the decision tree. Click "Start Testing" to see how well the tree fits the data set.
-          Then, click on any node below the tree to see it's features in the node-link visualization. <br /> <br />
-          This click will show the node's path through the decision tree, helping you understand what features the decision tree
-          considered when making a decision for that data point.
+          Click "Start Training" to begin training the decision tree. Click "Start Testing" to see how well the tree fits the data set. <br /> <br />
+          Click on any node below the tree to see it's symptoms in the node-link visualization. The closer a node is to a symptom,
+          the more important that symptom is in determining if that patient is sick. <br /> <br />
+          This click will also show the node's path through the decision tree. Notice which symptoms the path goes through before reaching
+          the bottom of the tree. This helps you understand what symptoms the machine learning model used to decide if the patient
+          is diseased or not. <br /> <br />
           Clicking a node also shows that data point's raw output from the CBM model, showing the model's method for predicting
-          if a patient has a disease or not. <br /> <br />
-          All the visualizations are connected, so clicking on a node in the node-link will highlight it in the decision tree and show
+          if a patient has a disease or not. Here, the height of each bar represents how likely each expert thinks the patient has the disease
+          labeled on the x-axis. Hovering over each bar shows what symptoms the experts considered when diagnosing the patient. The legend in the corner
+          shows the credibility of each expert, and marginal equalling the sum of their three credibilities<br /> <br />
+          All the visualizations are connected, so clicking on a node in the decision tree will also highlight it in the node-link, as well as show
           that node's raw output from the CBM.
         </div>
         <div class="modal-footer">

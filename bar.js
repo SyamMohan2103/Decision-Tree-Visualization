@@ -135,19 +135,19 @@ function drawBars(trainTest, dataPoint) {
         return 75 * pis.get(d);
       }).attr("height", 19)
       .attr("fill", z)
-      .attr("class", "bar")
-      .on("mouseover", function(d) {
-        if (d == "marginal")
-          return;
-        d3.select(this).style("stroke-width", 5).attr("stroke", "blue");
-        dispatch.call("rectSelected", null, d);
-      }).on("mouseout", function(d) {
-        d3.select(this)
-          .transition()
-          .style("stroke-width", 0)
-          .attr("stroke", "none");
-        dispatch.call("rectDeselected", null, d);
-      });
+      .attr("class", "bar");
+      // .on("mouseover", function(d) {
+      //   if (d == "marginal")
+      //     return;
+      //   d3.select(this).style("stroke-width", 5).attr("stroke", "blue");
+      //   dispatch.call("rectSelected", null, d);
+      // }).on("mouseout", function(d) {
+      //   d3.select(this)
+      //     .transition()
+      //     .style("stroke-width", 0)
+      //     .attr("stroke", "none");
+      //   dispatch.call("rectDeselected", null, d);
+      // });
 
     legend.append("text")
       .attr("class", "bar")

@@ -106,7 +106,7 @@
       padding: 10px 10px;
       font-size: 12px;
       margin: 0 5px;
-      border-radius: 8px;
+      border-radius: 20px;
       border: 1px solid #bbb;
       cursor: pointer;
     }
@@ -167,7 +167,6 @@
       font-weight: lighter;
       line-height: 120%;
       height: 80%;
-      overflow: scroll;
     }
 
     .close:hover,
@@ -212,8 +211,8 @@
 
 <body>
   <div class="header">
-    <h1 id="title"> Visualizing Machine Learning </h1>
-    <button type="button" data-toggle="modal" data-target="#myModal" style="float:right; margin-right: 200px">Click here first!</button>
+    <h1 id="title">Explaining Machine Learning through Visualization</h1>
+    <button type="button" data-toggle="modal" data-target="#myModal" style="float:right; margin-right: 1050px">Click here first!</button>
     <p id="info">
       Providing insight into the <a href="http://www.chengli.io/publications/li2016conditional.pdf" target="_blank">CBM model</a>
       and it's classification of the <a href="http://www.uco.es/grupos/kdis/kdiswiki/index.php/Resources" target="_blank">medical dataset</a>.
@@ -242,7 +241,7 @@
         <div class="modal-body">
           Click "Start Training" to begin training the decision tree. Click "Start Testing" to see how well the tree fits the data set. <br /> <br />
           Click on any node below the tree to see it's symptoms in the node-link visualization. The closer a node is to a symptom,
-          the more important that symptom is in determining if that patient is sick. <br /> <br />
+          the more important that symptom is in determining if that patient is sick.
           This click will also show the node's path through the decision tree. Notice which symptoms the path goes through before reaching
           the bottom of the tree. This helps you understand what symptoms the machine learning model used to decide if the patient
           is diseased or not. <br /> <br />
@@ -252,6 +251,13 @@
           shows the credibility of each expert, and marginal equalling the sum of their three credibilities<br /> <br />
           All the visualizations are connected, so clicking on a node in the decision tree will also highlight it in the node-link, as well as show
           that node's raw output from the CBM.
+        </div>
+        <div class="modal-header">
+          <h4 class="modal-title">Explanation of CBM</h4>
+        </div>
+        <div class="modal-body">
+          To understand how the CBM model makes decisions, see <a href="https://github.com/TaitaiLin/CBMGraph" target="_blank">this demo</a> and
+          follow the instructions in the README.
         </div>
         <div class="modal-footer">
         </div>

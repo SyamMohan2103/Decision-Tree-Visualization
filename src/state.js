@@ -20,7 +20,7 @@ const initialState = {
 		},
 		canvas: {
 		 	size:   { width: 800,
-			          height: 600 },
+			          height: 800 },
 			margin: { top: 10,
 			          bottom: 10,
 			          left: 10,
